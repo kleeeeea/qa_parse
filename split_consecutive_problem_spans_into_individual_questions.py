@@ -2,8 +2,8 @@ import csv
 import os
 import re
 
-questionspan_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/question_spans.csv'
-individual_question_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/individual_questions.csv'
+questionspan_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/question_spans.csv'
+individual_question_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/individual_questions.csv'
 individual_question_output_columns = [
     'question_number',
     'passage',

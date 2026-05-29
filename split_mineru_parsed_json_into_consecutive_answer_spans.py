@@ -7,9 +7,9 @@ from glob import glob
 from git_repos.parse_evaluation.split_consecutive_problem_spans_into_individual_questions import individual_question_output_csv
 from git_repos.parse_evaluation.split_mineru_parsed_md_into_consecutive_problem_spans import mineruparsed
 
-answerspan_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/answer_spans.csv'
+answerspan_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/answer_spans.csv'
 answerspan_output_columns = ['question_number', 'answer', 'original_page_screenshot_paths']
-original_page_screenshot_path_root = '/Users/l/klee_code/git_repos/parse_evaluation/splited'
+original_page_screenshot_path_root = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/splited'
 
 # A numbered answer line looks like "1. d. Only choice d ..." — i.e. starts with
 # "<digits>. " at the start of a string. The same regex matches both standalone

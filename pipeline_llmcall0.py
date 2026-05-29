@@ -33,7 +33,7 @@ def fmt_template(row: dict) -> str:
     return "\n".join(lines)
 
 
-prompts_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/prompts.csv'
+prompts_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/prompts.csv'
 # keep the original metadata columns — prompts.csv is a superset of the joined
 # CSV with the derived `id` and `prompt` fields added on top.
 prompts_output_columns = [

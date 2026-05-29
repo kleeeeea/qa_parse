@@ -5,7 +5,7 @@ import re
 from git_repos.parse_evaluation.split_consecutive_problem_spans_into_individual_questions import individual_question_output_csv
 from git_repos.parse_evaluation.split_mineru_parsed_md_into_consecutive_problem_spans import mineruparsed
 
-answerspan_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/answer_spans.csv'
+answerspan_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/answer_spans.csv'
 answerspan_output_columns = ['question_number', 'answer']
 
 # A numbered-answer line — e.g. "1. d. Only choice d ..." or "50. $\\frac{...}$".

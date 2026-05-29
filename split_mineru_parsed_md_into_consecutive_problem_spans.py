@@ -1,15 +1,11 @@
 import csv
-import json
 import os
 import re
-from glob import glob
 
-
-
-mineruparsed='/Users/l/klee_code/git_repos/parse_evaluation/eaa0dd7f-206c-485e-82db-2b4b355ff0a9_origin copy (dragged).pdf-aafdc8db-4703-4b3b-809a-eadc8088d856/full.md'
-questionspan_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/question_spans.csv'
+mineruparsed=f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/eaa0dd7f-206c-485e-82db-2b4b355ff0a9_origin copy (dragged).pdf-aafdc8db-4703-4b3b-809a-eadc8088d856/full.md'
+questionspan_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/question_spans.csv'
 output_csv_columns = ['spans']
-original_page_screenshot_path_root = '/Users/l/klee_code/git_repos/parse_evaluation/splited'
+original_page_screenshot_path_root = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/splited'
 # example:
 sample_questions_that_should_be_in_the_same_span_because_they_refer_to_the_same_passage = """
 Use the following passage to answer questions 1 and 2.

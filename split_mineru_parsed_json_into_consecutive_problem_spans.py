@@ -6,9 +6,9 @@ from glob import glob
 
 
 
-questionspan_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/question_spans_from_content_json.csv'
+questionspan_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/question_spans_from_content_json.csv'
 output_csv_columns = ['spans', 'original_page_screenshot_paths']
-original_page_screenshot_path_root = '/Users/l/klee_code/git_repos/parse_evaluation/splited'
+original_page_screenshot_path_root = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/splited'
 # example:
 sample_questions_that_should_be_in_the_same_span_because_they_refer_to_the_same_passage = """
 Use the following passage to answer questions 1 and 2.

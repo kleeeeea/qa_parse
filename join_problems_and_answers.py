@@ -4,7 +4,7 @@ import os
 from git_repos.parse_evaluation.split_consecutive_problem_spans_into_individual_questions import individual_question_output_csv
 from git_repos.parse_evaluation.split_mineru_parsed_md_into_consecutive_answer_spans import answerspan_output_csv
 
-joined_output_csv = '/Users/l/klee_code/git_repos/parse_evaluation/outputs/problems_and_answers.csv'
+joined_output_csv = f'{os.environ['HOME']}/klee_code/git_repos/parse_evaluation/praxis_reading_1/outputs/problems_and_answers.csv'
 joined_output_columns = [
     'question_number',
     'passage',
