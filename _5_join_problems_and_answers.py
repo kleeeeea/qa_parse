@@ -6,8 +6,7 @@ from dataclass_ import ProblemAndAnswerRow, columns
 from stage import Stage
 from tests.fixture._constants import mineruparsed
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
-from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoSpansStage
-from _3_split_consecutive_problem_spans_into_individual_questions import SplitSpansIntoIndividualQuestionsStage
+from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoIndividualQuestionsStage
 from _4_split_mineru_parsed_md_into_consecutive_answer_spans import SplitMineruParsedMdIntoAnswerSpansStage
 
 joined_output_csv_basename = 'problems_and_answers.csv'
@@ -71,11 +70,10 @@ class JoinProblemsAndAnswersStage(Stage):
 
 
 if __name__ == '__main__':
-    # 题目侧沿 _1_ -> _2_ -> _3_ 的 derive 链从输入 md 动态推导；
+    # 题目侧沿 _1_ -> _2_ 的 derive 链从输入 md 动态推导；
     # 答案侧用 _4_ 的 derive
-    individual_question_output_csv = SplitSpansIntoIndividualQuestionsStage().derive_output_path(
-        SplitQuestionMainbodyIntoSpansStage().derive_output_path(
-            GetQuestionsMainbodyStage().derive_output_path(mineruparsed)))
+    individual_question_output_csv = SplitQuestionMainbodyIntoIndividualQuestionsStage().derive_output_path(
+        GetQuestionsMainbodyStage().derive_output_path(mineruparsed))
     JoinProblemsAndAnswersStage().run(
         individual_question_output_csv,
         SplitMineruParsedMdIntoAnswerSpansStage().derive_output_path(mineruparsed))

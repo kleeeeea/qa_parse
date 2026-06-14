@@ -7,10 +7,7 @@ from exam_formats import ExamFormat, get_exam_format
 
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
 from _2_split_question_main_body_into_consecutive_problem_spans import (
-    SplitQuestionMainbodyIntoSpansStage,
-)
-from _3_split_consecutive_problem_spans_into_individual_questions import (
-    SplitSpansIntoIndividualQuestionsStage,
+    SplitQuestionMainbodyIntoIndividualQuestionsStage,
 )
 from _4_split_mineru_parsed_md_into_consecutive_answer_spans import (
     SplitMineruParsedMdIntoAnswerSpansStage,
@@ -31,8 +28,7 @@ def run_pipeline(question_input_document: str, answer_input_document: str, exam_
         exam_format = get_exam_format(question_input_document)
         print(f'inferred exam format: {exam_format.name}')
     questions_mainbody_md = GetQuestionsMainbodyStage(exam_format=exam_format).run(question_input_document)
-    questionspan_csv = SplitQuestionMainbodyIntoSpansStage(exam_format=exam_format).run(questions_mainbody_md)
-    individual_question_csv = SplitSpansIntoIndividualQuestionsStage(exam_format=exam_format).run(questionspan_csv)
+    individual_question_csv = SplitQuestionMainbodyIntoIndividualQuestionsStage(exam_format=exam_format).run(questions_mainbody_md)
     answerspan_csv = SplitMineruParsedMdIntoAnswerSpansStage(exam_format=exam_format).run(answer_input_document)
     joined_output_csv = JoinProblemsAndAnswersStage().run(individual_question_csv, answerspan_csv)
 

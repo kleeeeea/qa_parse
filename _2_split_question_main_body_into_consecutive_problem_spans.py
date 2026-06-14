@@ -2,16 +2,16 @@ import csv
 from dataclasses import asdict
 
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
-from dataclass_ import QuestionSpanRow
+from dataclass_ import IndividualQuestionRow
 from dataclass_ import columns
 from exam_formats import ExamFormat
 from exam_formats import PRAXIS_READING
-from exam_formats import question_number_match
+from exam_formats import question_number_safe_search
 from stage import Stage
 from tests.fixture._constants import mineruparsed
 
-questionspan_output_csv_basename = 'question_spans.csv'
-output_csv_columns = columns(QuestionSpanRow)
+individual_question_output_csv_basename = 'individual_questions.csv'
+output_csv_columns = columns(IndividualQuestionRow)
 # example:
 sample_questions_that_should_be_in_the_same_span_because_they_refer_to_the_same_passage = """
 Use the following passage to answer questions 1 and 2.
@@ -41,96 +41,197 @@ e. help the reader understand the differences between two-cylinder vehicles and 
 
 # 卷型相关的正则（trigger / 题目行 / 范围声明行）统一定义在 exam_formats.py。
 
+# enforce passing in expected_end_num
+def split_into_items(lines, detect_start, expected_start_num, expected_end_num):
+    """把若干行切成「编号严格连续」的一条条 item（题目 / 答案共用）。
 
-def _split_markdown_into_spans(md_text, exam_format: ExamFormat = PRAXIS_READING, debug=True):
-    """FSM over lines; a span starts only at a span_trigger_re line.
-
-    span_trigger_re 是 span 唯一的起点（praxis: "Use the following
-    passage…" trigger 行；plt: "## Case History N" / "## Discrete
-    Multiple-Choice Questions" 节标题）。之后的所有行——passage/案例、
-    题目、选项、折行文本——都留在当前 span 里直到下一个 trigger，
-    不需要 pending 缓冲。
-
-    `next_question_number` directly indicates the first question of the NEXT
-    span: question_range_re 命中的行（praxis 的 trigger 行本身；plt 的
-    Directions 行）声明范围 [a, b]，必须满足 a == next_question_number
-    （否则 span 之间漏了题），然后置 next_question_number = b + 1。
-    范围内的题目行 a..b 不需要逐题计数——它们是普通 span 内容。
-    因此题号 == next_question_number 的题目行只可能意味着上一个 span
-    结束：关闭它并从题目行开新 span。（正常情况下不会触发——下一个
-    trigger 会先到并把计数推过本组题号。只对无 trigger 的独立题触发：
-    每题自成一个 span；如果是 trigger 行解析漏了，passage 文本会留在
-    上一个 span 里——打 WARNING。）
-
-    The input is the pre-trimmed questions mainbody (output of
-    get_questions_mainbody.py)：无前言、无答案区。
+    FSM：维护下一个期望号 expected（从 expected_start_num 起逐一递增）。某行
+    只有在 detect_start(line) == expected（且不超过 expected_end_num）时才算新
+    item 起点，并令 expected += 1；否则并入当前 item。这样保证 item 号严格
+    1,2,3,… 连续，把正文里题号对不上的编号行（答案解析里引用的 "7."、子问题
+    列表、题干内编号等）挡在外面。首个 item 起点之前的行被丢弃。
+    expected_end_num 为 None 表示不设上界。返回 [(key, [lines]), ...]。
     """
-    spans = []
-    current = None  # lines of the span being built
-    next_question_number = 1  # first question number of the next span
-
-    def close_current():
-        nonlocal current
-        if current is not None:
-            text = '\n'.join(current).strip()
-            if text:
-                spans.append(text)
-                if debug:
-                    print(separator)
-                    print(text)
-        current = None
-
-    separator = '=' * 100
-    for line in md_text.splitlines():
-        if exam_format.questions_span_trigger_re.match(line):
-            # The single place a new span starts.
-            close_current()
-            current = [line]
-        elif question_number_match(exam_format, line) == next_question_number:
-            # The end of the previous span: close it and start a new span at
-            # the question line itself (trigger-less question).
-            if current is not None:
-                print(f'WARNING: question {next_question_number} appeared '
-                      f'without a preceding trigger line — if it has a '
-                      f'passage, the passage stayed in the previous span')
-            close_current()
-            current = [line]
-            next_question_number += 1
-        elif current is not None:
-            current.append(line)
-        # 范围声明行可能是 trigger 行本身（praxis），也可能是 span 内的
-        # Directions 行（plt），所以独立于上面的分支检查。
-        range_match = exam_format.question_range_re.search(line)
-        if range_match:
-            first_q = int(range_match.group(1))
-            last_q = int(range_match.group(2) or range_match.group(1))
-            if first_q != next_question_number:
-                print(f'WARNING: range line declares questions {first_q}…{last_q} '
-                      f'but the next span should start at question {next_question_number}')
-                raise ValueError(line)
-            # next_question_number directly indicates the next span start
-            next_question_number = last_q + 1
-    close_current()
-    print(f'FSM saw questions 1..{next_question_number - 1} in {len(spans)} spans')
-    return spans
+    items = []  # [(key, [lines])]
+    expected = expected_start_num
+    for line in lines:
+        key = detect_start(line)
+        if key == expected and (expected_end_num is None or expected <= expected_end_num):
+            items.append((key, [line]))
+            expected += 1
+        elif items:
+            items[-1][1].append(line)
+    return items
 
 
-class SplitQuestionMainbodyIntoSpansStage(Stage):
-    # …/{dataset}/outputs/questions_mainbody.md -> …/{dataset}/outputs/question_spans.csv
-    output_basename = questionspan_output_csv_basename
+class QuestionMainbodyFSM:
+    """逐行扫描 questions mainbody，直接产出一道道单题（passage 随题冗余）。
+
+    把原来分两步的逻辑合进一个有状态机：
+    - 切 span（原 _2）：questions_span_trigger_res（一组 trigger，命中任一）是
+      span 的显式起点（praxis 的 "Use the following passage…" 行；plt 的
+      "## Case History N" / "## Discrete Multiple-Choice Questions" 节标题）；之后所有行都留在
+      当前 span 里直到下一个 trigger。范围声明行（question_range_re，praxis
+      的 trigger 行本身 / plt 的 Directions 行）声明 [a, b]，把「下一个 span
+      的首题号」推到 b+1；题号 == 该首题号的题目行意味着上一个 span 结束、
+      一道无 trigger 的独立题开新 span（正常不触发，触发则打 WARNING）。
+    - span 内分题（原 _3）：每关闭一个 span，用「全局连续题号」识别其中各题
+      的起始行（parse_item），首题之前的行即该 span 的 passage，passage 随
+      每道题冗余写出。两个计数器在 span 边界处相等，互不影响。
+
+    输入是 get_questions_mainbody 产出的已裁剪主体：无前言、无答案区。
+    """
+
+    def __init__(self, exam_format: ExamFormat = PRAXIS_READING, debug: bool = True):
+        self.exam_format = exam_format
+        self.debug = debug
+        self.separator = '=' * 100
+        self.next_span_first_question = 1  # 下一个 span 的首题号（随 range 行推进）
+        self.next_question_number = 1      # 全局连续题号（随每道题推进）
+        self.started = False               # 是否已开过 span（无-trigger 独立题的 WARNING 判据）
+        self.individual_questions = []     # 产出 [(qnum, passage, question_text)]
+
+    def _is_span_start(self, line):
+        """span 的两种起点：trigger 行（命中任一 trigger），或题号 == 下一 span
+        首题号的无-trigger 独立题。"""
+        if self.exam_format.matches_span_trigger(line):
+            return True
+        return question_number_safe_search(self.exam_format, line) == self.next_span_first_question
+
+    def _apply_range(self, line):
+        """范围声明行（praxis 的 trigger 行本身 / plt 的 span 内 Directions 行）
+        把下一 span 首题号推到 b+1。"""
+        range_match = self.exam_format.question_range_re.search(line)
+        if not range_match:
+            return
+        first_q = int(range_match.group(1))
+        last_q = int(range_match.group(2) or range_match.group(1))
+        if first_q != self.next_span_first_question:
+            print(f'WARNING: range line declares questions {first_q}…{last_q} '
+                  f'but the next span should start at question {self.next_span_first_question}')
+            raise ValueError(line)
+        self.next_span_first_question = last_q + 1
+
+    def _consume(self, lines, i):
+        """从 span 起点 i 吃到下一个 span 起点 / EOF，沿途处理 range 行。
+        返回 (span 的行列表, 下一个待处理下标)。"""
+        span = [lines[i]]
+        self._apply_range(lines[i])
+        i += 1
+        while i < len(lines) and not self._is_span_start(lines[i]):
+            span.append(lines[i])
+            self._apply_range(lines[i])
+            i += 1
+        return span, i
+
+    def _emit_span(self, span_lines):
+        """span 关闭：非空则（可选 debug 打印后）拆成单题。"""
+        text = '\n'.join(span_lines).strip()
+        if not text:
+            return
+        if self.debug:
+            print(self.separator)
+            print(text)
+        self._parse_span_into_questions(text)
+
+    def _parse_span_into_questions(self, span_text):
+        """span 内分出 passage 和各题（原 _3._split_span_into_questions）。
+
+        一行只有在「匹配 question_line_re 且题号 == next_question_number
+        （全局连续）」时才算题目起始——span 内题号对不上的编号列表（plt 的
+        Goals 1.–4.、题干里的子问题）留在 passage/题干里。
+        """
+        lines = span_text.splitlines()
+        # 先把 passage 单独抽出来：首题之前的所有行（首题一旦出现，后续行都归题目）
+        first_question_idx = next(
+            (i for i, line in enumerate(lines)
+             if question_number_safe_search(self.exam_format, line) == self.next_question_number),
+            len(lines))
+        passage = '\n'.join(lines[:first_question_idx]).rstrip()
+
+        # 再在首题及其后的行上分题：题号从全局连续计数起严格递增（FSM 内判定），
+        # 上界开放（一个 span 的题数不预先知道）
+        items = split_into_items(
+            lines[first_question_idx:],
+            lambda line: question_number_safe_search(self.exam_format, line),
+            expected_start_num=self.next_question_number,
+            expected_end_num=self.next_span_first_question - 1,
+        )
+        for qnum, qlines in items:
+            self.individual_questions.append(
+                (qnum, passage, '\n'.join(qlines).strip()))
+        self.next_question_number += len(items)  # 跨 span 推进全局题号
+
+    def _parse_till_span_finish(self, lines, i):
+        """passage-question span：从 trigger 行起，吃完整个 span（passage + 其各题）。"""
+        self.started = True
+        span, i = self._consume(lines, i)
+        self._emit_span(span)
+        return i
+
+    def _parse_till_item_finish(self, lines, i):
+        """无 passage 的独立题：从题目行起，吃完这一道题。"""
+        if self.started:
+            print(f'WARNING: question {self.next_span_first_question} appeared '
+                  f'without a preceding trigger line — if it has a '
+                  f'passage, the passage stayed in the previous span')
+        self.started = True
+        self.next_span_first_question += 1
+        # 独立题内不会出现 range 行：praxis 的 range 行就是 trigger（会被
+        # _is_span_start 先终止本 span）；plt 的 "Directions:" 行必跟在
+        # Case History/Discrete trigger 之后，不会落在无-trigger 的独立题里。
+        # 因此 _consume 沿途的 _apply_range 必是 no-op，不会推进首题号——断言之。
+        before = self.next_span_first_question
+        span, i = self._consume(lines, i)
+        assert self.next_span_first_question == before, (
+            f'independent question span unexpectedly contained a range line: {span!r}')
+        self._emit_span(span)
+        return i
+
+    def parse(self, md_text):
+        lines = md_text.splitlines()
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if self.exam_format.matches_span_trigger(line):
+                # passage-question span 起点
+                i = self._parse_till_span_finish(lines, i)
+            elif question_number_safe_search(self.exam_format, line) == self.next_span_first_question:
+                # 无 passage 的独立题起点
+                i = self._parse_till_item_finish(lines, i)
+            else:
+                # 既非 trigger 也非独立题起点——只可能是首个 span 之前的杂行。
+                # mainbody 已被 _1 裁剪到首个 span 起点，正常不会走到这里
+                # （range 行要么是 trigger=进入 span，要么在 span 内被 _consume 吞掉），
+                # 跳过即可。
+                i += 1
+        print(f'FSM parsed {len(self.individual_questions)} questions '
+              f'(1..{self.next_question_number - 1})')
+        return self.individual_questions
+
+
+class SplitQuestionMainbodyIntoIndividualQuestionsStage(Stage):
+    # …/{dataset}/outputs/questions_mainbody.md -> …/{dataset}/outputs/individual_questions.csv
+    output_basename = individual_question_output_csv_basename
 
     def _produce(self, output_path, current_questions_mainbody_md):
         with open(current_questions_mainbody_md) as f:
             md_text = f.read()
-        spans = _split_markdown_into_spans(md_text, self.exam_format)
+        questions = QuestionMainbodyFSM(self.exam_format).parse(md_text)
         with open(output_path, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=output_csv_columns)
             writer.writeheader()
-            for span_text in spans:
-                writer.writerow(asdict(QuestionSpanRow(spans=span_text)))
-        print(f'wrote {len(spans)} spans to {output_path}')
+            for qnum, passage, question in questions:
+                writer.writerow(asdict(IndividualQuestionRow(
+                    question_number=str(qnum),
+                    passage=passage,
+                    question=question,
+                    # 题目侧没有截图路径来源，恒取默认值（原 _3 同此）
+                    original_page_screenshot_paths='[]',
+                )))
+        print(f'wrote {len(questions)} questions to {output_path}')
 
 if __name__ == '__main__':
     # 从 fixture 的输入 md 沿 _1_ 的 derive 推出 questions_mainbody.md
-    SplitQuestionMainbodyIntoSpansStage().run(
+    SplitQuestionMainbodyIntoIndividualQuestionsStage().run(
         GetQuestionsMainbodyStage().derive_output_path(mineruparsed))

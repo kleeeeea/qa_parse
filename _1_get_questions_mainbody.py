@@ -2,7 +2,7 @@
 import os
 import re
 
-from exam_formats import PRAXIS_READING, ExamFormat, question_number_match
+from exam_formats import PRAXIS_READING, ExamFormat, question_number_safe_search
 from stage import Stage
 from tests.fixture._constants import mineruparsed
 
@@ -39,9 +39,9 @@ def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     # 处理第一个题目没有Passage， 直接是 "1.{question}" 的情况：
     # 起点取「第一个 trigger 行」和「题号为 1 的题目行」中更早出现者
     def _is_mainbody_start(l):
-        if exam_format.questions_span_trigger_re.match(l):
+        if exam_format.matches_span_trigger(l):
             return True
-        return question_number_match(exam_format, l) == 1
+        return question_number_safe_search(exam_format, l) == 1
 
     end_re = exam_format.mainbody_end_re
     is_end = end_re.match if end_re is not None else (lambda l: False)

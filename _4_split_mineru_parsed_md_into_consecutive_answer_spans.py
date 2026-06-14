@@ -8,8 +8,10 @@ from exam_formats import PRAXIS_READING, ExamFormat
 from stage import Stage
 from tests.fixture._constants import mineruparsed
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage, slice_mainbody
-from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoSpansStage
-from _3_split_consecutive_problem_spans_into_individual_questions import SplitSpansIntoIndividualQuestionsStage
+from _2_split_question_main_body_into_consecutive_problem_spans import (
+    SplitQuestionMainbodyIntoIndividualQuestionsStage,
+    split_into_items,
+)
 
 answerspan_output_csv_basename = 'answer_spans.csv'
 answerspan_output_columns = columns(AnswerSpanRow)
@@ -43,29 +45,26 @@ def _is_answer_mainbody_end(line):
     return not IN_SECTION_TOP_LEVEL_RE.match(header_text)
 
 
-def _split_markdown_into_answer_spans(md_text, exam_format: ExamFormat = PRAXIS_READING):
+def _split_markdown_into_answer_spans(md_text, exam_format: ExamFormat = PRAXIS_READING,
+                                      expected_end_num=None):
     """先复用 slice_mainbody 切出答案主体（"Answers and Explanations" 标题起，
-    到下一个非 Passage/Source 顶级标题止；没有答案区则空切片），再在主体内按
-    exam_format.answer_mainbody_start_re 切成一条条 numbered-answer span。
+    到下一个非 Passage/Source 顶级标题止；没有答案区则空切片），再复用 _2 的
+    split_into_items：答案号从 1 严格连续递增到 expected_end_num（题目数量），
+    把答案解析里引用的题号挡在外面。expected_end_num 为 None 时不设上界。
     """
     lines = md_text.splitlines()
     start, end = slice_mainbody(
         lines, _is_answer_mainbody_start, _is_answer_mainbody_end,
         default_start=len(lines))
 
-    spans = []
-    current = None
-    for line in lines[start:end]:
+    def _detect_answer_start(line):
         m = exam_format.answer_mainbody_start_re.match(line)
-        if m:
-            if current is not None:
-                spans.append(current)
-            current = {'num': int(m.group(1)), 'lines': [line]}
-        elif current is not None:
-            current['lines'].append(line)
-    if current is not None:
-        spans.append(current)
-    return spans
+        return int(m.group(1)) if m else None
+
+    return [{'num': num, 'lines': item_lines}
+            for num, item_lines in split_into_items(
+                lines[start:end], _detect_answer_start,
+                expected_start_num=1, expected_end_num=expected_end_num)]
 
 
 def _serialize_span(span):
@@ -79,9 +78,24 @@ class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
     def _produce(self, output_path, current_mineruparsed):
         with open(current_mineruparsed) as f:
             md_text = f.read()
-        spans = _split_markdown_into_answer_spans(md_text, self.exam_format)
 
-        # Deduplicate by question_number, keeping the first occurrence.
+        # 先读题目集合（若已产出）：既用于答案号上界（1..题目数量），也用于交叉核对。
+        # 从输入 md 沿 _1_ -> _2_ 的 derive 链动态推导 individual_questions.csv 的路径
+        expected = set()
+        individual_question_output_csv = SplitQuestionMainbodyIntoIndividualQuestionsStage().derive_output_path(
+            GetQuestionsMainbodyStage().derive_output_path(current_mineruparsed))
+        if os.path.exists(individual_question_output_csv):
+            with open(individual_question_output_csv) as f:
+                for row in csv.DictReader(f):
+                    try:
+                        expected.add(int(row['question_number']))
+                    except (KeyError, TypeError, ValueError):
+                        pass
+
+        spans = _split_markdown_into_answer_spans(
+            md_text, self.exam_format, expected_end_num=len(expected) or None)
+
+        # split_into_items 已保证答案号严格递增唯一；dedup/sort 留作防御性兜底。
         seen = set()
         deduped = []
         for s in spans:
@@ -100,19 +114,6 @@ class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
                     answer=_serialize_span(s),
                 )))
 
-        # Cross-check against the individual questions, if that file exists.
-        expected = set()
-        # 从输入 md 沿 _1_ -> _2_ -> _3_ 的 derive 链动态推导 individual_questions.csv 的路径
-        individual_question_output_csv = SplitSpansIntoIndividualQuestionsStage().derive_output_path(
-            SplitQuestionMainbodyIntoSpansStage().derive_output_path(
-                GetQuestionsMainbodyStage().derive_output_path(current_mineruparsed)))
-        if os.path.exists(individual_question_output_csv):
-            with open(individual_question_output_csv) as f:
-                for row in csv.DictReader(f):
-                    try:
-                        expected.add(int(row['question_number']))
-                    except (KeyError, TypeError, ValueError):
-                        pass
         missing = sorted(expected - seen)
         extra = sorted(seen - expected) if expected else []
         print(f'wrote {len(deduped)} answer spans to {output_path}')

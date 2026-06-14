@@ -34,14 +34,8 @@ class _HasAnswer:
 
 
 @dataclass(frozen=True)
-class QuestionSpanRow:
-    """_2_ question_spans.csv：一行 = 一个 passage + 其题目组成的 span。"""
-    spans: str
-
-
-@dataclass(frozen=True)
 class IndividualQuestionRow(_HasPassageAndQuestion, _HasQuestionNumber):
-    """_3_ individual_questions.csv：一行 = 一道题（passage 随行冗余）。
+    """_2_ individual_questions.csv：一行 = 一道题（passage 随行冗余）。
 
     列序：question_number, passage, question, original_page_screenshot_paths
     """

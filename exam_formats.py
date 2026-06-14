@@ -10,10 +10,11 @@ from dataclasses import dataclass
 @dataclass(frozen=True)
 class ExamFormat:
     name: str
-    # 开启一个新 span 的行（praxis: "Use the following passage…"；
-    # plt: "## Case History N" / "## Discrete Multiple-Choice Questions" 节标题）
-    questions_span_trigger_re: re.Pattern
-    # 题目行；题号取第一个非 None 捕获组（见 question_number_match）
+    # 开启一个新 span 的行——可有多种 trigger，命中任一即算 span 起点
+    # （praxis: "Use the following passage…"；plt: "## Case History N"
+    # 与 "## Discrete Multiple-Choice Questions" 两种节标题）。
+    questions_span_trigger_res: tuple[re.Pattern, ...]
+    # 题目行；题号取第一个非 None 捕获组（见 question_number_safe_search）
     question_line_re: re.Pattern
     # 声明题号范围的行：group(1)=起始题号，group(2)=结束题号（可缺省=单题）。
     # praxis 在 trigger 行上（"… questions 50 through 53."），
@@ -25,8 +26,12 @@ class ExamFormat:
     # 题目主体的终止标题；None 表示题目文档没有答案区（题/答分开两份 PDF），主体到文件尾
     mainbody_end_re: re.Pattern | None
 
+    def matches_span_trigger(self, line: str) -> bool:
+        """该行是否是一个 span 起点（命中任一 questions_span_trigger_res）。"""
+        return any(r.match(line) for r in self.questions_span_trigger_res)
 
-def question_number_match(exam_format: ExamFormat, line: str) -> int | None:
+
+def question_number_safe_search(exam_format: ExamFormat, line: str) -> int | None:
     """题目行 -> 题号；非题目行 -> None。
 
     question_line_re 可能是多分支正则（如 plt 的 "## Question N" 与 "N. "），
@@ -40,7 +45,8 @@ def question_number_match(exam_format: ExamFormat, line: str) -> int | None:
 
 PRAXIS_READING = ExamFormat(
     name='praxis_reading',
-    questions_span_trigger_re=re.compile(r'^\s*Use the following passage', re.IGNORECASE),
+    questions_span_trigger_res=(
+        re.compile(r'^\s*Use the following passage', re.IGNORECASE),),
     # passage 行号边注（"5 Massachusetts, and…"）没有点号，不会误中
     question_line_re=re.compile(r'^\s*(\d+)\.\s'),
     question_range_re=re.compile(
@@ -52,8 +58,10 @@ PRAXIS_READING = ExamFormat(
 
 PLT = ExamFormat(
     name='plt',
-    questions_span_trigger_re=re.compile(
-        r'^##\s+(?:Case History \d+|Discrete Multiple-Choice Questions)\s*$'),
+    questions_span_trigger_res=(
+        re.compile(r'^##\s+Case History \d+\s*$'),
+        re.compile(r'^##\s+Discrete Multiple-Choice Questions\s*$'),
+    ),
     # 短答题题号在二级标题里（"## Question 19"），选择题是 "N. " 行
     question_line_re=re.compile(r'^##\s+Question\s+(\d+)\s*$|^\s*(\d+)\.\s'),
     # "Directions: Questions 1 through 3 …" / "Directions: Questions 7–18 …"
