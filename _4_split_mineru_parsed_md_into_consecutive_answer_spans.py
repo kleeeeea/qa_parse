@@ -5,10 +5,11 @@ from dataclasses import asdict
 
 from dataclass_ import AnswerSpanRow, columns
 from exam_formats import PRAXIS_READING, ExamFormat
+from stage import Stage
 from tests.fixture._constants import mineruparsed
-from _1_get_questions_mainbody import derive_questions_mainbody_output_md
-from _2_split_question_main_body_into_consecutive_problem_spans import derive_questionspan_output_csv
-from _3_split_consecutive_problem_spans_into_individual_questions import derive_individual_question_output_csv
+from _1_get_questions_mainbody import GetQuestionsMainbodyStage
+from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoSpansStage
+from _3_split_consecutive_problem_spans_into_individual_questions import SplitSpansIntoIndividualQuestionsStage
 
 answerspan_output_csv_basename = 'answer_spans.csv'
 answerspan_output_columns = columns(AnswerSpanRow)
@@ -79,65 +80,65 @@ def _serialize_span(span):
     return '\n'.join(span['lines']).strip()
 
 
-def derive_answerspan_output_csv(current_mineruparsed):
+class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
     # …/{mineru任务目录}/full.md -> …/{mineru任务目录}/answer_spans.csv
-    return os.path.join(
-        os.path.dirname(os.path.abspath(current_mineruparsed)),
-        answerspan_output_csv_basename)
+    output_basename = answerspan_output_csv_basename
+
+    def _produce(self, output_path, current_mineruparsed):
+        with open(current_mineruparsed) as f:
+            md_text = f.read()
+        spans = _split_markdown_into_answer_spans(md_text, self.exam_format)
+
+        # Deduplicate by question_number, keeping the first occurrence.
+        seen = set()
+        deduped = []
+        for s in spans:
+            if s['num'] in seen:
+                continue
+            seen.add(s['num'])
+            deduped.append(s)
+        deduped.sort(key=lambda s: s['num'])
+
+        with open(output_path, 'w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=answerspan_output_columns)
+            writer.writeheader()
+            for s in deduped:
+                writer.writerow(asdict(AnswerSpanRow(
+                    question_number=str(s['num']),
+                    answer=_serialize_span(s),
+                )))
+
+        # Cross-check against the individual questions, if that file exists.
+        expected = set()
+        # 从输入 md 沿 _1_ -> _2_ -> _3_ 的 derive 链动态推导 individual_questions.csv 的路径
+        individual_question_output_csv = SplitSpansIntoIndividualQuestionsStage().derive_output_path(
+            SplitQuestionMainbodyIntoSpansStage().derive_output_path(
+                GetQuestionsMainbodyStage().derive_output_path(current_mineruparsed)))
+        if os.path.exists(individual_question_output_csv):
+            with open(individual_question_output_csv) as f:
+                for row in csv.DictReader(f):
+                    try:
+                        expected.add(int(row['question_number']))
+                    except (KeyError, TypeError, ValueError):
+                        pass
+        missing = sorted(expected - seen)
+        extra = sorted(seen - expected) if expected else []
+        print(f'wrote {len(deduped)} answer spans to {output_path}')
+        if missing:
+            print(f'  missing answers for questions: {missing}')
+        if extra:
+            print(f'  extra answers not in individual_questions.csv: {extra}')
+
+
+# 保留模块级函数作为薄包装，下游调用方式不变
+def derive_answerspan_output_csv(current_mineruparsed):
+    return SplitMineruParsedMdIntoAnswerSpansStage().derive_output_path(current_mineruparsed)
 
 
 def split_mineru_parsed_md_into_consecutive_answer_spans(current_mineruparsed, exam_format: ExamFormat = PRAXIS_READING, skip_if_output_exists=True) -> str:
-    answerspan_output_csv = derive_answerspan_output_csv(current_mineruparsed)
-    if skip_if_output_exists and os.path.exists(answerspan_output_csv):
-        print(f'skip: {answerspan_output_csv} already exists')
-        return answerspan_output_csv
-    with open(current_mineruparsed) as f:
-        md_text = f.read()
-    spans = _split_markdown_into_answer_spans(md_text, exam_format)
-
-    # Deduplicate by question_number, keeping the first occurrence.
-    seen = set()
-    deduped = []
-    for s in spans:
-        if s['num'] in seen:
-            continue
-        seen.add(s['num'])
-        deduped.append(s)
-    deduped.sort(key=lambda s: s['num'])
-
-    out_dir = os.path.dirname(answerspan_output_csv)
-    if out_dir:
-        os.makedirs(out_dir, exist_ok=True)
-    with open(answerspan_output_csv, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=answerspan_output_columns)
-        writer.writeheader()
-        for s in deduped:
-            writer.writerow(asdict(AnswerSpanRow(
-                question_number=str(s['num']),
-                answer=_serialize_span(s),
-            )))
-
-    # Cross-check against the individual questions, if that file exists.
-    expected = set()
-    # 从输入 md 沿 _1_ -> _2_ -> _3_ 的 derive 链动态推导 individual_questions.csv 的路径
-    individual_question_output_csv = derive_individual_question_output_csv(
-        derive_questionspan_output_csv(
-            derive_questions_mainbody_output_md(current_mineruparsed)))
-    if os.path.exists(individual_question_output_csv):
-        with open(individual_question_output_csv) as f:
-            for row in csv.DictReader(f):
-                try:
-                    expected.add(int(row['question_number']))
-                except (KeyError, TypeError, ValueError):
-                    pass
-    missing = sorted(expected - seen)
-    extra = sorted(seen - expected) if expected else []
-    print(f'wrote {len(deduped)} answer spans to {answerspan_output_csv}')
-    if missing:
-        print(f'  missing answers for questions: {missing}')
-    if extra:
-        print(f'  extra answers not in individual_questions.csv: {extra}')
-    return answerspan_output_csv
+    return SplitMineruParsedMdIntoAnswerSpansStage(
+        exam_format=exam_format, skip_if_output_exists=skip_if_output_exists,
+    ).run(current_mineruparsed)
 
 
 if __name__ == '__main__':

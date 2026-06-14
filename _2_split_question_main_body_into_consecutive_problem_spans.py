@@ -8,6 +8,7 @@ from dataclasses import asdict
 
 from dataclass_ import QuestionSpanRow, columns
 from exam_formats import PRAXIS_READING, ExamFormat, question_number_match
+from stage import Stage
 
 questionspan_output_csv_basename = 'question_spans.csv'
 output_csv_columns = columns(QuestionSpanRow)
@@ -114,32 +115,20 @@ def _split_markdown_into_spans(md_text, exam_format: ExamFormat = PRAXIS_READING
     return spans
 
 
-def derive_questionspan_output_csv(current_questions_mainbody_md):
+class SplitQuestionMainbodyIntoSpansStage(Stage):
     # …/{dataset}/outputs/questions_mainbody.md -> …/{dataset}/outputs/question_spans.csv
-    return os.path.join(
-        os.path.dirname(os.path.abspath(current_questions_mainbody_md)),
-        questionspan_output_csv_basename)
+    output_basename = questionspan_output_csv_basename
 
-
-def split_question_main_body_into_consecutive_problem_spans(current_questions_mainbody_md, exam_format: ExamFormat = PRAXIS_READING, skip_if_output_exists=True) -> str:
-    questionspan_output_csv = derive_questionspan_output_csv(current_questions_mainbody_md)
-    if skip_if_output_exists and os.path.exists(questionspan_output_csv):
-        print(f'skip: {questionspan_output_csv} already exists')
-        return questionspan_output_csv
-    with open(current_questions_mainbody_md) as f:
-        md_text = f.read()
-    spans = _split_markdown_into_spans(md_text, exam_format)
-    out_dir = os.path.dirname(questionspan_output_csv)
-    if out_dir:
-        os.makedirs(out_dir, exist_ok=True)
-    with open(questionspan_output_csv, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=output_csv_columns)
-        writer.writeheader()
-        for span_text in spans:
-            writer.writerow(asdict(QuestionSpanRow(spans=span_text)))
-    print(f'wrote {len(spans)} spans to {questionspan_output_csv}')
-    return questionspan_output_csv
-
+    def _produce(self, output_path, current_questions_mainbody_md):
+        with open(current_questions_mainbody_md) as f:
+            md_text = f.read()
+        spans = _split_markdown_into_spans(md_text, self.exam_format)
+        with open(output_path, 'w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=output_csv_columns)
+            writer.writeheader()
+            for span_text in spans:
+                writer.writerow(asdict(QuestionSpanRow(spans=span_text)))
+        print(f'wrote {len(spans)} spans to {output_path}')
 
 if __name__ == '__main__':
-    split_question_main_body_into_consecutive_problem_spans(questions_mainbody_markdown_text)
+    SplitQuestionMainbodyIntoSpansStage().run(questions_mainbody_markdown_text)

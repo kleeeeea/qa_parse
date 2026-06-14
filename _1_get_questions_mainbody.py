@@ -3,6 +3,7 @@ import os
 import re
 
 from exam_formats import PRAXIS_READING, ExamFormat, question_number_match
+from stage import Stage
 from tests.fixture._constants import mineruparsed
 
 
@@ -42,29 +43,19 @@ def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     return '\n'.join(lines[start:end]).strip() + '\n'
 
 
-def derive_questions_mainbody_output_md(input_document):
-    # …/{dataset}/{mineru任务目录}/full.md -> …/{dataset}/outputs/questions_mainbody.md
-    dataset_dir = os.path.dirname(os.path.abspath(input_document))
-    # output to the same root（输入所在的 {dataset} 目录，不再依赖全局输出根目录）
-    return os.path.join(dataset_dir, 'questions_mainbody.md')
+class GetQuestionsMainbodyStage(Stage):
+    # …/{dataset}/{mineru任务目录}/full.md -> …/{dataset}/{mineru任务目录}/questions_mainbody.md
+    # output to the same root（输入所在目录，不再依赖全局输出根目录）
+    output_basename = 'questions_mainbody.md'
 
-
-def get_questions_mainbody(input_document, exam_format: ExamFormat = PRAXIS_READING, skip_if_output_exists=True) -> str:
-    questions_mainbody_output_md = derive_questions_mainbody_output_md(input_document)
-    if skip_if_output_exists and os.path.exists(questions_mainbody_output_md):
-        print(f'skip: {questions_mainbody_output_md} already exists')
-        return questions_mainbody_output_md
-    with open(input_document) as f:
-        md_text = f.read()
-    mainbody = _get_questions_mainbody(md_text, exam_format)
-    out_dir = os.path.dirname(questions_mainbody_output_md)
-    if out_dir:
-        os.makedirs(out_dir, exist_ok=True)
-    with open(questions_mainbody_output_md, 'w') as f:
-        f.write(mainbody)
-    print(f'wrote {len(mainbody.splitlines())} lines to {questions_mainbody_output_md}')
-    return questions_mainbody_output_md
+    def _produce(self, output_path, input_document):
+        with open(input_document) as f:
+            md_text = f.read()
+        mainbody = _get_questions_mainbody(md_text, self.exam_format)
+        with open(output_path, 'w') as f:
+            f.write(mainbody)
+        print(f'wrote {len(mainbody.splitlines())} lines to {output_path}')
 
 
 if __name__ == '__main__':
-    get_questions_mainbody(mineruparsed)
+    GetQuestionsMainbodyStage().run(mineruparsed)

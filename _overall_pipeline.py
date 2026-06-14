@@ -5,12 +5,12 @@ from dataclasses import asdict
 from dataclass_ import PromptRow, columns
 from exam_formats import PRAXIS_READING, ExamFormat
 
-from _1_get_questions_mainbody import get_questions_mainbody
+from _1_get_questions_mainbody import GetQuestionsMainbodyStage
 from _2_split_question_main_body_into_consecutive_problem_spans import (
-    split_question_main_body_into_consecutive_problem_spans,
+    SplitQuestionMainbodyIntoSpansStage,
 )
 from _3_split_consecutive_problem_spans_into_individual_questions import (
-    split_consecutive_problem_spans_into_individual_questions,
+    SplitSpansIntoIndividualQuestionsStage,
 )
 from _4_split_mineru_parsed_md_into_consecutive_answer_spans import (
     split_mineru_parsed_md_into_consecutive_answer_spans,
@@ -25,9 +25,9 @@ def main():
 
 
 def run_pipeline(question_input_document: str, answer_input_document: str, exam_format: ExamFormat = PRAXIS_READING) -> None:
-    questions_mainbody_md = get_questions_mainbody(question_input_document, exam_format=exam_format)
-    questionspan_csv = split_question_main_body_into_consecutive_problem_spans(questions_mainbody_md, exam_format=exam_format)
-    individual_question_csv = split_consecutive_problem_spans_into_individual_questions(questionspan_csv, exam_format=exam_format)
+    questions_mainbody_md = GetQuestionsMainbodyStage(exam_format=exam_format).run(question_input_document)
+    questionspan_csv = SplitQuestionMainbodyIntoSpansStage(exam_format=exam_format).run(questions_mainbody_md)
+    individual_question_csv = SplitSpansIntoIndividualQuestionsStage(exam_format=exam_format).run(questionspan_csv)
     answerspan_csv = split_mineru_parsed_md_into_consecutive_answer_spans(answer_input_document, exam_format=exam_format)
     joined_output_csv = join_problems_and_answers(individual_question_csv, answerspan_csv)
 
