@@ -1,0 +1,351 @@
+id,question_number,passage,question,answer,prompt,question_page_screenshot_paths,answer_page_screenshot_paths,llm_response,reasoning,prompt_tokens,completion_tokens,total_tokens,latency_ms,model_settings
+q001,1,"Use the following passage to answer questions 1 and 2.
+
+Of the numerous American automotive pioneers, perhaps among the best known are Charles and Frank Duryea. Beginning their work of automobile building in Springfield,   
+5 Massachusetts, and, after much rebuilding, they constructed their first successful vehicle in 1892 and 1893. No sooner was this finished than Frank, working alone, began work on a second vehicle having a two-cylinder engine. With this   
+10 automobile, sufficient capital was attracted in 1895 to form the Duryea Motor Wagon Company in which both brothers were among the stockholders and directors. A short time after the formation of the company, this second   
+15 automobile was entered by the company in the Chicago Times-Herald automobile race on Thanksgiving Day, November 28, 1895, where Frank Duryea won a victory over the other five contestants—two electric automobiles and   
+20 three Benz machines imported from Germany.
+
+Source: Excerpt from The 1893 Duryea Automobile by Don H. Berkebile.","1. Which of the following is the best summary of the passage?
+
+a. There were many automotive pioneers in America, but the best known were the brothers Charles and Frank Duryea, who began building automobiles in Springfield, Massachusetts.
+b. Charles and Frank Duryea were among the best-known American automotive pioneers, but Frank was more famous than his brother Charles because Frank won the Chicago Times-Herald automobile race.   
+c. On Thanksgiving Day, November 28, 1895, Frank Duryea won the Chicago Times-Herald automobile race over five other contestants: two electric automobiles and three Benz machines from Germany.   
+d. Charles and Frank Duryea were pioneering automobile builders, and Frank developed a profitable two-cylinder engine vehicle with which he won the Chicago Times-Herald automobile race.   
+e. Although Frank Duryea developed a two-cylinder engine vehicle, both he and his brother Charles profited from it because it earned them the capital to start the Duryea Motor Wagon Company.",1. d. Only choice d sums up all the most important details in the passage. Choice a only summarizes the passage's opening sentences. Choice b makes a statement about the individual brothers' popularity that the passage does not actually support. Choices c and e are just details in the passage and fail to summarize all of its most important details.,"Use the following passage to answer questions 1 and 2.
+
+Of the numerous American automotive pioneers, perhaps among the best known are Charles and Frank Duryea. Beginning their work of automobile building in Springfield,   
+5 Massachusetts, and, after much rebuilding, they constructed their first successful vehicle in 1892 and 1893. No sooner was this finished than Frank, working alone, began work on a second vehicle having a two-cylinder engine. With this   
+10 automobile, sufficient capital was attracted in 1895 to form the Duryea Motor Wagon Company in which both brothers were among the stockholders and directors. A short time after the formation of the company, this second   
+15 automobile was entered by the company in the Chicago Times-Herald automobile race on Thanksgiving Day, November 28, 1895, where Frank Duryea won a victory over the other five contestants—two electric automobiles and   
+20 three Benz machines imported from Germany.
+
+Source: Excerpt from The 1893 Duryea Automobile by Don H. Berkebile.
+
+1. Which of the following is the best summary of the passage?
+
+a. There were many automotive pioneers in America, but the best known were the brothers Charles and Frank Duryea, who began building automobiles in Springfield, Massachusetts.
+b. Charles and Frank Duryea were among the best-known American automotive pioneers, but Frank was more famous than his brother Charles because Frank won the Chicago Times-Herald automobile race.   
+c. On Thanksgiving Day, November 28, 1895, Frank Duryea won the Chicago Times-Herald automobile race over five other contestants: two electric automobiles and three Benz machines from Germany.   
+d. Charles and Frank Duryea were pioneering automobile builders, and Frank developed a profitable two-cylinder engine vehicle with which he won the Chicago Times-Herald automobile race.   
+e. Although Frank Duryea developed a two-cylinder engine vehicle, both he and his brother Charles profited from it because it earned them the capital to start the Duryea Motor Wagon Company.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,d,,484,147,631,2102.721625007689,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q006,6,"Use the following passage to answer question 6.
+
+The Pennsylvania Dutch are a hard working people and as they say, ""Them that works hard, eats hearty."" The blending of recipes from their many home lands and the ingredients available
+
+5 in their new land produced tasty dishes that have been handed down from mother to daughter for generations.
+
+Source: Excerpt from Pennsylvania Dutch Cooking","6. The author of this passage would most likely agree with which of the following statements?
+
+a. The Pennsylvania Dutch people work harder than any other group of people in America.   
+b. One of the distinguishing characteristics of the Pennsylvania Dutch people is their excellent cuisine.   
+c. The Pennsylvania Dutch people are known throughout the world for their colorful and amusing sayings.   
+d. No group of people blends recipes as well as the Pennsylvania Dutch people do.   
+e. If fathers and sons in Pennsylvania Dutch families made food, it would not be as good as the food mothers and daughters make.","6. b. This short passage is about the distinctive food Pennsylvania Dutch people make and the qualities that make that food distinctive, so choice b is the statement with which the author is most likely to agree. Although the author refers to the fact that Pennsylvania Dutch people work hard, the author does not compare their work ethic to the work ethic of any other people, so choice a is not the best answer. The author never indicates how well known the Pennsylvania Dutch people are throughout the world, so choice c is not a strong answer either. Choice d makes another unsupported comparison, and choice e makes an unsupported assumption based on the fact that the author mentions only the cooking of Pennsylvania Dutch mothers and daughters.","Use the following passage to answer question 6.
+
+The Pennsylvania Dutch are a hard working people and as they say, ""Them that works hard, eats hearty."" The blending of recipes from their many home lands and the ingredients available
+
+5 in their new land produced tasty dishes that have been handed down from mother to daughter for generations.
+
+Source: Excerpt from Pennsylvania Dutch Cooking
+
+6. The author of this passage would most likely agree with which of the following statements?
+
+a. The Pennsylvania Dutch people work harder than any other group of people in America.   
+b. One of the distinguishing characteristics of the Pennsylvania Dutch people is their excellent cuisine.   
+c. The Pennsylvania Dutch people are known throughout the world for their colorful and amusing sayings.   
+d. No group of people blends recipes as well as the Pennsylvania Dutch people do.   
+e. If fathers and sons in Pennsylvania Dutch families made food, it would not be as good as the food mothers and daughters make.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,b,,248,135,383,2003.8090830203146,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q034,34,"Use the following passage to answer questions 34 through 38.
+
+The color of animals is by no means a matter of chance; it depends on many considerations, but in the majority of cases tends to protect the animal from danger by rendering it less conspicu-  
+5 ous. Perhaps it may be said that if coloring is mainly protective, there ought to be but few brightly colored animals. There are, however, not a few cases in which vivid colors are themselves protective. The kingfisher itself, though   
+10 so brightly colored, is by no means easy to see. The blue harmonizes with the water, and the bird as it darts along the stream looks almost like a flash of sunlight; besides which, protection is not the only consideration. Let us now   
+15 consider the prevalent colors of animals and see how far they support the rule.
+
+Desert animals are generally the color of the desert. Thus, for instance, the lion, the antelope, and the wild ass are all sand-colored.
+
+20 ""Indeed,"" says Canon Tristram, ""in the desert, where neither trees, brushwood, nor even undulation of the surface afford the slightest protection to its foes, a modification of color which shall be assimilated to that of the sur-  
+25 rounding country is absolutely necessary. Hence, without exception, the upper plumage of every bird, whether lark, chat, sylvain, or sand grouse, and also the fur of all the smaller mammals and the skin of all the snakes and   
+30 lizards, is of one uniform sand color.""
+
+Source: Excerpt from ""The Colors of Animals"" by Sir John Lubbock","34. The author's use of the word harmonizes in line 11 emphasizes
+
+a. the sweet sound of the kingfisher's song.   
+b. the musical sound of flowing water.   
+c. the appealing glimmer of sunlight.   
+d. how the kingfisher blends with its environment.   
+e. how the sounds of a bird and water blend.","34. d. Although the word harmonizes is most often used in relation to music, the author of this passage uses it to explain how a kingfisher blends with its environment visually. So choices a, b, and e, which all take the word more literally as a way of describing sound, can be eliminated. Since the word applies to a kingfisher and its watery environment, not the glimmer of sunlight mentioned further on in the passage, choice c is incorrect.","Use the following passage to answer questions 34 through 38.
+
+The color of animals is by no means a matter of chance; it depends on many considerations, but in the majority of cases tends to protect the animal from danger by rendering it less conspicu-  
+5 ous. Perhaps it may be said that if coloring is mainly protective, there ought to be but few brightly colored animals. There are, however, not a few cases in which vivid colors are themselves protective. The kingfisher itself, though   
+10 so brightly colored, is by no means easy to see. The blue harmonizes with the water, and the bird as it darts along the stream looks almost like a flash of sunlight; besides which, protection is not the only consideration. Let us now   
+15 consider the prevalent colors of animals and see how far they support the rule.
+
+Desert animals are generally the color of the desert. Thus, for instance, the lion, the antelope, and the wild ass are all sand-colored.
+
+20 ""Indeed,"" says Canon Tristram, ""in the desert, where neither trees, brushwood, nor even undulation of the surface afford the slightest protection to its foes, a modification of color which shall be assimilated to that of the sur-  
+25 rounding country is absolutely necessary. Hence, without exception, the upper plumage of every bird, whether lark, chat, sylvain, or sand grouse, and also the fur of all the smaller mammals and the skin of all the snakes and   
+30 lizards, is of one uniform sand color.""
+
+Source: Excerpt from ""The Colors of Animals"" by Sir John Lubbock
+
+34. The author's use of the word harmonizes in line 11 emphasizes
+
+a. the sweet sound of the kingfisher's song.   
+b. the musical sound of flowing water.   
+c. the appealing glimmer of sunlight.   
+d. how the kingfisher blends with its environment.   
+e. how the sounds of a bird and water blend.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,D,,473,247,720,2720.6799590494484,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q014,14,"Use the following passage to answer questions 13 through 15.
+
+The account of this second journey of the Polos may be read in the wonderful book which Marco afterwards wrote to describe the won-ders of the world. They went from Lajazzo
+
+5 through Turcomania, past Mount Ararat, where Marco heard tell that Noah's ark rested, and where he first heard also of the oil wells of Baku and the great inland sea of Caspian. Past Mosul and Bagdad they went, through Persia, where
+
+10 brocades are woven and merchants bring caravan after caravan of treasures, to Hormuz, on the Persian Gulf, into which port put the ships from India, laden with spices, drugs, scented woods, and jewels, gold tissues and elephants'
+
+15 teeth. Here they meant to take ship, but they desisted, perhaps because they feared to trust themselves to the flimsy nailless vessels in which the Arabs braved the dangers of the Indian Ocean. So they turned north again and
+
+20 prepared to make the journey by land. They traversed the salt desert of Kerman, through Balk and Khorassan to Badakhshan, where there are horses bred from Alexander the Great's steed Bucephalus, and ruby mines and
+
+25 lapis lazuli. It is a land of beautiful mountains and wide plains, of trout streams and good hunting, and here the brothers sojourned for nearly a year, for young Marco had fallen ill in the hot plains: a breath of mountain air blows
+
+30 through the page in which he describes how amid the clean winds his health came back to him.
+
+Source: Excerpt from A Short History of the World by H.G. Wells","14. The passage is primarily concerned with
+
+a. the written work of Marco Polo.   
+b. Marco Polo's experiences in Turcomania.   
+c. the landscape of Badakhshan.   
+d. the travels of Marco Polo.   
+e. the people with whom Marco Polo traveled.","14. d. This passage primarily describes the travels of Marco Polo in a general way. Polo's written work is only briefly mentioned in the first sentence of the passage, so it could hardly be the passage's primary concern (choice a). Choices b and c refer to places to which Polo traveled in this passage, but neither place is significant enough to the overall passage to describe its primary concern accurately. Marco Polo is definitely the most important person in the passage, so choice e does not make much sense.","Use the following passage to answer questions 13 through 15.
+
+The account of this second journey of the Polos may be read in the wonderful book which Marco afterwards wrote to describe the won-ders of the world. They went from Lajazzo
+
+5 through Turcomania, past Mount Ararat, where Marco heard tell that Noah's ark rested, and where he first heard also of the oil wells of Baku and the great inland sea of Caspian. Past Mosul and Bagdad they went, through Persia, where
+
+10 brocades are woven and merchants bring caravan after caravan of treasures, to Hormuz, on the Persian Gulf, into which port put the ships from India, laden with spices, drugs, scented woods, and jewels, gold tissues and elephants'
+
+15 teeth. Here they meant to take ship, but they desisted, perhaps because they feared to trust themselves to the flimsy nailless vessels in which the Arabs braved the dangers of the Indian Ocean. So they turned north again and
+
+20 prepared to make the journey by land. They traversed the salt desert of Kerman, through Balk and Khorassan to Badakhshan, where there are horses bred from Alexander the Great's steed Bucephalus, and ruby mines and
+
+25 lapis lazuli. It is a land of beautiful mountains and wide plains, of trout streams and good hunting, and here the brothers sojourned for nearly a year, for young Marco had fallen ill in the hot plains: a breath of mountain air blows
+
+30 through the page in which he describes how amid the clean winds his health came back to him.
+
+Source: Excerpt from A Short History of the World by H.G. Wells
+
+14. The passage is primarily concerned with
+
+a. the written work of Marco Polo.   
+b. Marco Polo's experiences in Turcomania.   
+c. the landscape of Badakhshan.   
+d. the travels of Marco Polo.   
+e. the people with whom Marco Polo traveled.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,D,,467,431,898,3506.946041015908,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q020,20,"Use the following passage to answer questions 19 through 21.
+
+The steamboat was, if anything, a little ahead of the steam engine in its earlier phases. There was a steamboat, the Charlotte Dundas, on the Firth of Clyde Canal in 1802, and in 1807 an Ameri-  
+5 can named Fulton had a steamer, the Clermont, with British-built engines, upon the Hudson River above New York. The first steamship to put to sea was also an American, the Phænix, which went from New York (Hoboken) to Phil-  
+10 adelphia. So, too, was the first ship using steam (she also had sails) to cross the Atlantic, the Savannah (1819). All these were paddle-wheel boats and paddle-wheel boats are not adapted to work in heavy seas. The paddles smash too   
+15 easily, and the boat is then disabled. The screw steamship followed rather slowly. Many difficulties had to be surmounted before the screw was a practicable thing.
+
+Source: Excerpt from The Frontier in American History by Frederick Jackson Turner
+
+A TIMELINE OF EARLY STEAMSHIP HISTORY 
+
+<table><tr><td>1807</td><td>The steamboat emerges as a practical form of travel.</td></tr><tr><td>1811</td><td>The first steamboat travels the Mississippi River.</td></tr><tr><td>1818</td><td>First steamboat service on the Mediterranean Sea</td></tr><tr><td>1819</td><td>The first steamboat crosses the Atlantic Ocean.</td></tr><tr><td>1838</td><td>First transatlantic steamboat service</td></tr><tr><td>1851</td><td>John Elder patents compound steam engine.</td></tr></table>","20. Based on information in the passage and the timeline, which of the following is most likely true?
+
+a. The Charlotte Dundas was the first steamboat to travel on the Mississippi River.   
+b. The Phoenix was the first steamboat to cross the Atlantic Ocean in 1819.   
+c. The Savannah was the first steamboat service on the Mediterranean Sea.   
+d. The screw steamship was identical to the compound steam engine.   
+e. The Clermont helped demonstrate that the steamboat was a practical form of travel.","20. e. According to the passage, the Clermont was a significant steamship that sailed the Hudson River near New York the same year that, according to the timeline, the steamboat emerged as a practical form of travel. Based on this information, choice e is a logical conclusion. According to the passage, the Charlotte Dundas was a steamboat on the Firth of Clyde Canal, not on the Mississippi, so choice a is not correct. According to the passage, the Savannah was the first steamship to cross the Atlantic Ocean, so choice b cannot be correct. The fact that the Savannah was an American ship also makes choice c unlikely. There is no evidence in the passage or timeline to support choice d.","Use the following passage to answer questions 19 through 21.
+
+The steamboat was, if anything, a little ahead of the steam engine in its earlier phases. There was a steamboat, the Charlotte Dundas, on the Firth of Clyde Canal in 1802, and in 1807 an Ameri-  
+5 can named Fulton had a steamer, the Clermont, with British-built engines, upon the Hudson River above New York. The first steamship to put to sea was also an American, the Phænix, which went from New York (Hoboken) to Phil-  
+10 adelphia. So, too, was the first ship using steam (she also had sails) to cross the Atlantic, the Savannah (1819). All these were paddle-wheel boats and paddle-wheel boats are not adapted to work in heavy seas. The paddles smash too   
+15 easily, and the boat is then disabled. The screw steamship followed rather slowly. Many difficulties had to be surmounted before the screw was a practicable thing.
+
+Source: Excerpt from The Frontier in American History by Frederick Jackson Turner
+
+A TIMELINE OF EARLY STEAMSHIP HISTORY 
+
+<table><tr><td>1807</td><td>The steamboat emerges as a practical form of travel.</td></tr><tr><td>1811</td><td>The first steamboat travels the Mississippi River.</td></tr><tr><td>1818</td><td>First steamboat service on the Mediterranean Sea</td></tr><tr><td>1819</td><td>The first steamboat crosses the Atlantic Ocean.</td></tr><tr><td>1838</td><td>First transatlantic steamboat service</td></tr><tr><td>1851</td><td>John Elder patents compound steam engine.</td></tr></table>
+
+20. Based on information in the passage and the timeline, which of the following is most likely true?
+
+a. The Charlotte Dundas was the first steamboat to travel on the Mississippi River.   
+b. The Phoenix was the first steamboat to cross the Atlantic Ocean in 1819.   
+c. The Savannah was the first steamboat service on the Mediterranean Sea.   
+d. The screw steamship was identical to the compound steam engine.   
+e. The Clermont helped demonstrate that the steamboat was a practical form of travel.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,e,,524,148,672,3042.8475418593735,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q051,51,"Use the following passage to answer questions 50 through 53.
+
+Gettysburg is the market town—or borough, accurately speaking—of an exclusively farming population, planted in one of the most productive sections of the Keystone State. It is the seat
+
+5 of justice of the county. It has a seminary and college of the German Lutheran Church, which give a certain tone and cast to its social life. In
+
+short, Gettysburg seems in all things so entirely devoted to the pursuits of peace, there is so little that is suggestive of war and bloodshed, even if time had not mostly effaced all traces of that gigantic struggle that, coming as we do with one absorbing idea in mind, we find it hard to reconcile the facts of history with the facts as we find them.
+
+There is another side to Gettysburg—a picturesque, a captivating side. One looks around upon the landscape with simple admiration. One’s highest praise comes from the
+
+20 feeling of quiet satisfaction with which the harmony of nature reveals the harmony of God. You are among the subsiding swells that the South Mountain has sent rippling off to the east. So completely is the village hid away
+
+25 among these green swells that neither spire nor steeple is seen until, upon turning one of the numerous low ridges by which the face of the country is so cut up, you enter a valley, not deep, but well defined by two opposite ranges
+
+30 of heights, and Gettysburg lies gleaming in the declining sun before you—a picture to be long remembered.
+
+Source: Excerpt from The Battle of Gettysburg 1863 by Samuel Adams Drake","51. Which sentence from the passage contains both a fact and an opinion?
+
+a. It is the seat of justice of the county.
+
+b. In short, Gettysburg seems in all things so entirely devoted to the pursuits of peace, there is so little that is suggestive of war and bloodshed, even if time had not mostly effaced all traces of that gigantic struggle that, coming as we do with one absorbing idea in mind, we find it hard to reconcile the facts of history with the facts as we find them.
+
+c. There is another side to Gettysburg—a picturesque, a captivating side.
+
+d. One's highest praise comes from the feeling of quiet satisfaction with which the harmony of nature reveals the harmony of God.
+
+e. So completely is the village hid away among these green swells that neither spire nor steeple is seen until, upon turning one of the numerous low ridges by which the face of the country is so cut up, you enter a valley,
+
+not deep, but well defined by two opposite ranges of heights, and Gettysburg lies gleaming in the declining sun before you—a picture to be long remembered.","51. e. This is the only sentence that includes both facts (what is seen of Gettysburg when turning along certain ridges) and an opinion (the personal opinion that the landscape of Gettysburg is a picture to be long remembered). Choice a only includes a fact. Choices b, c, and d only express opinions.","Use the following passage to answer questions 50 through 53.
+
+Gettysburg is the market town—or borough, accurately speaking—of an exclusively farming population, planted in one of the most productive sections of the Keystone State. It is the seat
+
+5 of justice of the county. It has a seminary and college of the German Lutheran Church, which give a certain tone and cast to its social life. In
+
+short, Gettysburg seems in all things so entirely devoted to the pursuits of peace, there is so little that is suggestive of war and bloodshed, even if time had not mostly effaced all traces of that gigantic struggle that, coming as we do with one absorbing idea in mind, we find it hard to reconcile the facts of history with the facts as we find them.
+
+There is another side to Gettysburg—a picturesque, a captivating side. One looks around upon the landscape with simple admiration. One’s highest praise comes from the
+
+20 feeling of quiet satisfaction with which the harmony of nature reveals the harmony of God. You are among the subsiding swells that the South Mountain has sent rippling off to the east. So completely is the village hid away
+
+25 among these green swells that neither spire nor steeple is seen until, upon turning one of the numerous low ridges by which the face of the country is so cut up, you enter a valley, not deep, but well defined by two opposite ranges
+
+30 of heights, and Gettysburg lies gleaming in the declining sun before you—a picture to be long remembered.
+
+Source: Excerpt from The Battle of Gettysburg 1863 by Samuel Adams Drake
+
+51. Which sentence from the passage contains both a fact and an opinion?
+
+a. It is the seat of justice of the county.
+
+b. In short, Gettysburg seems in all things so entirely devoted to the pursuits of peace, there is so little that is suggestive of war and bloodshed, even if time had not mostly effaced all traces of that gigantic struggle that, coming as we do with one absorbing idea in mind, we find it hard to reconcile the facts of history with the facts as we find them.
+
+c. There is another side to Gettysburg—a picturesque, a captivating side.
+
+d. One's highest praise comes from the feeling of quiet satisfaction with which the harmony of nature reveals the harmony of God.
+
+e. So completely is the village hid away among these green swells that neither spire nor steeple is seen until, upon turning one of the numerous low ridges by which the face of the country is so cut up, you enter a valley,
+
+not deep, but well defined by two opposite ranges of heights, and Gettysburg lies gleaming in the declining sun before you—a picture to be long remembered.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,b,,612,139,751,2946.890874998644,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q037,37,"Use the following passage to answer questions 34 through 38.
+
+The color of animals is by no means a matter of chance; it depends on many considerations, but in the majority of cases tends to protect the animal from danger by rendering it less conspicu-  
+5 ous. Perhaps it may be said that if coloring is mainly protective, there ought to be but few brightly colored animals. There are, however, not a few cases in which vivid colors are themselves protective. The kingfisher itself, though   
+10 so brightly colored, is by no means easy to see. The blue harmonizes with the water, and the bird as it darts along the stream looks almost like a flash of sunlight; besides which, protection is not the only consideration. Let us now   
+15 consider the prevalent colors of animals and see how far they support the rule.
+
+Desert animals are generally the color of the desert. Thus, for instance, the lion, the antelope, and the wild ass are all sand-colored.
+
+20 ""Indeed,"" says Canon Tristram, ""in the desert, where neither trees, brushwood, nor even undulation of the surface afford the slightest protection to its foes, a modification of color which shall be assimilated to that of the sur-  
+25 rounding country is absolutely necessary. Hence, without exception, the upper plumage of every bird, whether lark, chat, sylvain, or sand grouse, and also the fur of all the smaller mammals and the skin of all the snakes and   
+30 lizards, is of one uniform sand color.""
+
+Source: Excerpt from ""The Colors of Animals"" by Sir John Lubbock","37. The author includes the quotation from Canon Tristram in order to
+
+a. show that authorities agree with the author's opinions.   
+b. illustrate an idea that the author could not have explained himself.   
+c. support an argument that is not very popular.   
+d. prove that birds are unique creatures.   
+e. develop upon an idea the author had already introduced.","37. e. The quotation develops upon the author's earlier statement that Desert animals are generally the color of the desert. While it is likely that Canon Tristram is an authority, there is no reason to believe this person speaks for all authorities, so choice a is not the best answer. It also is not likely that the author could not have explained the idea himself if he had to do so, so choice b is not the best answer either. There is no evidence that the author's statement about animal coloring is unpopular, so choice c is not the best answer. The quotation deals more with why certain birds are certain colors than their general uniqueness, so choice d is not the best answer either.","Use the following passage to answer questions 34 through 38.
+
+The color of animals is by no means a matter of chance; it depends on many considerations, but in the majority of cases tends to protect the animal from danger by rendering it less conspicu-  
+5 ous. Perhaps it may be said that if coloring is mainly protective, there ought to be but few brightly colored animals. There are, however, not a few cases in which vivid colors are themselves protective. The kingfisher itself, though   
+10 so brightly colored, is by no means easy to see. The blue harmonizes with the water, and the bird as it darts along the stream looks almost like a flash of sunlight; besides which, protection is not the only consideration. Let us now   
+15 consider the prevalent colors of animals and see how far they support the rule.
+
+Desert animals are generally the color of the desert. Thus, for instance, the lion, the antelope, and the wild ass are all sand-colored.
+
+20 ""Indeed,"" says Canon Tristram, ""in the desert, where neither trees, brushwood, nor even undulation of the surface afford the slightest protection to its foes, a modification of color which shall be assimilated to that of the sur-  
+25 rounding country is absolutely necessary. Hence, without exception, the upper plumage of every bird, whether lark, chat, sylvain, or sand grouse, and also the fur of all the smaller mammals and the skin of all the snakes and   
+30 lizards, is of one uniform sand color.""
+
+Source: Excerpt from ""The Colors of Animals"" by Sir John Lubbock
+
+37. The author includes the quotation from Canon Tristram in order to
+
+a. show that authorities agree with the author's opinions.   
+b. illustrate an idea that the author could not have explained himself.   
+c. support an argument that is not very popular.   
+d. prove that birds are unique creatures.   
+e. develop upon an idea the author had already introduced.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,a,,476,799,1275,5528.297916054726,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
+q027,27,"Use the following passage to answer questions 27 through 29.
+
+Wood exhibits its greatest strength in tension parallel to the grain, and it is very uncommon in practice for a specimen to be pulled in two lengthwise. This is due to the difficulty of mak-
+
+5 ing the end fastenings secure enough for the full tensile strength to be brought into play before the fastenings shear off longitudinally. This is not the case with metals, and as a result they are used in almost all places where tensile   
+10 strength is particularly needed, even though the remainder of the structure, such as sills, beams, joists, posts, and flooring, may be of wood. Thus in a wooden truss bridge the tension members are steel rods.
+
+15 The tensile strength of wood parallel to the grain depends upon the strength of the fibres and is affected not only by the nature and dimensions of the wood elements but also by their arrangement. It is greatest in straight-
+
+20 grained specimens with thick-walled fibres. Cross grain of any kind materially reduces the tensile strength of wood, since the tensile strength at right angles to the grain is only a small fraction of that parallel to the grain.
+
+Source: Excerpt from The Mechanical Properties of Wood by Samuel J. Record
+
+RATIO OF STRENGTH OF WOOD IN TENSION AND IN COMPRESSION   
+(BUL. 10, U.S. DIV. OF FORESTRY, p. 44) 
+
+<table><tr><td rowspan=""3"">Kind of Wood</td><td rowspan=""2"">Ratio: R = Tensile strength</td><td colspan=""2"">A stick 1 square inch in cross section.</td></tr><tr><td colspan=""2"">Weight required to—</td></tr><tr><td>Compressive strength</td><td>Pull apart</td><td>Crush endwise</td></tr><tr><td>Hickory</td><td>3.7</td><td>32,000</td><td>8,500</td></tr><tr><td>Elm</td><td>3.8</td><td>29,000</td><td>7,500</td></tr><tr><td>Larch</td><td>2.3</td><td>19,400</td><td>8,600</td></tr><tr><td>Longleaf Pine</td><td>2.2</td><td>17,300</td><td>7,400</td></tr></table>
+
+NOTE.—Moisture condition not given.","27. According to the passage, all of the following probably lacked considerable tensile strength EXCEPT
+
+a. sills.   
+b. beams.   
+c. rods in a truss bridge.   
+d. joists.   
+e. flooring.","27. c. According to the passage, metal is higher in tensile strength than wood, and the rods in a truss bridge are identified as structural elements that must be made of metal. The author states that sills (choice a), beams (choice b), joists (choice d), and flooring (choice e) may all be made of wood.","Use the following passage to answer questions 27 through 29.
+
+Wood exhibits its greatest strength in tension parallel to the grain, and it is very uncommon in practice for a specimen to be pulled in two lengthwise. This is due to the difficulty of mak-
+
+5 ing the end fastenings secure enough for the full tensile strength to be brought into play before the fastenings shear off longitudinally. This is not the case with metals, and as a result they are used in almost all places where tensile   
+10 strength is particularly needed, even though the remainder of the structure, such as sills, beams, joists, posts, and flooring, may be of wood. Thus in a wooden truss bridge the tension members are steel rods.
+
+15 The tensile strength of wood parallel to the grain depends upon the strength of the fibres and is affected not only by the nature and dimensions of the wood elements but also by their arrangement. It is greatest in straight-
+
+20 grained specimens with thick-walled fibres. Cross grain of any kind materially reduces the tensile strength of wood, since the tensile strength at right angles to the grain is only a small fraction of that parallel to the grain.
+
+Source: Excerpt from The Mechanical Properties of Wood by Samuel J. Record
+
+RATIO OF STRENGTH OF WOOD IN TENSION AND IN COMPRESSION   
+(BUL. 10, U.S. DIV. OF FORESTRY, p. 44) 
+
+<table><tr><td rowspan=""3"">Kind of Wood</td><td rowspan=""2"">Ratio: R = Tensile strength</td><td colspan=""2"">A stick 1 square inch in cross section.</td></tr><tr><td colspan=""2"">Weight required to—</td></tr><tr><td>Compressive strength</td><td>Pull apart</td><td>Crush endwise</td></tr><tr><td>Hickory</td><td>3.7</td><td>32,000</td><td>8,500</td></tr><tr><td>Elm</td><td>3.8</td><td>29,000</td><td>7,500</td></tr><tr><td>Larch</td><td>2.3</td><td>19,400</td><td>8,600</td></tr><tr><td>Longleaf Pine</td><td>2.2</td><td>17,300</td><td>7,400</td></tr></table>
+
+NOTE.—Moisture condition not given.
+
+27. According to the passage, all of the following probably lacked considerable tensile strength EXCEPT
+
+a. sills.   
+b. beams.   
+c. rods in a truss bridge.   
+d. joists.   
+e. flooring.
+
+Answer with the letter(s) only (e.g., A or AB). No explanation needed.",[],,C,,593,156,749,4853.0918748583645,"{'thinking': {'type': 'disabled'}, 'temperature': 0.1, 'stream': True, 'system_input': 'Reasoning effort should be low. Maxmium tokens for reasoning or thinking can not be more than 100 tokens.', 'max_tokens': 12000, 'disable_maxtoken_hint': 1, 'api': {'base_url': 'https://api.innospark.cn/v1', 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'model': 'gemini-2.5-flash'}, 'api_key': 'sk-yJdHSUrrZNYkBS5f5dHOPgoxRw5Q8qRJPFTbKh6jOqnAUZNF', 'base_url': 'https://api.innospark.cn/v1', 'model': 'gemini-2.5-flash', 'timeout': 60.0}"
