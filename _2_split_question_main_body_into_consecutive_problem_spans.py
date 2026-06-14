@@ -82,7 +82,7 @@ def _split_markdown_into_spans(md_text, exam_format: ExamFormat = PRAXIS_READING
 
     separator = '=' * 100
     for line in md_text.splitlines():
-        if exam_format.span_trigger_re.match(line):
+        if exam_format.questions_span_trigger_re.match(line):
             # The single place a new span starts.
             close_current()
             current = [line]

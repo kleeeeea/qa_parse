@@ -7,6 +7,23 @@ from stage import Stage
 from tests.fixture._constants import mineruparsed
 
 
+def slice_mainbody(lines, is_start, is_end, *, default_start):
+    """切出文档主体的 [start, end) 行区间，供「题目主体」「答案主体」复用。
+
+    start：第一条 is_start(line) 命中的行；没命中则用 default_start
+    （题目主体取 0=文件头；答案主体取 len(lines)=空切片，没有答案区时）。
+    end：start 之后第一条 is_end(line) 命中的行；没命中则到文件尾。
+    再剥掉主体末尾的空行和孤立页码行（mineru 把页脚页码解析成单独一行，
+    否则会挂在最后一题/最后一条答案的尾部）。返回 (start, end) 下标。
+    """
+    start = next((i for i, l in enumerate(lines) if is_start(l)), default_start)
+    end = next((i for i in range(start, len(lines)) if is_end(lines[i])), len(lines))
+    while end > start and (not lines[end - 1].strip()
+                           or re.fullmatch(r'\s*\d+\s*', lines[end - 1])):
+        end -= 1
+    return start, end
+
+
 def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     """Slice the markdown down to the questions main body.
 
@@ -19,27 +36,16 @@ def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     PDF），主体直到文件尾。
     """
     lines = md_text.splitlines()
-    # 处理第一个题目没有Passage， 直接是
-    # 1.{question}
-    # 的情况：起点取「第一个 trigger 行」和「题号为 1 的题目行」中更早出现者
+    # 处理第一个题目没有Passage， 直接是 "1.{question}" 的情况：
+    # 起点取「第一个 trigger 行」和「题号为 1 的题目行」中更早出现者
     def _is_mainbody_start(l):
-        if exam_format.span_trigger_re.match(l):
+        if exam_format.questions_span_trigger_re.match(l):
             return True
         return question_number_match(exam_format, l) == 1
 
-    start = next(
-        (i for i, l in enumerate(lines) if _is_mainbody_start(l)), 0)
-    end = len(lines)
-    if exam_format.mainbody_end_re is not None:
-        for i in range(start, len(lines)):
-            if exam_format.mainbody_end_re.match(lines[i]):
-                end = i
-                break
-    # 剥掉主体末尾的空行和孤立页码行（mineru 把页脚页码解析成单独一行，
-    # 否则会挂在最后一题的题干尾部）
-    while end > start and (not lines[end - 1].strip()
-                           or re.fullmatch(r'\s*\d+\s*', lines[end - 1])):
-        end -= 1
+    end_re = exam_format.mainbody_end_re
+    is_end = end_re.match if end_re is not None else (lambda l: False)
+    start, end = slice_mainbody(lines, _is_mainbody_start, is_end, default_start=0)
     return '\n'.join(lines[start:end]).strip() + '\n'
 
 

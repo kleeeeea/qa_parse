@@ -7,7 +7,7 @@ from dataclass_ import AnswerSpanRow, columns
 from exam_formats import PRAXIS_READING, ExamFormat
 from stage import Stage
 from tests.fixture._constants import mineruparsed
-from _1_get_questions_mainbody import GetQuestionsMainbodyStage
+from _1_get_questions_mainbody import GetQuestionsMainbodyStage, slice_mainbody
 from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoSpansStage
 from _3_split_consecutive_problem_spans_into_individual_questions import SplitSpansIntoIndividualQuestionsStage
 
@@ -25,54 +25,46 @@ IN_SECTION_TOP_LEVEL_RE = re.compile(r'^\s*(Passage|Source)\s+\d+\s*$', re.IGNOR
 ANSWERS_SECTION_MARKER_RE = re.compile(r'Answers and Explanations', re.IGNORECASE)
 
 
+def _is_answer_mainbody_start(line):
+    # 答案主体起点：含 "Answers and Explanations" 的顶级标题
+    m = TOP_LEVEL_HEADER_RE.match(line)
+    return bool(m and ANSWERS_SECTION_MARKER_RE.search(m.group(1)))
+
+
+def _is_answer_mainbody_end(line):
+    # 答案主体终点：下一个顶级标题——但 Passage/Source 子标题不算（留在答案内），
+    # 另一段 "Answers and Explanations" 标题也不算（同属答案区）
+    m = TOP_LEVEL_HEADER_RE.match(line)
+    if not m:
+        return False
+    header_text = m.group(1).strip()
+    if ANSWERS_SECTION_MARKER_RE.search(header_text):
+        return False
+    return not IN_SECTION_TOP_LEVEL_RE.match(header_text)
+
+
 def _split_markdown_into_answer_spans(md_text, exam_format: ExamFormat = PRAXIS_READING):
-    """Walk the markdown line by line.
-
-    Enters "answer mode" at any top-level header (`# …`) whose text contains
-    "Answers and Explanations". While in answer mode:
-      - a line matching exam_format.answer_header_re starts a new
-        numbered-answer span,
-      - every subsequent line is appended to the current span,
-      - a top-level header that is NOT a Passage/Source sub-label closes the
-        current span and exits answer mode (the next test section starts).
-
-    Lines outside answer mode are discarded.
+    """先复用 slice_mainbody 切出答案主体（"Answers and Explanations" 标题起，
+    到下一个非 Passage/Source 顶级标题止；没有答案区则空切片），再在主体内按
+    exam_format.answer_mainbody_start_re 切成一条条 numbered-answer span。
     """
+    lines = md_text.splitlines()
+    start, end = slice_mainbody(
+        lines, _is_answer_mainbody_start, _is_answer_mainbody_end,
+        default_start=len(lines))
+
     spans = []
     current = None
-
-    def _flush():
-        nonlocal current
-        if current is not None:
-            spans.append(current)
-            current = None
-
-    in_answers = False
-    for line in md_text.splitlines():
-        header_match = TOP_LEVEL_HEADER_RE.match(line)
-        if header_match:
-            header_text = header_match.group(1).strip()
-            if ANSWERS_SECTION_MARKER_RE.search(header_text):
-                # Start of (or re-entry into) an answer section.
-                _flush()
-                in_answers = True
-                continue
-            if in_answers and not IN_SECTION_TOP_LEVEL_RE.match(header_text):
-                # New top-level section (next test, etc.) — leave answer mode.
-                _flush()
-                in_answers = False
-                continue
-            # Otherwise it's a Passage/Source sub-label inside the answers — fall
-            # through and let the line be appended to the current answer.
-        if not in_answers:
-            continue
-        m = exam_format.answer_header_re.match(line)
+    for line in lines[start:end]:
+        m = exam_format.answer_mainbody_start_re.match(line)
         if m:
-            _flush()
+            if current is not None:
+                spans.append(current)
             current = {'num': int(m.group(1)), 'lines': [line]}
         elif current is not None:
             current['lines'].append(line)
-    _flush()
+    if current is not None:
+        spans.append(current)
     return spans
 
 

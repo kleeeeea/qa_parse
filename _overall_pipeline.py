@@ -3,7 +3,7 @@ import os
 from dataclasses import asdict
 
 from dataclass_ import PromptRow, columns
-from exam_formats import PRAXIS_READING, ExamFormat
+from exam_formats import ExamFormat, get_exam_format
 
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
 from _2_split_question_main_body_into_consecutive_problem_spans import (
@@ -21,10 +21,15 @@ from tests.fixture._constants import mineruparsed
 
 def main():
     # 每步返回输出路径并作为下一步的输入；输出已存在时各步自动跳过（幂等）
-    run_pipeline(mineruparsed, mineruparsed, PRAXIS_READING)
+    # 不传 exam_format —— 由题目文档内容自动推断
+    run_pipeline(mineruparsed, mineruparsed)
 
 
-def run_pipeline(question_input_document: str, answer_input_document: str, exam_format: ExamFormat = PRAXIS_READING) -> None:
+def run_pipeline(question_input_document: str, answer_input_document: str, exam_format: ExamFormat | None = None) -> None:
+    # 未显式指定时，从题目文档内容自动推断卷型
+    if exam_format is None:
+        exam_format = get_exam_format(question_input_document)
+        print(f'inferred exam format: {exam_format.name}')
     questions_mainbody_md = GetQuestionsMainbodyStage(exam_format=exam_format).run(question_input_document)
     questionspan_csv = SplitQuestionMainbodyIntoSpansStage(exam_format=exam_format).run(questions_mainbody_md)
     individual_question_csv = SplitSpansIntoIndividualQuestionsStage(exam_format=exam_format).run(questionspan_csv)
