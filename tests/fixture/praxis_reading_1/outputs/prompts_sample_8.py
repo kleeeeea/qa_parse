@@ -13,7 +13,7 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from llm_common.llm_infer.api_info.dataclass_ import GEMINI_API
+from llm_common.llm_infer.api_info.dataclass_ import GEMINI_2_5_FLASH_API
 from llm_common.llm_infer.api_info.dataclass_ import apiconfig_for_model
 from llm_common.llm_infer.batch_call import cached_batch_call_file
 
@@ -37,7 +37,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Sample 8 prompts and run batch inference.")
     parser.add_argument(
         "--model",
-        default=GEMINI_API.model,
+        default=GEMINI_2_5_FLASH_API.model,
         help="Model name (must exist in MODEL_TO_APICONFIG). Default: %(default)s",
     )
     parser.add_argument(
