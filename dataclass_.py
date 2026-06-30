@@ -59,7 +59,6 @@ class TraceAction:
     APPEND_ITEM_START_TO_SPAN = 'append_item_start_to_span'
     APPEND_TO_SPAN = 'append_to_span'
     FINISH_QUESTION_CONTEXT = 'finish_question_context'
-    ATTACH_QUESTION_CONTEXT = 'attach_question_context'
     CLEAR_QUESTION_CONTEXT = 'clear_question_context'
     SKIP = 'skip'
 
@@ -73,7 +72,6 @@ class LineTraceRecord:
     仅 question FSM 用到，answer FSM 留 None（其 CSV 不含该列）。
     """
     finished_lines_count: int  # 记录原始游标状态（0-based），不再派生 line_number
-    next_itemspan_first_itemnumber: int
     included_items: int | str
     action: str
     line: str
@@ -81,7 +79,6 @@ class LineTraceRecord:
     caller_location: str
     expected_span_first_question: int | None = None
     has_mainbody_started: bool = False
-
 
 @dataclass(frozen=True)
 class _HasAnswer:

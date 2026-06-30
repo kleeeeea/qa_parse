@@ -40,13 +40,14 @@ class AnswerMainbodyFSM:
             exam_format = PraxisReading
         self.exam_format = exam_format
 
-        self.next_itemspan_first_itemnumber = 1  # 下一个 span 的首题号（随 range 行推进）
         self.items:List[NumberedItem] = []  # 产出 [(qnum, passage, question_text)]
         self.line_trace: list[LineTraceRecord] = []
 
-        self.is_verbose = debug
         self.has_mainbody_started = False               # 是否已开过 span（无-trigger 独立题的 WARNING 判据）
         self.finished_lines_count = 0
+
+    def _next_item_number(self):
+        return len(self.items) + 1
 
     def _assert_finished_lines_cursor(self):
         if not hasattr(self, 'finished_lines_count'):
@@ -85,8 +86,6 @@ class AnswerMainbodyFSM:
                 self.line_trace[-1].action += f'|{action}'
             if len(self.items) and not self.line_trace[-1].included_items:
                 self.line_trace[-1].included_items = len(self.items)
-            self.line_trace[-1].next_itemspan_first_itemnumber = (
-                    self.next_itemspan_first_itemnumber)
             self.line_trace[-1].has_mainbody_started = (
                     self.has_mainbody_started)
             return
@@ -94,8 +93,7 @@ class AnswerMainbodyFSM:
         self.line_trace.append(LineTraceRecord(
                 # 只记录原始状态 self.finished_lines，不再派生 line_number
                 finished_lines_count=self.finished_lines_count,
-                included_items=(len(self.items)),  # 去掉这个没起作用的
-                next_itemspan_first_itemnumber=self.next_itemspan_first_itemnumber,
+                included_items=len(self.items),  # 去掉这个没起作用的
                 line=(self.lines[self.finished_lines_count - 1]),
                 has_mainbody_started=self.has_mainbody_started,
                 action=action,
@@ -105,15 +103,14 @@ class AnswerMainbodyFSM:
 
     def is_next_item_start(self, line):
         # 答案主体起点：含 "Answers and Explanations" 的顶级标题
-        return self.exam_format.get_possible_item_number(line) == self.next_itemspan_first_itemnumber
+        return self.exam_format.get_possible_item_number(line) == self._next_item_number()
 
     def parse_till_item_finish(self, lines):
         """无 passage 的独立题：从题目行起，吃完这一道题。"""
         self.items.append(NumberedItem(
                 lines=[lines[self.finished_lines_count]],
-                number=self.next_itemspan_first_itemnumber,
+                number=self._next_item_number(),
         ))
-        self.next_itemspan_first_itemnumber += 1
 
         # new_span =
         self.finished_lines_count += 1
@@ -158,7 +155,7 @@ class AnswerMainbodyFSM:
                 self.finished_lines_count += 1
                 self._record_last_finished_line_action(TraceAction.FINISH_MAINBODY)
                 break
-            if self.exam_format.get_possible_item_number(line) == self.next_itemspan_first_itemnumber:
+            if self.is_next_item_start(line):
                 # 无 passage 的独立题起点
                 if not self.has_mainbody_started:
                     self.has_mainbody_started = True
