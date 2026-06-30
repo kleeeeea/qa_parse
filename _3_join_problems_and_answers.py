@@ -13,6 +13,13 @@ from tests.fixture._constants import mineruparsed
 joined_output_csv_basename = 'problems_and_answers.csv'
 
 
+def _question_number_sort_key(question_number: str):
+    try:
+        return 0, int(question_number)
+    except (TypeError, ValueError):
+        return 1, str(question_number)
+
+
 
 # def _load_by_question_number(csv_path):
 #     rows = {}
@@ -78,7 +85,10 @@ class JoinProblemsAndAnswersStage(PipelineStageRunnerWithOutput):
         questions = IndividualQuestionRow.read_by_question_number(
                 current_individual_question_csv)
         answers = AnswerSpanRow.read_by_question_number(current_answerspan_csv)
-        all_qnums = sorted(set(questions) | set(answers))
+        all_qnums = sorted(
+                set(questions) | set(answers),
+                key=_question_number_sort_key,
+        )
 
         rows = []
         for qnum in all_qnums:
@@ -111,8 +121,14 @@ class JoinProblemsAndAnswersStage(PipelineStageRunnerWithOutput):
                 evaluation_record_output_path,
         )
 
-        missing_answers = sorted(set(questions) - set(answers))
-        missing_questions = sorted(set(answers) - set(questions))
+        missing_answers = sorted(
+                set(questions) - set(answers),
+                key=_question_number_sort_key,
+        )
+        missing_questions = sorted(
+                set(answers) - set(questions),
+                key=_question_number_sort_key,
+        )
         print(f'wrote {len(all_qnums)} joined rows to {output_path}')
         print(f'wrote {len(rows)} evaluation records to {evaluation_record_output_path}')
         if missing_answers:

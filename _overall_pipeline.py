@@ -126,13 +126,34 @@ def run_parse_evaluation_pipeline(
 
 
 def main():
-    question_input_document = '/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/tests/fixture/praxis_plt_sections/plt_10/plt_10_question.pdf-6aee572b-1ff6-48fc-842c-c9e45f7bbdf0/full.md'
-    # 每步返回输出路径并作为下一步的输入；输出已存在时各步自动跳过（幂等）
-    # 不传 exam_format —— 由题目文档内容自动推断
-    run_parse_evaluation_pipeline(
-        question_input_document,
-            skip_if_output_exists=False,
+    # 遍历 praxis_plt_sections/plt_1 .. plt_10，对每个数据集跑整条管线。
+    sections_dir = (
+        Path(__file__).resolve().parent
+        / 'tests' / 'fixture' / 'praxis_plt_sections'
     )
+    for n in range(1, 11):
+        # if n != 9:
+        #     continue
+        plt_dir = sections_dir / f'plt_{n}'
+        # 每个数据集的题目 mineru 产物：plt_N/plt_N_question.pdf-<uuid>/full.md
+        question_full_mds = sorted(plt_dir.glob('*_question.pdf-*/full.md'))
+        if len(question_full_mds) != 1:
+            raise FileNotFoundError(
+                    f'expected exactly one question full.md under {plt_dir}, '
+                    f'found {len(question_full_mds)}: {question_full_mds}'
+            )
+        question_input_document = str(question_full_mds[0])
+        print(f'=== running pipeline for plt_{n} ===')
+        # 每步返回输出路径并作为下一步的输入；输出已存在时各步自动跳过（幂等）
+        # 不传 exam_format —— 由题目文档内容自动推断
+        # 单个数据集失败不应中断整批：捕获、打印、继续下一个。
+        try:
+            run_parse_evaluation_pipeline(
+                question_input_document,
+                skip_if_output_exists=False,
+            )
+        except Exception as exc:
+            print(f'!!! plt_{n} failed: {type(exc).__name__}: {exc}')
 
 
 if __name__ == '__main__':
