@@ -7,6 +7,7 @@
 CSV 落盘后所有值都是字符串，所以字段统一标注为 str，
 构造方需自行 str() 数值字段（如 question_number）。
 """
+import csv
 from dataclasses import dataclass, fields
 import os
 from typing import List
@@ -18,6 +19,19 @@ from exam_formats import ExamFormat
 def columns(row_cls) -> list[str]:
     """Row dataclass -> CSV 列名列表（即 DictWriter 的 fieldnames）。"""
     return [f.name for f in fields(row_cls)]
+
+
+class _CsvRow:
+    @classmethod
+    def write_csv(cls, output_path, rows):
+        with open(output_path, 'w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=columns(cls))
+            writer.writeheader()
+            for row in rows:
+                writer.writerow({
+                        field: getattr(row, field)
+                        for field in columns(cls)
+                })
 
 # 共享字段抽成 mixin 基类，避免在多个 Row 里重复定义同名字段。
 # 注意：dataclass 按 MRO 逆序（基类在前）收集字段，所以子类的基类列表
@@ -88,7 +102,7 @@ class _HasAnswer:
 
 
 @dataclass(frozen=True)
-class IndividualQuestionRow(_HasPassageAndQuestion, _HasQuestionNumber):
+class IndividualQuestionRow(_HasPassageAndQuestion, _HasQuestionNumber, _CsvRow):
     """_2_ individual_questions.csv：一行 = 一道题（passage 随行冗余）。
 
     列序：question_number, passage, question, original_page_screenshot_paths
@@ -97,15 +111,21 @@ class IndividualQuestionRow(_HasPassageAndQuestion, _HasQuestionNumber):
 
 
 @dataclass(frozen=True)
-class AnswerSpanRow(_HasAnswer, _HasQuestionNumber):
+class AnswerSpanRow(_HasAnswer, _HasQuestionNumber, _CsvRow):
     """_4_ answer_spans.csv：一行 = 一道题的答案+解析。
 
     列序：question_number, answer
     """
+    @classmethod
+    def from_numbered_item(cls, item: NumberedItem):
+        return cls(
+                answer='\n'.join(item.lines),
+                question_number=item.number,
+        )
 
 
 @dataclass(frozen=True)
-class ProblemAndAnswerRow(_HasAnswer, _HasPassageAndQuestion, _HasQuestionNumber):
+class ProblemAndAnswerRow(_HasAnswer, _HasPassageAndQuestion, _HasQuestionNumber, _CsvRow):
     """_5_ problems_and_answers.csv：题目与答案按题号 outer-join 后的一行。
 
     列序：question_number, passage, question, answer,

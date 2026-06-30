@@ -246,20 +246,8 @@ class SplitMineruParsedMdIntoAnswerSpansStage(PipelineStageRunnerWithOutput):
         #         for num, item_lines in split_into_items(
         #             lines[start:end], _detect_answer_start,
         #             expected_start_num=1, expected_end_num=expected_end_num)]
-        spans = parse
-        spans = [
-                AnswerSpanRow(
-                        answer='\n'.join(
-                                s.lines
-                        ) ,
-                        question_number=s.number,
-                ) for s in spans
-        ]
-        with open(output_path, 'w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=columns(AnswerSpanRow))
-            writer.writeheader()
-            for s in spans:
-                writer.writerow(asdict(s))
+        spans = [AnswerSpanRow.from_numbered_item(s) for s in parse]
+        AnswerSpanRow.write_csv(output_path, spans)
         print(f'wrote answer FSM trace to {fsm_trace_output_csv}')
         # # split_into_items 已保证答案号严格递增且唯一。
         # seen = {span['num'] for span in spans}

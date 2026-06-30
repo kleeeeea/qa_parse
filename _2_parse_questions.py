@@ -18,7 +18,6 @@ from tests.fixture._constants import mineruparsed
 
 individual_question_output_csv_basename = 'individual_questions.csv'
 question_fsm_trace_output_csv_basename = 'individual_questions_fsm_trace.csv'
-output_csv_columns = columns(IndividualQuestionRow)
 
 
 @dataclass
@@ -124,8 +123,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
     def _process_line_for_streaming_questions(self, line):
         """Update passage/question state for one consumed span line."""
         if self._is_valid_in_span_next_item_start_line(line):
-
-            if bool(self._updated_in_span_state.context_lines):
+            if self._updated_in_span_state.context_lines:
                 self._record_last_finished_line_action(
                         TraceAction.FINISH_QUESTION_CONTEXT)
             qnum = self.exam_format.maybe_get_item_number_from_item_starting_line(line)
@@ -161,7 +159,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
             line = self.lines[self.finished_lines_count]
             if self.exam_format.is_question_mainbody_end_line(line):
                 break
-            if self.exam_format.is_question_context_start_line(line):
+            if self.exam_format.is_question_context_span_starting_line(line):
                 break
             if stop_at_question_start and self.is_next_item_start(line):
                 break
@@ -198,7 +196,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
                 self.finished_lines_count += 1
                 self._record_last_finished_line_action(TraceAction.FINISH_MAINBODY)
                 break
-            if self.exam_format.is_question_context_start_line(line):
+            if self.exam_format.is_question_context_span_starting_line(line):
                 # passage-question span 起点；helper 内部推进 self.finished_lines
                 # 行序列已在 self.lines 里，helper 直接读取，不再传 lines
                 self._parse_till_context_item_finish()
@@ -231,17 +229,15 @@ class SplitQuestionMainbodyIntoIndividualQuestionsStage(PipelineStageRunnerWithO
             md_text = f.read()
         fsm = QuestionMainbodyFSM(self.exam_format)
         questions = fsm.parse(md_text)
-        with open(output_path, 'w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=output_csv_columns)
-            writer.writeheader()
-            for item in questions:
-                writer.writerow(asdict(IndividualQuestionRow(
+
+        rows = [IndividualQuestionRow(
                         question_number=str(item.number),
                         passage=item.context,
                         question='\n'.join(item.lines).strip(),
                         # 题目侧没有截图路径来源，恒取默认值（原 _3 同此）
                         original_page_screenshot_paths='[]',
-                )))
+                ) for item in questions]
+        IndividualQuestionRow.write_csv(output_path, rows)
         trace_output_path = os.path.join(
                 os.path.dirname(os.path.abspath(output_path)),
                 question_fsm_trace_output_csv_basename,
