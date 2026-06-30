@@ -1,13 +1,13 @@
 import csv
 import os
-import re
 import sys
 from dataclasses import asdict
-from typing import Any, List
+from typing import List
 
 from dataclass_ import AnswerSpanRow
 from dataclass_ import LineTraceRecord
 from dataclass_ import Stage
+from dataclass_ import TraceAction
 from dataclass_ import columns
 from exam_formats import ExamFormat
 from parse_evaluation.dataclass_ import NumberedItem
@@ -25,6 +25,15 @@ answer_fsm_trace_output_csv_basename = 'answer_spans_fsm_trace.csv'
 # write a simple FSM
 class AnswerMainbodyFSM:
 
+    _LEGACY_LINE_CURSOR_NAMES = {'current_line', 'current_line_number'}
+
+    def __setattr__(self, name, value):
+        if name in self._LEGACY_LINE_CURSOR_NAMES:
+            raise AttributeError(
+                    f'{name} is ambiguous; use finished_lines as the only '
+                    'line cursor')
+        super().__setattr__(name, value)
+
     def __init__(self, exam_format: ExamFormat = None, debug: bool = True):
         if exam_format is None:
             from parse_evaluation.exam_formats import PraxisReading
@@ -33,23 +42,35 @@ class AnswerMainbodyFSM:
 
         self.next_itemspan_first_itemnumber = 1  # 下一个 span 的首题号（随 range 行推进）
         self.next_item_number = 1  # 全局连续题号（随每道题推进）
-        self.current_item_number: int | None = None  # 当前正在解析的题号，供 _record_line 取用
         self.items:List[NumberedItem] = []  # 产出 [(qnum, passage, question_text)]
         self.line_trace: list[LineTraceRecord] = []
 
         self.is_verbose = debug
         self.has_mainbody_started = False               # 是否已开过 span（无-trigger 独立题的 WARNING 判据）
 
-    def _record_line(self, action: str):
-        # 行内容、行号、题号一律取内部状态，调用方只传 action
-        line_index = self.current_line_number
-        line = self.lines[line_index]
-        line_number = line_index + 1
-        item_number_value = (
-                self.current_item_number
-                if self.current_item_number is not None
-                else len(self.items)
-        )
+    def _assert_finished_lines_cursor(self):
+        if not hasattr(self, 'finished_lines'):
+            raise AttributeError('finished_lines must be initialized before recording trace')
+        if not hasattr(self, 'lines'):
+            raise AttributeError('lines must be initialized before recording trace')
+        if not 0 <= self.finished_lines < len(self.lines):
+            raise IndexError(
+                    f'finished_lines={self.finished_lines} is outside '
+                    f'0..{len(self.lines) - 1}')
+
+    def _record_last_finished_line_action(self, action: str):  # action 取 TraceAction 的常量
+        # make sure self.finished_lines is advanced before calling this.
+        # 行内容、行号、题号一律取内部状态，调用方只传 action。
+        if not hasattr(self, 'finished_lines'):
+            raise AttributeError('finished_lines must be initialized before recording trace')
+        if not hasattr(self, 'lines'):
+            raise AttributeError('lines must be initialized before recording trace')
+        if not 0 < self.finished_lines <= len(self.lines):
+            raise IndexError(
+                    f'finished_lines={self.finished_lines} has no last finished line '
+                    f'in 1..{len(self.lines)}')
+        # 题号直接取已产出题数：item 在记录前已 append 到 self.items，
+        # len(self.items) 即当前题号；不再依赖含义模糊的 self.current_item_number
         # also record callers stack info: function name, caller's filename and line number
         caller = sys._getframe(1)
         # 跳过 _record_* 包装层（如子类的 _record_source_line），定位真正的业务调用点
@@ -58,27 +79,28 @@ class AnswerMainbodyFSM:
         caller_function = caller.f_code.co_name
         # 完整路径 + 行号，格式如 /abs/path/_1_parse_answers.py:83，便于点击跳转
         caller_location = f'{caller.f_code.co_filename}:{caller.f_lineno}'
-        if self.line_trace and self.line_trace[-1].line_number == line_number:
+        if self.line_trace and self.line_trace[-1].finished_lines == self.finished_lines:
             existing_actions = self.line_trace[-1].action.split('|')
             if action not in existing_actions:
                 self.line_trace[-1].action += f'|{action}'
-            if item_number_value and not self.line_trace[-1].item_number:
-                self.line_trace[-1].item_number = item_number_value
-            self.line_trace[-1].expected_item_number = (
+            if len(self.items) and not self.line_trace[-1].included_items:
+                self.line_trace[-1].included_items = len(self.items)
+            self.line_trace[-1].next_itemspan_first_itemnumber = (
                     self.next_itemspan_first_itemnumber)
             self.line_trace[-1].has_mainbody_started = (
                     self.has_mainbody_started)
             return
 
         self.line_trace.append(LineTraceRecord(
-                line_number=line_number,
-                expected_item_number=self.next_itemspan_first_itemnumber,
-                item_number=item_number_value,  # 去掉这个没起作用的
+                # 只记录原始状态 self.finished_lines，不再派生 line_number
+                finished_lines=self.finished_lines,
+                included_items=(len(self.items)),  # 去掉这个没起作用的
+                next_itemspan_first_itemnumber=self.next_itemspan_first_itemnumber,
+                line=(self.lines[self.finished_lines - 1]),
+                has_mainbody_started=self.has_mainbody_started,
                 action=action,
-                line=line,
                 caller_function=caller_function,
                 caller_location=caller_location,
-                has_mainbody_started=self.has_mainbody_started,
         ))
 
     def is_item_start(self, line):
@@ -87,31 +109,30 @@ class AnswerMainbodyFSM:
 
     def parse_till_item_finish(self, lines):
         """无 passage 的独立题：从题目行起，吃完这一道题。"""
-        item_number = self.next_itemspan_first_itemnumber
-        self.current_item_number = item_number
+        self.items.append(NumberedItem(
+                lines=[lines[self.finished_lines]],
+                number=self.next_itemspan_first_itemnumber,
+        ))
         self.next_itemspan_first_itemnumber += 1
-        new_span = [lines[self.current_line_number]]
-        self._record_line('start_item')
-        # 用「预读下一行」推进：record finish_item 时 self.i 仍指向最后消费的行，
-        # 因而无需把 line_index 传进 _record_line。
-        while True:
-            next_line_number = self.current_line_number + 1
+
+        # new_span =
+        self.finished_lines += 1
+        self._record_last_finished_line_action(TraceAction.START_ITEM)
+        # finished_lines 始终表示已经消费的行数，也就是下一待处理行下标。
+        while self.finished_lines < len(lines):
+            next_line_number = self.finished_lines
             if (
-                    next_line_number >= len(lines)
-                    or self.exam_format.is_answer_mainbody_end_line(
-                            lines[next_line_number])
+                    self.exam_format.is_answer_mainbody_end_line(lines[next_line_number])
                     or self.is_item_start(lines[next_line_number])
             ):
-                self._record_line('finish_item')
-                self.current_line_number = next_line_number
+                self._record_last_finished_line_action(TraceAction.FINISH_ITEM)
                 break
-            self.current_line_number = next_line_number
-            new_span.append(lines[self.current_line_number])
-            self._record_line('append_to_item')
-        self.items.append(NumberedItem(
-                content='\n'.join(new_span).strip(),
-                number=item_number,
-        ))
+            self.items[-1].lines.append(lines[self.finished_lines])
+            self.finished_lines += 1
+            self._record_last_finished_line_action(TraceAction.APPEND_TO_ITEM)
+        else:
+            self._record_last_finished_line_action(TraceAction.FINISH_ITEM)
+
 
     def parse(self, md_text) -> List[NumberedItem]:
         """Parse answer lines into consecutively numbered answer items.
@@ -124,19 +145,21 @@ class AnswerMainbodyFSM:
         else:
             lines = md_text.splitlines()
         self.lines = lines
-        self.current_line_number = 0
+        self.finished_lines = 0
         self.items = []
         self.line_trace = []
         self.next_itemspan_first_itemnumber = 1
-        self.current_item_number = None
         self.has_mainbody_started = False
-        while self.current_line_number < len(lines):
-            line = lines[self.current_line_number]
+        if lines:
+            self._assert_finished_lines_cursor()
+        while self.finished_lines < len(lines):
+            line = lines[self.finished_lines]
             if (
                     self.has_mainbody_started
                     and self.exam_format.is_answer_mainbody_end_line(line)
             ):
-                self._record_line('finish_mainbody')
+                self.finished_lines += 1
+                self._record_last_finished_line_action(TraceAction.FINISH_MAINBODY)
                 break
             if self.exam_format.get_possible_item_number(line) == self.next_itemspan_first_itemnumber:
                 # 无 passage 的独立题起点
@@ -148,11 +171,11 @@ class AnswerMainbodyFSM:
                 # mainbody 已被 _1 裁剪到首个 span 起点，正常不会走到这里
                 # （range 行要么是 trigger=进入 span，要么在 span 内被 _consume 吞掉），
                 # 跳过即可。
-                self._record_line(
-                        'skip_inside_mainbody'
+                self.finished_lines += 1
+                self._record_last_finished_line_action(
+                        TraceAction.SKIP_INSIDE_MAINBODY
                         if self.has_mainbody_started
-                        else 'skip_before_mainbody')
-                self.current_line_number += 1
+                        else TraceAction.SKIP_BEFORE_MAINBODY)
         return self.items
 
 
@@ -191,18 +214,8 @@ def _split_markdown_into_answer_spans(
         with open(fsm_trace_output_csv, 'w', newline='') as f:
             writer = csv.DictWriter(
                     f,
-                    fieldnames=[
-                            'line_number',
-                            'expected_item_number',
-                            'item_number',
-                            'action',
-                            'line',
-                            'caller_function',
-                            'caller_location',
-                            'has_mainbody_started',
-                    ],
-                    # answer FSM 不用 expected_span_first_question 列，忽略之
-                    extrasaction='ignore',
+                    # 列名从 LineTraceRecord 字段自动导出，避免与 dataclass 漂移
+                    fieldnames=columns(LineTraceRecord),
             )
             writer.writeheader()
             writer.writerows(asdict(r) for r in fsm.line_trace)
@@ -259,7 +272,9 @@ class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
         )
         spans = [
                 AnswerSpanRow(
-                        answer=s.content,
+                        answer='\n'.join(
+                                s.lines
+                        ) ,
                         question_number=s.number,
                 ) for s in spans
         ]

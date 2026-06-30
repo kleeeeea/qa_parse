@@ -9,6 +9,7 @@ CSV 落盘后所有值都是字符串，所以字段统一标注为 str，
 """
 from dataclasses import dataclass, fields
 import os
+from typing import List
 
 from exam_formats import ExamFormat
 
@@ -32,14 +33,35 @@ class _HasPassageAndQuestion:
     question: str
 
 
-@dataclass(frozen=True)
+@dataclass()
 class NumberedItem:
-    content: str
+    lines: List[str]
     number: int
 
-@dataclass(frozen=True)
+@dataclass()
 class NumberedItemWithContext(NumberedItem):
     context: str
+
+
+class TraceAction:
+    """FSM 逐行解析的事件名常量集合（answer/question FSM 共用），
+    取代散落各处的 action 字符串字面量。值就是写进 trace/CSV 的字符串。"""
+    # answer FSM (_1)
+    START_ITEM = 'start_item'
+    APPEND_TO_ITEM = 'append_to_item'
+    FINISH_ITEM = 'finish_item'
+    FINISH_MAINBODY = 'finish_mainbody'
+    SKIP_BEFORE_MAINBODY = 'skip_before_mainbody'
+    SKIP_INSIDE_MAINBODY = 'skip_inside_mainbody'
+    # question FSM (_2)
+    START_SPAN = 'start_span'
+    START_INDEPENDENT_ITEM = 'start_independent_item'
+    APPEND_ITEM_START_TO_SPAN = 'append_item_start_to_span'
+    APPEND_TO_SPAN = 'append_to_span'
+    FINISH_QUESTION_CONTEXT = 'finish_question_context'
+    ATTACH_QUESTION_CONTEXT = 'attach_question_context'
+    CLEAR_QUESTION_CONTEXT = 'clear_question_context'
+    SKIP = 'skip'
 
 
 @dataclass
@@ -50,9 +72,9 @@ class LineTraceRecord:
     expected_span_first_question 与真实调用栈。expected_span_first_question
     仅 question FSM 用到，answer FSM 留 None（其 CSV 不含该列）。
     """
-    line_number: int
-    expected_item_number: int
-    item_number: int | str
+    finished_lines: int  # 记录原始游标状态（0-based），不再派生 line_number
+    next_itemspan_first_itemnumber: int
+    included_items: int | str
     action: str
     line: str
     caller_function: str
