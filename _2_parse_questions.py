@@ -54,27 +54,6 @@ e. help the reader understand the differences between two-cylinder vehicles and 
 
 
 
-def split_into_items(lines, detect_start, expected_start_num, expected_end_num):
-    """把若干行切成「编号严格连续」的一条条 item（题目 / 答案共用）。
-
-    FSM：维护下一个期望号 expected（从 expected_start_num 起逐一递增）。某行
-    只有在 detect_start(line) == expected（且不超过 expected_end_num）时才算新
-    item 起点，并令 expected += 1；否则并入当前 item。这样保证 item 号严格
-    1,2,3,… 连续，把正文里题号对不上的编号行（答案解析里引用的 "7."、子问题
-    列表、题干内编号等）挡在外面。首个 item 起点之前的行被丢弃。
-    expected_end_num 为 None 表示不设上界。返回 [(key, [lines]), ...]。
-    """
-    items = []  # [(key, [lines])]
-    expected = expected_start_num
-    for line in lines:
-        key = detect_start(line)
-        if key == expected and (expected_end_num is None or expected <= expected_end_num):
-            items.append((key, [line]))
-            expected += 1
-        elif items:
-            items[-1][1].append(line)
-    return items
-
 
 class QuestionMainbodyFSM(AnswerMainbodyFSM):
     """逐行扫描 questions mainbody，直接产出一道道单题（passage 随题冗余）。
@@ -177,6 +156,33 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
             print(text)
         self._parse_span_into_questions(text)
 
+    # split it back into :
+    # event: find question_context end
+    # event: attach question_context to question
+    # event: attach question_context to question
+    # ...
+    # clear question_context
+    def split_into_items(self, lines, detect_start, expected_start_num, expected_end_num):
+        """把若干行切成「编号严格连续」的一条条 item（题目 / 答案共用）。
+
+        FSM：维护下一个期望号 expected（从 expected_start_num 起逐一递增）。某行
+        只有在 detect_start(line) == expected（且不超过 expected_end_num）时才算新
+        item 起点，并令 expected += 1；否则并入当前 item。这样保证 item 号严格
+        1,2,3,… 连续，把正文里题号对不上的编号行（答案解析里引用的 "7."、子问题
+        列表、题干内编号等）挡在外面。首个 item 起点之前的行被丢弃。
+        expected_end_num 为 None 表示不设上界。返回 [(key, [lines]), ...]。
+        """
+        items = []  # [(key, [lines])]
+        expected = expected_start_num
+        for line in lines:
+            key = detect_start(line)
+            if key == expected and (expected_end_num is None or expected <= expected_end_num):
+                items.append((key, [line]))
+                expected += 1
+            elif items:
+                items[-1][1].append(line)
+        return items
+
     def _parse_span_into_questions(self, span_text):
         """span 内分出 passage 和各题（原 _3._split_span_into_questions）。
 
@@ -194,7 +200,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
 
         # 再在首题及其后的行上分题：题号从全局连续计数起严格递增（FSM 内判定），
         # 上界开放（一个 span 的题数不预先知道）
-        items = split_into_items(
+        items = self.split_into_items(
             lines[first_question_idx:],
             lambda line: self.exam_format.get_possible_item_number( line),
             expected_start_num=self.next_item_number,
