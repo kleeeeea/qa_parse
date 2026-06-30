@@ -1,0 +1,1664 @@
+[
+    {
+        "type": "text",
+        "text": "PLT Case History 4.1",
+        "text_level": 2,
+        "bbox": [
+            147,
+            84,
+            408,
+            109
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question.",
+        "bbox": [
+            68,
+            129,
+            487,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Misao Tanaka",
+        "text_level": 2,
+        "bbox": [
+            70,
+            327,
+            220,
+            345
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scenario",
+        "text_level": 2,
+        "bbox": [
+            68,
+            358,
+            151,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Eight-year-old Misao Tanaka and his family recently moved to the United States from Japan. His parents have enrolled him in a school district in a rural area in central New York State. Misao was assigned to Mr. Sato's second-grade classroom. Mr. Sato is Japanese-American, speaks some Japanese, and practices Japanese traditions with his family. Misao and his parents speak and write some English. However, their English is not as strong as their native language.",
+        "bbox": [
+            68,
+            378,
+            487,
+            556
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Misao's school in Japan, things were very different than how they are in the United States. In Japan, students rose when the teacher entered the room; and school uniforms were required. There were almost twice as many children in the class in Japan. Teams of Japanese students were assigned to do daily school chores, such as serving lunch to classmates, cleaning the classroom, and cleaning the restrooms. Misao is trying to learn about and adjust to his new culture, classmates, and teacher.",
+        "bbox": [
+            68,
+            558,
+            487,
+            754
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overall, Misao is doing well. He has made new friends even though verbal communication is sometimes difficult. The other children are interested in getting to know Misao and in helping him. Mr. Sato encourages the children to help Misao feel welcome; and he models a generous, compassionate attitude with Misao himself.",
+        "bbox": [
+            66,
+            758,
+            485,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mr. Sato, however, is concerned about how to assess Misao's knowledge and skills. Misao's English hinders his ability to comprehend the resources and books he uses with the other children. Also, Misao is used to learning in a different style. In Japan students were not expected to participate in discussions very much. Due to Misao's quiet nature, sometimes it is difficult to assess what he knows and what he does not understand. Similarly, because English is Misao's second language, his written and oral language skills sometimes hinder his ability to express himself and what he understands. Mr. Sato is worried he will misinterpret what Misao understands and what he is trying to express.",
+        "bbox": [
+            515,
+            87,
+            931,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.1 Questions",
+        "text_level": 2,
+        "bbox": [
+            517,
+            384,
+            864,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Explain how Mr. Sato can deal with the dilemma of facilitating nonbiased assessment that does not penalize Misao for the uniqueness of his background and experiences.",
+            "2. Is Mr. Sato's regular classroom the best type of academic placement for Misao, considering the fact that he knows very little English? Base your response on theories related to best practices for multilingual learners.",
+            "3. Describe two specific writing strategies that would be helpful to use with Misao to promote his ability to write English. Explain why they would be effective based on the principles of teaching writing to diverse learners."
+        ],
+        "bbox": [
+            531,
+            406,
+            931,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.2",
+        "text_level": 2,
+        "bbox": [
+            591,
+            721,
+            853,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question.",
+        "bbox": [
+            515,
+            764,
+            931,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            313,
+            34,
+            686,
+            49
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "307",
+        "bbox": [
+            871,
+            958,
+            906,
+            970
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            47,
+            95,
+            475,
+            132
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mr. Parker",
+        "text_level": 2,
+        "bbox": [
+            48,
+            154,
+            171,
+            170
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fresh out of college, Mr. Parker has been hired as a sixth grade English Language Arts teacher. He was told during his hiring interview that this year's classes are particularly difficult. The four-teacher team that currently works with the students has proclaimed the group of 104 preadolescents is the hardest group they've had come through in the past ten years. In fact, Mr. Parker was hired to replace a young woman who chose to leave teaching as a result of working with this group the past five months. The hiring committee, which consisted of the building principal, the superintendent, and one of the teachers from the sixth grade team, told Mr. Parker they believe the best way to manage the group is to instill a strict lecture style of teaching with a reward-punishment behavioral management system to \"keep them quiet and calm.\"",
+        "bbox": [
+            47,
+            174,
+            477,
+            492
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\"They tend to get riled up and noisy whenever you try to give them the least amount of freedom. Small groups just don't work with these kids. They're too rambunctious and you just can't trust them,\" explained the math teacher. \"You're better off laying down the rules and sticking to them. Have them come in, sit down, listen and take notes or do a reading or writing assignment. Do the old raise-your-hand-if-you-want-to-speak routine, and reward them when they follow your rules. The 50 minutes is more peaceful that way than if you ask them to work together or do anything that involves getting up out of their seats or talking to each other. Before you know it, they'll be shoving each other and yelling across the room. Believe me. You'll be better off.\"",
+        "bbox": [
+            47,
+            495,
+            477,
+            790
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mr. Parker felt like a drill sergeant his first week in his classroom. He was awarding points and taking away points based on behaviors. By the end of the week, he didn't know anything about his students, including what they knew or didn't know about language arts. He needed to try something different. Did he dare take the risk of doing something different from what the team was doing, though? After all, he'd only been there a week.",
+        "bbox": [
+            48,
+            793,
+            477,
+            909
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            506,
+            92,
+            940,
+            150
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.2 Questions",
+        "text_level": 2,
+        "bbox": [
+            508,
+            173,
+            869,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Describe one classroom management method Mr. Parker could use to promote cooperative learning in a way that develops students' ability to discuss issues and work appropriately with peers. Base your response on what you know about best practices in classroom management.",
+            "2. Being newly hired, should Mr. Parker just continue to do what the hiring committee and the sixth-grade team suggested? Or, should he take a risk and try a new approach? What are the advantages and disadvantages to taking the advice of others and continuing to do what they suggest?",
+            "3. As a new teacher, how might Mr. Parker develop a strong working relationship with his colleagues, the sixth grade team?"
+        ],
+        "bbox": [
+            522,
+            194,
+            936,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.3",
+        "text_level": 2,
+        "bbox": [
+            585,
+            552,
+            855,
+            574
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question.",
+        "bbox": [
+            506,
+            594,
+            936,
+            772
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crossbow Elementary School",
+        "text_level": 2,
+        "bbox": [
+            506,
+            793,
+            840,
+            811
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Classroom demographics in many states are changing rapidly. Citizens in Crossbow County will attest to that. In the last four years the number of Latino students at Crossbow Elementary School has practically doubled. In 2006, Latinos made up 12 percent of the",
+        "bbox": [
+            506,
+            814,
+            936,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            296,
+            41,
+            683,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "308",
+        "bbox": [
+            75,
+            964,
+            113,
+            976
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K–6 population; in 2010 the number has increased to 21 percent. These students are often immigrants or children born of immigrants who have had very different experiences from their native-born counterparts. As a result of such a quick increase in Crossbow's Latino population, educators have been working frantically to revise their curriculum and instructional approaches to meet all students' needs.",
+        "bbox": [
+            68,
+            84,
+            492,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The teachers have formed work groups to set goals and devise a strategic plan for revising the curriculum and instruction. Groups worked through the summer and continue to meet after school. Members of the groups all agree their primary goal is to develop curriculum and instruction that reflects an authentic sense of caring for their students, recognizing the importance of knowing about their students' cultures and experiential backgrounds. They understand many teachers and staff have not worked with students with backgrounds different from their own; so there must be a concerted effort devoted to providing professional development and training for all faculty and staff.",
+        "bbox": [
+            68,
+            243,
+            492,
+            521
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.3 Questions",
+        "text_level": 2,
+        "bbox": [
+            68,
+            541,
+            422,
+            561
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Why is it important for educators at Crossbow Elementary School to attempt to understand the backgrounds of all students and not just the majority culture?",
+            "2. How can educators at the school find out about a student's family background?",
+            "3. How can a teacher at Crossbow Elementary School use what he or she has learned about a student's family background in the classroom to foster learning and development?"
+        ],
+        "bbox": [
+            86,
+            562,
+            489,
+            762
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.4",
+        "text_level": 2,
+        "bbox": [
+            144,
+            800,
+            413,
+            823
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question.",
+        "bbox": [
+            63,
+            843,
+            489,
+            901
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            86,
+            936,
+            203
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ms. Isabella",
+        "text_level": 2,
+        "bbox": [
+            515,
+            223,
+            654,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Scenario",
+        "text_level": 2,
+        "bbox": [
+            515,
+            255,
+            600,
+            271
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ms. Isabella is a fourth-grade teacher at St. Joseph's Parish Elementary School. Lately she has been feeling very frustrated with the volume of materials she is responsible for including in her curriculum. Some days she feels like she is just throwing information at the students in an attempt to cover everything she is supposed to get through by the end of the school year.",
+        "bbox": [
+            514,
+            275,
+            936,
+            413
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "While talking with a colleague after school one day, she expressed her concern. “I’m exhausted. I can only imagine the whirlwind my students feel they’re caught up in. There’s so much to get through each day. I struggle to get through all of the subjects in one day. Today we had so much to do in math but we barely had 15 minutes after we finished the science lab. How do you get through everything?”",
+        "bbox": [
+            514,
+            415,
+            936,
+            572
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ms. Isabella's colleague, Mr. Fletcher, explained how he had organized units that integrated the content areas into meaningful themes. \"For example, we do a unit on water. Students role play and write skits about digging the Erie Canal. Teams write math word problems about topics like condensation and evaporation to challenge each other's calculation skills. I bring in a variety of resources, such as books at multiple reading levels, websites, pictures, DVDs, and primary resources for the students to explore and study. They construct questions they want to research and compose lessons to present to their classmates. The days go so quickly—not because we're shoving so much into them, but because we're excited about what we're doing.\"",
+        "bbox": [
+            514,
+            574,
+            936,
+            872
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ms. Isabella wanted to learn more about this and other ways to integrate literacy into the content areas. She looked into professional development opportunities that might help and came across the International Reading Association's annual convention, which was coming up in May. She was particularly interested in all of the workshops about content literacy that were advertised on the organization's website. So she got permission and funding from her building administrator and attended three days of the convention.",
+        "bbox": [
+            514,
+            874,
+            936,
+            913
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            316,
+            31,
+            690,
+            47
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "309",
+        "bbox": [
+            846,
+            954,
+            934,
+            974
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            39,
+            92,
+            473,
+            272
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While she was at the conference, she collected a number of strategies for integrating literacy skills across the curriculum. She spoke with colleagues who were experiencing the same feelings of frustration. By the end of the convention, she was eager to return to her classroom and try out what she had learned.",
+        "bbox": [
+            39,
+            275,
+            473,
+            393
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Happily, Ms. Isabella saw marked student improvement in writing skills and reading comprehension as a result of using the strategies she had learned about increasing and analyzing vocabulary.",
+        "bbox": [
+            41,
+            396,
+            473,
+            472
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because she was motivated by her students' improvement, Ms. Isabella spent part of her summer break working on integrating literacy instruction into her social studies curriculum. She planned to start with social studies content as outlined in the state learning standards, and then move into the other content areas as she reflected on student responses and gained self-confidence in what she was trying to do. She reshaped lessons to include the instruction of literacy skills within the social studies content and the use of literature and other literacy resources to teach content.",
+        "bbox": [
+            41,
+            475,
+            475,
+            711
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PLT Case History 4.4 Questions",
+        "text_level": 2,
+        "bbox": [
+            499,
+            92,
+            867,
+            112
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Ms. Isabella is eager to improve students' reading comprehension skills as they are reading and learning social studies content. Describe how she might do this.",
+        "bbox": [
+            517,
+            113,
+            934,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Ms. Isabella is also eager to improve students' writing skills while learning content knowledge. Describe how she might do this.",
+        "bbox": [
+            517,
+            194,
+            934,
+            254
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Describe two advantages of integrating technology in content-area instruction.",
+        "bbox": [
+            517,
+            256,
+            934,
+            294
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Multiple-Choice Questions I",
+        "text_level": 2,
+        "bbox": [
+            531,
+            333,
+            902,
+            354
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. According to Gardner's theory of multiple intelligences, students with strong kinesthetic intelligence",
+        "bbox": [
+            520,
+            376,
+            916,
+            434
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. are adept at reasoning.",
+            "b. have sensitivity to pitch, rhythm, and melody.",
+            "c. are athletically gifted.",
+            "d. understand relationships and people."
+        ],
+        "bbox": [
+            546,
+            437,
+            873,
+            535
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Which of the following would be the most effective way for children to learn how the digestive system works?",
+        "bbox": [
+            520,
+            556,
+            889,
+            613
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. to read about it in a book",
+            "b. to read about it in several different resources, such as books, websites, and illustrations",
+            "c. to participate in teacher-led instruction that includes diagrams and note-taking",
+            "d. small-group collaborative creation of a model of the system constructed by consulting various resources"
+        ],
+        "bbox": [
+            546,
+            615,
+            927,
+            792
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            292,
+            39,
+            679,
+            56
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "310",
+        "bbox": [
+            74,
+            962,
+            108,
+            976
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Regular classroom teachers are responsible for knowing how to work effectively with children with special needs. Typically, it is the classroom teacher's responsibility to",
+        "bbox": [
+            86,
+            84,
+            482,
+            162
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. write the child's individualized education plan (IEP) and present it to the child's committee.",
+        "bbox": [
+            112,
+            166,
+            461,
+            221
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. determine which teaching strategies will help these children succeed.",
+        "bbox": [
+            112,
+            225,
+            452,
+            262
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. find the one solution to meeting the needs of children with special needs.",
+        "bbox": [
+            112,
+            266,
+            468,
+            301
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d. group children with special needs together during small-group work.",
+        "bbox": [
+            112,
+            305,
+            468,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. The Individuals with Disabilities Education Act (IDEA) mandates that each student with a disability",
+        "bbox": [
+            86,
+            364,
+            485,
+            423
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. has an individualized education plan (IEP) stating modifications to be provided by teachers.",
+        "bbox": [
+            112,
+            425,
+            471,
+            480
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. is provided appropriate education within a private school setting.",
+        "bbox": [
+            112,
+            484,
+            471,
+            521
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. be separated from children without disabilities to receive diagnostic assessment and instruction from specialized educators trained to work with the child's disability.",
+        "bbox": [
+            112,
+            525,
+            473,
+            602
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d. be removed from the regular classroom only if parents of the children who are not disabled complain.",
+        "bbox": [
+            112,
+            605,
+            482,
+            660
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Which of the following statements about classroom design reflects best teaching practices?",
+        "bbox": [
+            533,
+            86,
+            878,
+            144
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. The classroom design should reflect the teacher's pedagogical goals and students' needs.",
+        "bbox": [
+            558,
+            148,
+            901,
+            202
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. The seating arrangement of the classroom should not be changed so students gain a sense of predictability and security among their peers.",
+        "bbox": [
+            558,
+            207,
+            911,
+            284
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. Students' desks should be arranged far enough away from each other so students are not tempted to talk with each other.",
+        "bbox": [
+            558,
+            287,
+            906,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d. Students' desks should be arranged in a boy-girl-boy-girl pattern to discourage differences between sexes.",
+        "bbox": [
+            558,
+            345,
+            927,
+            402
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Lesson plan objectives",
+        "bbox": [
+            533,
+            426,
+            734,
+            443
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. should correspond to national and state learning standards.",
+        "bbox": [
+            558,
+            447,
+            892,
+            483
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. should be broad enough to meet the needs of all students in the class, even children with disabilities.",
+        "bbox": [
+            558,
+            486,
+            913,
+            541
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. describe what the students are able to do prior to the lesson.",
+        "bbox": [
+            558,
+            545,
+            897,
+            582
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d. should not correspond with assessment criteria.",
+        "bbox": [
+            558,
+            585,
+            889,
+            619
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Which of the following is the best example of an approach to activating a student's prior knowledge about the sea?",
+        "bbox": [
+            533,
+            643,
+            913,
+            701
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. setting up a learning center with all kinds of shells from your trip to the sea last summer",
+        "bbox": [
+            558,
+            705,
+            924,
+            741
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. interactively reading and discussing a book about the seashore with the child",
+        "bbox": [
+            558,
+            745,
+            915,
+            781
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. assigning the child to read a book of his or her choice about the seashore",
+        "bbox": [
+            558,
+            785,
+            911,
+            821
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d. singing \"Down by the Sea\" with the child",
+        "bbox": [
+            558,
+            825,
+            899,
+            842
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            311,
+            33,
+            686,
+            49
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "311",
+        "bbox": [
+            867,
+            957,
+            903,
+            970
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Funds of knowledge refers to",
+        "bbox": [
+            63,
+            92,
+            316,
+            111
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. the life and educational experiences of a family.",
+            "b. the exchange of knowledge that occurs in a school setting.",
+            "c. the financial exchange that takes place between tutors and their tutees.",
+            "d. the exchange of labor for capital."
+        ],
+        "bbox": [
+            88,
+            113,
+            461,
+            252
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. Which of the following is the best example of holistic scoring?",
+        "bbox": [
+            63,
+            275,
+            459,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. A student receives two points for each correct multiple-choice answer on a quiz.",
+            "b. A teacher adds the four separate scores the student earned on each part of the assignment to come up with the final score the student earns.",
+            "c. A student self-assesses which words he or she still has to study for the weekly spelling test.",
+            "d. A teacher gives a score based on his or her overall impression of an essay, not the separate elements within it."
+        ],
+        "bbox": [
+            90,
+            316,
+            461,
+            552
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Brown v. Board of Education",
+        "bbox": [
+            56,
+            574,
+            320,
+            592
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. declared schools had the right to house black students in schools that were separate from white students.",
+            "b. was the first challenge to school segregation.",
+            "c. caused far-reaching ideological and social implications about natural rights beyond children and education.",
+            "d. supported the \"separate but equal\" doctrine."
+        ],
+        "bbox": [
+            92,
+            594,
+            471,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. If an educator followed John Dewey's philosophy of education, he or she would most likely",
+        "bbox": [
+            511,
+            92,
+            933,
+            150
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. take the class on a field trip to a “living museum” to experience how people lived in the Colonial Period.",
+            "b. have the class research and write reports about geographic climates throughout the United States.",
+            "c. learn mathematics by teaching each other.",
+            "d. set up cross-grade level tutoring and mentoring programs within the school."
+        ],
+        "bbox": [
+            547,
+            153,
+            927,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. The McGuffey Readers",
+        "bbox": [
+            511,
+            354,
+            732,
+            373
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. were introduced in schools in the 18th century.",
+            "b. were seminal in separating church and state in schools.",
+            "c. were highly moralistic in nature, modeling honesty, kindness, and truthfulness.",
+            "d. denounced autocratic educational practices."
+        ],
+        "bbox": [
+            547,
+            374,
+            929,
+            512
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            294,
+            38,
+            683,
+            55
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "312",
+        "bbox": [
+            75,
+            962,
+            110,
+            976
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Multiple-Choice Questions II",
+        "text_level": 2,
+        "bbox": [
+            93,
+            87,
+            461,
+            111
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Blended literacy instruction is best described as",
+        "bbox": [
+            88,
+            131,
+            485,
+            150
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. a combination of the emergent literacy and scientifically based reading research approaches to early literacy instruction.",
+        "bbox": [
+            112,
+            153,
+            477,
+            210
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b. a combination of social constructivist and traditional approaches to instruction.",
+        "bbox": [
+            112,
+            211,
+            466,
+            250
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c. the approach to literacy instruction that advocates for the integration of technology.",
+        "bbox": [
+            112,
+            252,
+            475,
+            291
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "d. the approach to literacy instruction that integrates media forms of literacy.",
+        "bbox": [
+            112,
+            292,
+            450,
+            329
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. Which of the following statements about using technology in the classroom is accurate?",
+        "bbox": [
+            86,
+            350,
+            478,
+            389
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. When schools use Internet filtering systems, teachers do not have to worry about students' unsafe or inappropriate use of computers.",
+        "bbox": [
+            110,
+            392,
+            478,
+            468
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b. Most teachers feel well-prepared to use technology effectively in their classrooms.",
+        "bbox": [
+            110,
+            472,
+            461,
+            509
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c. Only high-achieving students benefit from the use of technology in the classroom.",
+        "bbox": [
+            110,
+            512,
+            466,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "d. The poor use of technology in a classroom can distract students from reaching instructional objectives.",
+        "bbox": [
+            110,
+            552,
+            466,
+            609
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Which of the following is the best example of differentiated instruction?",
+        "bbox": [
+            80,
+            631,
+            466,
+            667
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. cross-grade-level reading buddies",
+            "b. heterogeneously grouped instruction",
+            "c. varying the expected outcomes or products of student learning to match students' attributes",
+            "d. setting up learning centers in the classroom"
+        ],
+        "bbox": [
+            107,
+            672,
+            471,
+            790
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. How does measurement theory relate to K–6 instruction and assessment?",
+        "bbox": [
+            533,
+            92,
+            911,
+            128
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. It relates only to instruction and assessment for grades 7–12.",
+            "b. It encourages educators to analyze the meaning of test scores and what tests are really assessing.",
+            "c. It assumes all tests are invalid, so students should be assessed in alternative ways.",
+            "d. It assumes all tests are valid, so it doesn't matter which ones teachers choose to use."
+        ],
+        "bbox": [
+            558,
+            133,
+            926,
+            309
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. An example of a primary source is",
+        "bbox": [
+            531,
+            332,
+            827,
+            350
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. a letter written by Eleanor Roosevelt in which she resigns from the Daughters of the American Revolution.",
+            "b. a report written by a fifth-grade student about the Daughters of the Revolution.",
+            "c. the annual reenactment of Washington's crossing of the Delaware River.",
+            "d. \"Washington Crossing the Delaware,\" a sonnet by David Shulman written in 1936."
+        ],
+        "bbox": [
+            556,
+            353,
+            924,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6. Instruction that incorporates visual literacy education",
+        "bbox": [
+            529,
+            550,
+            896,
+            586
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. can prepare K–6 students to decode media advertisements.",
+            "b. is not developmentally appropriate for K–6 learners.",
+            "c. requires the use of technology.",
+            "d. assumes students are given rather than construct knowledge."
+        ],
+        "bbox": [
+            552,
+            592,
+            915,
+            729
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            313,
+            37,
+            686,
+            54
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "313",
+        "bbox": [
+            864,
+            964,
+            899,
+            977
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7. Of the following, the best example of formative assessment would be",
+        "bbox": [
+            68,
+            99,
+            481,
+            137
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. a final examination given to determine a student's final grade on a unit of study.",
+            "b. pre-testing students to determine what they know about a topic before they begin a unit on it.",
+            "c. a student self-assesses what he or she has learned after a field trip.",
+            "d. an assessment is given to determine whether or not an instructional module teaches what it is supposed to teach."
+        ],
+        "bbox": [
+            95,
+            140,
+            477,
+            340
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8. Which of the following best represents uses of graphic organizers?",
+        "bbox": [
+            72,
+            361,
+            471,
+            400
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. prewriting tools used to organize students' thoughts before writing.",
+            "b. tools used by a student during reading to outline the key points in a passage.",
+            "c. tools used by students to review materials already discussed.",
+            "d. tools used at all stages of learning."
+        ],
+        "bbox": [
+            97,
+            401,
+            464,
+            540
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9. The best example of scope and sequence in a K-6 program would be",
+        "bbox": [
+            75,
+            561,
+            461,
+            600
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. teaching students to add and subtract because as adults they will need to be able to balance their checkbooks.",
+            "b. using the Think-Pair-Share strategy.",
+            "c. the social studies curriculum starting with a focus on the self and expanding outward into community, town, city, state, national, and international affairs over time.",
+            "d. students work together in small groups to generate ideas, then share their thoughts with the rest of the class."
+        ],
+        "bbox": [
+            101,
+            601,
+            482,
+            815
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10. Phonological awareness is an umbrella term that includes the ability to discriminate",
+        "bbox": [
+            518,
+            96,
+            913,
+            135
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. letters and their corresponding sounds.",
+            "b. sentences and sentence fragments.",
+            "c. numbers, letters, and symbols.",
+            "d. onset and rime, syllables, and phonemes."
+        ],
+        "bbox": [
+            555,
+            137,
+            913,
+            215
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Questions 11 and 12 are based on the following passages about foreign-language courses.",
+        "bbox": [
+            508,
+            239,
+            942,
+            278
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Casie, a second-grade teacher, visits an education-related blog to see what people are talking about. She finds these two postings addressing the question from one blogger, \"Should we teach Spanish in public elementary schools in America?\"",
+        "bbox": [
+            551,
+            299,
+            936,
+            417
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One post had the following argument: \"Yes. We should teach Spanish in American schools, beginning in kindergarten. The number of Spanish-speaking immigrants has increased drastically over the past decade. The children of these immigrants are in our schools and need our help now. Having Spanish classes will help these children learn English and will help English-speaking children communicate with the Spanish-speaking children. And it isn't good just for children whose first language is Spanish. English-speaking children will benefit, too, by learning a second language. It might help them when they go on to find a job and succeed in a global society. Studies show foreign languages are best learned when we're young. So, I say, the sooner the better.\"",
+        "bbox": [
+            551,
+            419,
+            943,
+            756
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Another post presented a counterargument: \"No. We definitely should not waste our already depleted resources by teaching Spanish in American schools. Funds are limited. We need regular classroom teachers and supplies to support learning. We need to stick to the basics. Then students can learn a foreign language if they choose to later in life.",
+        "bbox": [
+            553,
+            758,
+            934,
+            917
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            301,
+            43,
+            687,
+            60
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "314",
+        "bbox": [
+            84,
+            969,
+            122,
+            982
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If we teach American children how to speak Spanish, then the Spanish-speaking children will be less motivated to learn English. Let's act like Americans!\"",
+        "bbox": [
+            110,
+            88,
+            461,
+            165
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "11. How should Casie react to these postings?",
+        "bbox": [
+            77,
+            188,
+            443,
+            207
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. advocate for foreign language classes to be taught in her school",
+            "b. work against foreign language classes being taught in her school",
+            "c. not visit the blog again because there is too much debating going on among her colleagues",
+            "d. do further reading in professional journals about the debate to inform her thinking"
+        ],
+        "bbox": [
+            112,
+            210,
+            477,
+            389
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "12. The author of the second passage would most likely feel that",
+        "bbox": [
+            526,
+            92,
+            920,
+            129
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "a. this is America, and we speak English. Let them learn our language.",
+            "b. learning a foreign language might help children accept other cultures more readily.",
+            "c. children will be motivated to learn a second language.",
+            "d. additional teachers should be hired to teach foreign language classes."
+        ],
+        "bbox": [
+            559,
+            133,
+            926,
+            291
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "PRACTICE EXAM 4: PLT: GRADES K-6",
+        "bbox": [
+            315,
+            37,
+            688,
+            54
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "315",
+        "bbox": [
+            866,
+            962,
+            901,
+            977
+        ],
+        "page_idx": 8
+    }
+]

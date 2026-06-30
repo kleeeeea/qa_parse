@@ -1,0 +1,511 @@
+The Praxis Series Professional Assessments for Beginning Teachers
+
+Test Name: Principles of Learning and Teaching
+
+Practice Case Histories and Constructed-Response Questions
+
+Time - 120 minutes
+
+12 Short-Answer Questions and 24 Multiple-Choice Questions
+
+## Case History 1
+
+Directions: The case history is followed by three short-answer questions.
+
+## Ms. Pirner
+
+Ms. Pirner teaches an elective Science course to a class of 27 students. There are 13 male students, and 14 female students. The class is composed of 4 sophomores, 15 juniors, and 8 seniors. Ms. Pirner is in her third year teaching this course at the high school. She has a new principal at the school, and is planning for her self-evaluation. In order to prepare a thorough assessment, Ms. Pirner begins to gather material that may be helpful for the activity. In the journal entries below, Ms. Pirner focuses on a specific class, and four of her students. The class takes place early in the semester, before any preliminary grades have been determined.
+
+## Journal Entry #1—Student Profiles
+
+Jarrod is an exceptional student who comes from a very proud family. I taught his older brother two years ago, who was the best student in the class. Jarrod is like his brother, but he has additional interests. He does not seem intent on following the family path—medical school. Jarrod has been quiet and focused during most class sessions. He is well respected in the class. Jarrod rarely volunteers information—but whenever I call on him, he always has the correct answer.
+
+Vince is repeating this class. I was surprised to see him enroll in this elective course again, as he received an F last year. Vince and I have a good rapport. During the first week, he offered to help distribute some paperwork for our in-class assignments, stating, "I've seen this stuff before. I should be your teaching assistant!" He did not do well on our quiz last week. When I asked him about his performance, he shrugged his shoulders and said, "Ms. Pirner, some people just can't remember all these details, and I'm one of them. But don't worry about it. Maybe I'll stay here another year."
+
+Ron is a very quiet student, who is withdrawn from most activities. He received a D in Biology last year, and has a GPA of 2.2. Thus far, Ron has completed few of the activities. Ron does not like to receive any attention from me or other members of the class. In a recent activity that required students to pair with others, Ron was left as the odd man out (13 pairs, then Ron). I volunteered to work with Ron, and he snapped at me, “I don’t need your pity Ms. Pirner. Just let me complete this on my own!”
+
+Bob is the class clown. He manages to make comments on almost every topic, and while they are often disruptive, I do have to admit that some are quite entertaining. Bob has indicated that this year is important to him, because he doesn't look forward to being a "boring adult" after graduation. Bob has the talent to exceed in this class. Instead, he manages to do slightly above average work. If he really applied himself, he could excel like a few other students in the class.
+
+## Journal Entry #2—Self-Analysis
+
+I believe that I have become a fairly competent Science teacher. I attend conferences and read information in an attempt to improve my skill set. This year, I have tried to make my classroom environment more cooperative, by dividing students into different groups for projects and lab work. Yet, I've struggled in making these groups a success. Strong students like Jarrod complain about the groups, claiming that the work is boring and they would learn more if they just do the work themselves, or with a group of their choosing. Some students like Ron seem to dislike anything that brings the class together to perform group work.
+
+GO ON TO THE NEXT PAGE
+
+In discussions, I find that I am trying to manage two different audiences. There is a group that volunteers constantly. At times I feel they are in a competition with each other to see who can answer the most questions. While I appreciate their intent, it seems like more of an attempt to get a strong grade than to really contribute to the classroom. On the other hand, though, I have a core group of students who remain silent. I'm not sure if they are intimidated by the other students, bored, or both. I have tried strategies to increase classroom participation (I attended a workshop on this last year), but I generally fall back into what I'm most comfortable with, which is lecture and the use of a textbook.
+
+## Supervisor's Notes on Tuesday's Lesson
+
+Ms. Pirner gave a lecture on Photosynthesis. She encouraged the class to take careful notes, and informed her students that the information on next week's test would be a combination of material found in the reading material, as well as material mentioned only in her lecture. During the lecture, she walked around the class to see if students were taking notes. She spoke generally quickly, but slowed to emphasize key points, such as vocabulary words, and the steps of the photosynthesis process. While many students took notes, I noticed that neither Vince nor Ron took notes.
+
+Directions: Questions 1 through 3 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet.
+
+## Question 1
+
+Ms. Pirner noted that strong performing students, such as Jarrod, say small group work is boring, and not effective for them. Assume that Ms. Pirner wants to continue using cooperative learning groups.
+
+• Identify TWO strategies Ms. Pirner could use to address the concerns of students like Jarrod.  
+- For each strategy identified, explain how its use could address the concerns of Jarrod, and would make group work more effective. Base your response on the principles of effective instructional strategies.
+
+## Question 2
+
+Assume that Ms. Pirner produced a lesson plan before giving the lecture on Photosynthesis. Assume that no modifications are made for any of her students.
+
+- Suggest TWO modifications, one for Vince and one for Jarrod, that Ms. Pirner could have made that could offer the students a better learning environment.  
+- For each modification, explain how it will provide for a better learning situation for Jarrod and Vince. Base your response on principles of varied instruction for diverse learners.
+
+## Question 3
+
+Ms. Pirner feels that she is having difficulty connecting with Ron as a student, and wants to learn more about Ron so he can become a better learner.
+
+- Describe TWO aspects of Ron's behavior that Ms. Pirner, and other school leaders, might discuss in order to understand Ron better as a learner.  
+- For each aspect, suggest one hypothesis that might be used to understand Ron better as a learner. Base your response on the principles of human development and diagnostic assessment.
+
+GO ON TO THE NEXT PAGE
+
+## Case History 2
+
+Directions: The case history is followed by three short-answer questions.
+
+## Mr. Gregory
+
+Mr. Gregory is a tenth-grade U.S. History teacher. He teaches to a group of 29 sophomores, 14 boys and 15 girls. This is his sixth year teaching History at Lewisville High School. He is currently planning a lesson on the Civil War, which will be viewed by his supervisor, Mr. Windle, who is the school principal. Attached are Mr. Gregory's notes for his lesson plan, and his reflections after his lecture on Wednesday.
+
+## Background Information on Lesson to Be Observed by Supervisor
+
+## Goals of Unit on the Civil War:
+
+- Introduce students to the timelines, theories, and important lessons learned from the Civil War.  
+- Foster students' evaluation skills by identifying similarities between the causes of the Civil War and the causes of today's struggles and wars.  
+- Develop students' abilities in combining textbook information and lecture information.  
+- Give students experience in making presentations to the class.  
+- Link students' textbook reading with information found elsewhere.
+
+## Activities:
+
+The pre-assignment for this unit was to read Chapter 13, “Conflict in the United States,” and Chapter 14, “The Civil War,” by Wednesday, the day of my first lecture on the Civil War. I have asked students to highlight the chapters, and take notes on what they find important in the reading material. I’ve also asked that students think about what they find most interesting about the Civil War, and to write that down. That topic will be the topic I will ask them to present after our test at the end of the week. Ideally, they will seek out additional information beyond what is in the text.
+
+## Assessment:
+
+I will evaluate students based on their performance on Friday's test, as well as their presentation to the class next week. For the presentation, I will evaluate them more on the content of the presentation rather than the delivery. I want to see if students understand how to use outside information effectively to augment the lessons presented directly in class or from our textbook. Further, I will also evaluate them on the quality and quantity of their notes taken while reading the chapter and in their participation in the classroom discussion.
+
+## Notes from Thursday
+
+## One Day After Wednesday's Lecture
+
+Today students have a free period to study for tomorrow's test. Walking around, I'm somewhat disappointed to see how few students took notes on the chapter, or highlighted the key points of the material. I hope students were paying attention to yesterday's lecture—some information in that lecture will be used on the test, and that information is NOT in the text. I'm not sure that the test tomorrow is the best assessment of student performance on this material. I think I've written it in the best way possible, but I'm never sure about these things.
+
+GO ON TO THE NEXT PAGE
+
+Directions: Questions 4 through 6 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet.
+
+## Question 4
+
+The fourth and fifth goals of Mr. Gregory are to “Give students experience in making presentations to the class” and “Link students’ textbook reading with information found elsewhere.”
+
+\- Recommend TWO activities or strategies Mr. Gregory could use to help students meet one or both of these goals.
+
+\- For each activity or strategy suggested, explain how its use will help achieve the goal(s). Base your response on the principles of effective instructional planning and strategies.
+
+## Question 5
+
+Mr. Gregory's third goal is to "Develop students' abilities in combining textbook information and lecture information." We know that Mr. Gregory plans to test on information uniquely presented in each medium.
+
+\- Suggest TWO additional ways that Mr. Gregory could help to achieve his goal.
+
+\- For each strategy suggested, explain how all students would benefit. Base your response on principles of effective instruction.
+
+## Question 6
+
+In his reflection, Mr. Gregory wonders if his test is the best way to evaluate his students.
+
+\- Identify TWO additional assessment techniques Mr. Gregory could use to provide his students with opportunities to demonstrate their learning.
+
+\- For each technique suggested, describe the kinds of information about student learning it could provide. Base your response on the principles of assessment.
+
+GO ON TO THE NEXT PAGE
+
+## Discrete Multiple-Choice Questions
+
+Directions: Questions 7–18 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet.
+
+7. On a tenth-grade mathematics test, Kathy received a grade-equivalent score of 12.4, and a percentile rank of 91 percent. Which of the following statements is true?
+
+(A) Kathy missed only 9 percent of the questions on the test.  
+(B) Kathy performed as well on the test as the average twelfth-grade student in the fourth month of instruction.  
+(C) Kathy can successfully complete 91 percent of the curriculum of a typical twelfth grader in the fourth month of instruction.  
+(D) Kathy's ranked 91st of all students that have completed the test nationwide.
+
+8. Archimedes was asked to find a method for determining whether a crown was pure gold, or if it was alloyed with silver. Thinking over how to solve the problem, he stepped into a bath, and realized that a pure gold crown would displace less water than an alloyed crown. "Eureka!" he shouted.
+
+The learning process of Archimedes is best described as
+
+(A) accidental learning  
+(B) discovery learning  
+(C) emergent learning  
+(D) cluster learning
+
+9. A teacher would like to get information on how well her class understood her lecture on the Constitution. Which of the following tests would give the best information?
+
+(A) Criterion-referenced test  
+(B) Norm-referenced test  
+(C) Portfolio assessment  
+(D) Standardized test
+
+10. Lindsey is struggling in her tenth-grade class. Her records show that she has performed above-average in the ninth grade, and her teacher reports that she has a good attitude and desire to succeed. However, Lindsey's performance on most tests is poor.
+
+Which of the following could Lindsey's teacher do to encourage Lindsey?
+
+(A) Involve Lindsey's parents, and send them notices whenever Lindsey does poorly on an assignment.  
+(B) Match up Lindsey with a student who performs well, and hope that the other student can motivate Lindsey.  
+(C) Match up Lindsey with another student who is struggling, so they can work at their own pace.  
+(D) Divide Lindsey's work into small pieces, and provide feedback with each part of an assignment.
+
+11. Which of the following statements would Howard Gardner most likely agree with on effective instruction?
+
+(A) Teachers must find eight different ways to teach each set of material to correspond with the eight different types of intelligence.  
+(B) Students must learn different levels of intelligence at different times; they must build on one another.  
+(C) Intelligence and morality must be separated, and the two should not work together.  
+(D) Educators need to develop new approaches that might better meet the needs of the range of learners in their classrooms.
+
+GO ON TO THE NEXT PAGE
+
+12. Which of the following is an example of a spiral curriculum, as popularized by Jerome Bruner?
+
+(A) Students are given a difficult problem; the tools to address the problem are presented, and then a quiz is given to test comprehension.
+
+(B) Students are given aide from teachers each step of the way, so that they can grasp the material.
+
+(C) Students are given a new lecture; before the work is completed, the basics are reviewed, and then are built upon to further the learning process.
+
+(D) Students move at their own pace, based on successful performance on criterion-referenced tests.
+
+13. Which of the following statements is a well-formed learning objective?
+
+(A) I will teach students how to solve trigonometric functions.
+
+(B) While in your reading group, try to identify the use of foreshadowing. Provide examples to the class on foreshadowing.
+
+(C) Identify the natural resources present in United States that are not present in Asia.
+
+(D) Bring in a guest speaker to talk about the trade deficit.
+
+14. Which of the following is an example of punishment in Skinner's theory of operant conditioning?
+
+(A) Detention
+
+(B) A "no homework day"
+
+(C) Silence in the classroom
+
+(D) A test
+
+15. George is a student in Mr. Martin's tenth-grade class. George has performed well on standardized tests, but his participation and performance on most tasks are poor.
+
+Which of the following practices could Mr. Martin employ to encourage George and assess his needs?
+
+(A) Assign work to George in small steps and review that work immediately.
+
+(B) Have George work with another underachieving student, so that they will encourage each other.
+
+(C) Require George to attend detention, so that he can do his work in a quiet, supervised environment.
+
+(D) Define a set of consequences with George's parents to be administered if George's grades do not improve.
+
+16. Vygotsky's ideas about the "zone of proximal development" are best understood by which of the following learning techniques?
+
+(A) Students should work at their own pace independently, in order to advance in concepts when they are ready.
+
+(B) Students should review basic material of a concept first, and then receive new material with teacher assistance, thus building on previously learned concepts.
+
+(C) A challenging concept is taught and expected to be learned, even if the basic building blocks of that concept were not previously covered.
+
+(D) Seeking help from an instructor is not encouraged, as it may stifle development.
+
+17. Students who do not have basic needs met will not be able to achieve the advanced levels of learning, such as the fulfillment of one's potential.
+
+This statement is best supported by the works of what theorist?
+
+(A) Abraham Maslow  
+(B) Howard Gardner  
+(C) John Dewey  
+(D) Jerome Bruner
+
+18. Mr. Abato is designing a lesson plan for his twelfth-grade science class. In preparing a lesson on genetics and cell division, he plans to present a short lecture on the basics of genetics, and then show a video explaining how cells divide. What other activity could he employ which would focus on the students that are kinesthetic learners?
+
+(A) Provide step-by-step instructions on how a cell divides  
+(B) Reinforce the lecture with a laboratory session, where students will recreate the cell division process  
+(C) Bring in an expert on genetics as a guest-speaker for the class  
+(D) Assign a reading assignment in advance of the lecture
+
+## Case History 3
+
+Directions: The case history is followed by three short-answer questions.
+
+## Mr. Watson
+
+Mr. Watson is teaching an elective Economics class to 21 twelfth-grade students, made up of 11 males and 10 females. Students must have completed three years of high school mathematics in order to participate in the class. Some of the brightest students at the high school participate in the class, and Mr. Watson is considered one of the most interesting and dynamic instructors. He is beginning his final month of instruction, five weeks before graduation.
+
+## Document 1
+
+## Project Plan
+
+## Consumer Finance Exercise
+
+May 8
+
+## Objectives: Students will:
+
+1. Review and use concepts about consumer finance to problem solve.  
+2. Demonstrate mathematics skills as they relate to personal finances.  
+3. Use creativity to finance deals in multiple ways.  
+4. Use higher-order thinking skills to determine who to approve for credit.
+
+## Assignment:
+
+1. Students will work in groups of four; each student will be a member of a credit card consumer finance company.  
+2. Each group will select ten sample customers from a list I will provide.  
+3. For each customer, the group will determine whether to approve or deny the applicant based on their credit, and their specific credit request (amount to finance, desired rate).  
+4. Each customer should also be matched using the "Loss Rate" handout to compare how customers have performed historically.  
+5. Each team will present their results to the class as a whole, and will make a presentation with their recommendations.  
+6. Creativity in restructuring deals is encouraged—each team should strive to finance as many customers as possible.  
+7. All students on the team must participate.
+
+## Activities:
+
+1. Discussion on consumer finance principles—2 sessions.  
+2. Group work—select ten sample customers; determine results—2 sessions.  
+3. Group work—prepare presentations and Excel worksheets—1 session.  
+4. Group presentations—3 sessions.  
+5. Review of work, and quiz on consumer finance—1 session.
+
+## Assessment:
+
+1. Group work: individual and group grade  
+2. Group presentation: individual and group grade  
+3. Excel spreadsheet: team grade for quality of decisions
+
+## Document 2
+
+## Review after Lesson Plan Complete
+
+May 24
+
+Below are notes taken from Mr. Watson after the conclusion of this lesson plan:
+
+I really thought this would be an exciting lesson plan. Students will soon be out in the real world, and I thought they'd enjoy gaining this valuable experience of applying for a credit card. Students need to understand the value of one's credit history, and the role it can plan in consumer finance. But the class was pretty out of control during these sessions—they spent more time discussing prom, graduation, and summer than the FICO scores of their “customers.” I think my class may just be lazy right now. I'm not sure I can give assignments like this towards the end of the year—students are just too burnt out, and “senioritis” is at an all time high. The threat of a poor grade just doesn't seem to work anymore, as many are all set about where they will attend college, if they choose to at all. Next year, I'll do this lesson during the first semester.
+
+Directions: Questions 19 through 21 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet.
+
+## Question 19
+
+Document 1, Mr. Watson's project plan for consumer finance, demonstrates several aspects of effective instructional planning.
+
+- Identify TWO strengths of Mr. Watson's project plan.  
+- Explain how each strength demonstrates an aspect of effective instructional planning. Base your response on the principles of effective instructional planning.
+
+## Question 20
+
+Review Mr. Watson's project plan, described in Document 1.
+
+- Recommend TWO ways in which Mr. Watson could strengthen the assessment section of his project plan in order to provide students with a better opportunity to demonstrate their learning  
+- For each recommendation, describe how it would improve Mr. Watson's ability to assess his students' accomplishments on this project. Base your response on the principles of assessment.
+
+## Question 21
+
+Review Document 2, where Mr. Watson complains that his students were "lazy."
+
+• Identify TWO behaviors of his class that are typical for students that are Seniors in high school.  
+- For each behavior, describe how it is typical, and what Mr. Watson can do to create a stronger learning environment. Base your response on the principles of human development and effective learning strategies.
+
+GO ON TO THE NEXT PAGE
+
+## Case History 4
+
+Directions: The case history is followed by three short-answer questions.
+
+## Kevin
+
+Kevin is a tenth-grade student at Notre Dame High School. Kevin is a very gifted athlete, who plays on the Varsity football, basketball, and baseball teams. Only a sophomore, he is considered the best athlete in the school, and certainly the most popular. The local press has named Kevin “a sure thing” to play professional sports one day, and that day may be as soon as two years away.
+
+Mr. Foster is Kevin's tenth-grade English and homeroom teacher. Mr. Foster is very concerned about Kevin's performance in English, and in other subjects as well. Mr. Foster has gathered the following documentation together, in preparation for a conference with Kevin's parents.
+
+Document 1
+Semester 1 Progress Report
+November 15
+
+<table><tr><td>Course</td><td>Grade</td></tr><tr><td>Geometry</td><td>C-</td></tr><tr><td>World History</td><td>C-</td></tr><tr><td>Physical Education</td><td>A-</td></tr><tr><td>Religion</td><td>C-</td></tr><tr><td>English</td><td>D</td></tr><tr><td>Biology</td><td>C</td></tr><tr><td>Preliminary GPA</td><td>1.97</td></tr></table>
+
+Document 2
+Results of Kevin's Diagnostic Test
+October 15
+
+<table><tr><td colspan="4">Results for Kevin</td></tr><tr><td></td><td>Reading Skills</td><td>Mathematics Skills</td><td>Writing Skills</td></tr><tr><td># of Questions</td><td>50</td><td>50</td><td>2</td></tr><tr><td># Correct</td><td>13</td><td>17</td><td>N/A</td></tr><tr><td>Percentile</td><td>37%</td><td>23%</td><td>42%</td></tr><tr><td>Grade Equivalent</td><td>9.1</td><td>8.3</td><td>9.6</td></tr><tr><td>Notre Dame High Median</td><td>61%</td><td>74%</td><td>77%</td></tr></table>
+
+Document 3
+Transcript of Meeting Between Mr. Foster and Kevin's Parents, Brian and Jolene
+
+<table><tr><td>Brian</td><td>We're very concerned with this grade of a D. Kevin received a B+ in English last year. How could he drop so quickly?</td></tr><tr><td>Mr. Foster</td><td>Kevin's grade is based on the number of assignments he has turned in, and the quality of those assignments. Thus far, he has failed to turn in three assignments, and the overall quality of his work has not been up to standards.</td></tr><tr><td>Brian</td><td>We've spoken with his football coach, who indicated that you grade harder than any other teacher. Kevin can't be penalized because he is in your class. Why isn't there consistent grading?</td></tr><tr><td>Mr. Foster</td><td>I'm sorry you feel that way, but my grading is based upon the work of all students. I have no desire to create a grading scale divergent from others. I simply evaluate the quality of work that students do.</td></tr><tr><td>Brian</td><td>You need to understand that Kevin needs to get at least a C in this class, in order for him to stay academically eligible. Anything below a 2.0, and Kevin can't play. You seem to know that—everyone else has recognized that Kevin is trying and has given him no worse than a C-. And let's be realistic—keeping Kevin eligible is the most important thing for his future.</td></tr><tr><td>Mr. Foster</td><td>I understand how much Kevin likes to play sports. By focusing on his work, he can remain eligible to play. I will not use his extracurricular involvement as a factor in my grading.</td></tr><tr><td>Brian</td><td>Well, maybe Kevin needs a new English teacher.</td></tr><tr><td>Mr. Foster</td><td>I'm sorry you feel that way. You are welcome to discuss this with the principal.</td></tr><tr><td>Jolene</td><td>Fine, we will. Everyone seems to help Kevin do his best. You seem determined to punish him for not being as strong as your other students.</td></tr><tr><td>Mr. Foster</td><td>That's not true, and I'm disappointed you feel that way. This conversation is over.</td></tr></table>
+
+Directions: Questions 22 through 24 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet.
+
+## Question 22
+
+In Document 3, it is clear that there is tension between Mr. Foster and Kevin's parents.
+
+- Identify TWO things Mr. Foster could do to have a more meaningful conversation with Kevin's parents.  
+- For each action identified, discuss how each action will help to focus on Kevin's educational welfare and the development of an effective parent-teacher relationship. Base your response on the principles of fostering school-parent relationships to support student learning.
+
+## Question 23
+
+Assume Kevin's parents asked Mr. Foster about the results of the standardized test scores, displayed in Document 2.
+
+- Provide TWO unique descriptions of Kevin's performance on the standardized test.  
+- For each description, provide a comparison of Kevin's performance to his classmates, and to students statewide.
+
+## Question 24
+
+Mr. Foster believes that with hard work, Kevin can succeed in his class.
+
+- Identify TWO things Mr. Foster can do to help Kevin in his attempts to improve his performance in class.  
+- For each item identified, discuss how each strategy can help Kevin improve his performance. Base your responses on the strategies of effective learning.
+
+GO ON TO THE NEXT PAGE
+
+## Discrete Multiple-Choice Questions
+
+Directions: Questions 25–36 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet.
+
+25. In Ms. Lepson's eleventh-grade computer class, teams of three have been assigned to solve a programming problem. The team will receive one overall grade for their performance on the assignment. This structure is an example of what type of learning?
+
+(A) Cooperative learning  
+(B) Demonstrated learning  
+(C) Exploratory learning  
+(D) Parallel learning
+
+26. Ms. Chamberlin would like to increase the level of participation by students during class discussions. Which of the following techniques is most likely to improve the level of participation, and the thoughtfulness of students' responses?
+
+(A) Implement a reward system for answering questions, such as a day with no homework.  
+(B) Post a ranking of students, ordered by the number of times they answer a question.  
+(C) Ask more leading questions, with clues to the correct answer.  
+(D) Increase the wait-time between the conclusion of her questions and calling on a student to give an answer.
+
+27. Which of the following ideas best incorporates the concept of scaffolding?
+
+(A) Students will role-play important events being studied.  
+(B) For a novel currently being studied, new vocabulary can be supported by linking words on a webpage to a separate page with definitions.  
+(C) Take students on a field trip to a relevant site, and have them take pictures of items that relate to the subject being studied.  
+(D) Assign students to create their own test, based on the subject material currently being studied.
+
+28. Ms. Bryant's eleventh-grade class took the SAT, a standardized test used for admission to many colleges and universities. Her class performance is summarized below:
+
+• Mean: 1240  
+• Median: 1000  
+- Mode: 980
+
+Which of the following statements is true about the performance of Ms. Bryant's class?
+
+(A) The performance of some individuals was extremely high, raising the overall average.  
+(B) An equal number of students scored above and below 980.  
+(C) The mean score was below the norm for eleventh-grade students.  
+(D) More students scored 1240 than any other score.
+
+29. Today, Noelle attended her twelfth-grade Science class. There was a discussion on genetics. The class attempted two problems as a group. For homework, Noelle will be required to review her notes on the lecture, and to be ready to try three more group problems tomorrow.
+
+What stage of the lesson plan is Noelle's class currently performing?
+
+(A) Anticipatory set  
+(B) Closure  
+(C) Independent Practice  
+(D) Guided Practice
+
+GO ON TO THE NEXT PAGE
+
+30. Steven is having problems in his high school classes. The school counselor believes that Steven is having problems at home. His parents have divorced, and there may be abuse within the family. The counselor believes that his home situation must be addressed before his academic issues can be solved.
+
+What theory and theorist best support the counselor's beliefs?
+
+(A) Skinner and negative reinforcement  
+(B) Maslow's hierarchy of needs  
+(C) Bandura's extinction  
+(D) Freud's theory of id, ego, and superego
+
+31. Ms. Lloyd has a new student in her class, Cynthia, who was diagnosed with ADHD. Cynthia will be the only student in the class with ADHD. What can Ms. Lloyd do to provide a positive learning environment for Cynthia?
+
+(A) Introduce Cynthia to the class, and announce that she has ADHD, so that other students can help keep her on track.  
+(B) Seat Cynthia in the back of the class, away from the teacher, and most other students.  
+(C) Create a consistent class schedule, with predetermined transitions.  
+(D) Keep the same set of rules for Cynthia as for all other students.
+
+32. The formal operational stage of Jean Piaget's stages of cognitive development most likely occurs with what age groups?
+
+(A) Infancy  
+(B) Toddler and early childhood  
+(C) Elementary and early adolescence  
+(D) Adolescence and adulthood
+
+33. Mr. Snow is teaching a tenth-grade class in Literature. The class has completed a novel, and is required to write an essay answering the following questions:
+
+• What criteria would you use to assess the strength of the main character?  
+- Do you agree with the outcome of the novel?  
+• What is the most important message from the novel?
+
+These questions measure what type of learning, according to Bloom's Taxonomy?
+
+(A) Knowledge  
+(B) Comprehension  
+(C) Synthesis  
+(D) Evaluation
+
+34. Mr. Prior believes that the best way to teach his ninth-grade English class is to employ a constructivist approach? He could do this by using which of the following strategies?
+
+(A) Students will read material at a level significantly more challenging than the student's reading level today.  
+(B) Students will analyze passages to understand the syntax, structure, and vocabulary of each sentence. Then, students should diagram the sentences.  
+(C) Students will read a new passage. In writing a summary of the passage, they will be asked to associate the passage with prior readings, and events from their own life.  
+(D) Students will read the passage, pair up with another student, then present their summary of the passage to the larger class.
+
+35. In Mr. Cockrum's eleventh-grade Business class, the class is currently studying fiscal policy. In order to convey the material, he has broken up the class into groups of six. Then, after a series of lectures, he allows the team to meet for two group sessions to review the material. Next, a test is given, and the cumulative score of all six members is used to determine a grade. Each team member receives the same overall letter grade.
+
+Mr. Cockrum is using what cooperative learning technique?
+
+(A) Jigsaw method  
+(B) Think-pair-share  
+(C) Student Teams-Achievement Divisions (STAD)  
+(D) Portfolio
+
+36. Keith, normally a very strong student, is struggling with an assignment in his twelfth-grade History class. The assignment is to analyze the inaugural address of John F. Kennedy, and write a paper discussing the speech's impact. Thus far, the class has been told to read the address contained in their History book. Keith has told his teacher that he is having difficulty understanding the meaning of the speech. What is the most plausible reason Keith is struggling with the assignment?
+
+(A) Keith is not interested in History.  
+(B) Keith does not recognize the reward system in place for completing the assignment.  
+(C) Keith may be a strong auditory learner; hearing the speech may help him with the assignment.  
+(D) Keith may have difficulty reading.
+
+$$
+\frac{1}{2} = \frac{1}{2}\left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2}\left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2}\left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} \times \left( \frac{\sqrt{3}}{4}\right) \times \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} + \frac0.5 - 0.6 - 0.7 - 0.8 - 0.9 - 1.0 - 1.1 - 1.2 - 1.3 - 1.4 - 1.5 - 1.6 - 1.7 - 1.8 - 1.9 - 2.0 - 2.1 - 2.2 - 2.3 - 2.4 - 2.5 - 2.6 - 2.7 - 2.8 - 2.9 - 3.0 - 3.1 - 3.2 - 3.3 - 3.4 - 3.5 - 3.6 - 3.7 - 3.8 - 3.9 - 4.0 - 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 - 4.9 - 5.0 - 5.1 - 5.2 - 5.3 - 5.4 - 5.5 - 5.6 - 5.7 - 5.8 - 5.9 - 6.0 - 6.1 - 6.2 - 6.3 - 6.4 - 6.5 - 6.6 - 6.7 - 6.8 - 6.9 - 7.0 - 7.1 - 7.2 - 7.3 - 7.4 - 7.5 - 7.6 - 7.7 - 7.8 - 7.9 - 8.0 - 8.1 - 8.2 - 8.3 - 8.4 - 8.5 - 8.6 - 8.7 - 8.8 - 8.9 - 9.0 - 9.1 - 9.2 - 9.3 - 9.4 - 9.5 - 9.6 - 9.7 - 9.8 - 9.9 - 10.0
+$$
+
+## Diagnostic Test Form
+
+<table><tr><td colspan="4">1. YOUR NAME: (Print) Last First M.I.</td></tr><tr><td colspan="4">SIGNATURE: DATE: /</td></tr><tr><td colspan="4">HOME ADDRESS: (Print) Number and Street E-MAIL:</td></tr><tr><td colspan="4">City State Zip</td></tr><tr><td colspan="4">PHONE NO.: SCHOOL: CLASS OF: (Print)</td></tr></table>
+
+<table><tr><td>2. TEST FORM</td></tr><tr><td>_</td></tr></table>
+
+<table><tr><td colspan="5">6. DATE OF BIRTH</td></tr><tr><td>MONTH</td><td colspan="2">DAY</td><td colspan="2">YEAR</td></tr><tr><td>○ JAN</td><td></td><td></td><td></td><td></td></tr><tr><td>○ FEB</td><td></td><td></td><td></td><td></td></tr><tr><td>○ MAR</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>○ APR</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>○ MAY</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>○ JUN</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>○ JUL</td><td></td><td>4</td><td>4</td><td>4</td></tr><tr><td>○ AUG</td><td></td><td>5</td><td>5</td><td>5</td></tr><tr><td>○ SEP</td><td></td><td>6</td><td>6</td><td>6</td></tr><tr><td>○ OCT</td><td></td><td>7</td><td>7</td><td>7</td></tr><tr><td>○ NOV</td><td></td><td>8</td><td>8</td><td>8</td></tr><tr><td>○ DEC</td><td></td><td>9</td><td>9</td><td>9</td></tr></table>
+
+<table><tr><td colspan="4">3. TEST CODE</td><td colspan="7">4. PHONE NUMBER</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr><tr><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td></tr><tr><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td></tr><tr><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td></tr></table>
+
+<table><tr><td>7. SEX</td></tr><tr><td>○ MALE</td></tr><tr><td>○ FEMALE</td></tr></table>
+
+<table><tr><td colspan="6">8. OTHER</td></tr><tr><td>1</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>2</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>3</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr></table>
+
+Completely darken bubbles with a No. 2 pencil. If you make a mistake, be sure to erase mark completely. Erase all stray marks.
+
+<table><tr><td colspan="6">5. YOUR NAME</td></tr><tr><td colspan="4">First 4 letters of last name</td><td>FIRST INIT</td><td>MID INIT</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr><tr><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr><tr><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td></tr><tr><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td></tr><tr><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td></tr><tr><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td></tr><tr><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td></tr><tr><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td></tr><tr><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td></tr><tr><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td></tr><tr><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td></tr><tr><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td></tr><tr><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td></tr><tr><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td></tr><tr><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr><tr><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td></tr><tr><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td></tr><tr><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td></tr></table>
+
+<table><tr><td>CASE I</td><td rowspan="8">7 A B C D8 A B C DD9 A B C DD10 A B C DD11 A B C DD12 A B C DD13 A B C DD14 A B C DD15 A B C DD16 A B C DD17 A B C DD18 A B C DD</td><td rowspan="4">CASE III</td><td rowspan="8">25 A B C DD26 A B C DD27 A B C DD28 A B C DD29 A B C DD30 A B C DD31 A B C DD32 A B C DD33 A B C DD34 A B C DD35 A B C DD36 A B C DD</td></tr><tr><td>1. Write your response on the appropriate page of the response book.</td></tr><tr><td>2. Write your response on the appropriate page of the response book.</td></tr><tr><td>3. Write your response on the appropriate page of the response book.</td></tr><tr><td>CASE II</td><td>CASE IV</td></tr><tr><td>4. Write your response on the appropriate page of the response book.</td><td>22. Write your response on the appropriate page of the response book.</td></tr><tr><td>5. Write your response on the appropriate page of the response book.</td><td>23. Write your response on the appropriate page of the response book.</td></tr><tr><td>6. Write your response on the appropriate page of the response book.</td><td>24. Write your response on the appropriate page of the response book.</td></tr></table>
+
+<table><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table>
+
+## 31
+
+## Answers and Explanations for PLT: 7–12 Practice Test

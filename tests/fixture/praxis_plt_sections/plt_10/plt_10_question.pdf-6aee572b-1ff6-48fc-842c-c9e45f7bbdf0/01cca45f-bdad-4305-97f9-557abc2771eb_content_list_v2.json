@@ -1,0 +1,3177 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE: PLT CONSTRUCTED-RESPONSE QUESTIONS"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                137,
+                94,
+                802,
+                118
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case Histories"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                130,
+                334,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Each case history in this section is followed by two short-answer questions. Your responses to the questions will be evaluated with respect to professionally accepted principles and practices of learning and teaching. Be sure to answer all parts of the question."
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                159,
+                928,
+                213
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions: Case History #1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                236,
+                680,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History #1: Early Childhood"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                265,
+                389,
+                282
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                287,
+                206,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson is a second-grade teacher at the East Hill Elementary School, a well-run suburban school with a sizable low-income community. This is Ms. Jackson's first year of teaching. She meets regularly with her mentor, Ms. Evenson, to discuss her experiences as a new teacher."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                306,
+                912,
+                357
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                370,
+                241,
+                386
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson's self-reflection notes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                391,
+                422,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "My college adviser described East Hill as a place where I could “make the mistakes of a beginning teacher and come out a better teacher on the other end.” I’m starting to wonder what I’m doing here, though. For the most part, I’ve been focused on classroom management and on creating a structured and disciplined academic environment. In my classroom, no excuse is tolerated for behavior that disrupts others’ learning or falls short on effort, and that goes for every student. But with all of my efforts to gain authority, I feel like I’m missing out on the mentoring role of teaching."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                412,
+                941,
+                532
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                544,
+                241,
+                558
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Excerpt from Ms. Evenson's observation of Ms. Jackson's class—November"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                565,
+                767,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During my observation, Ms. Jackson tried to conduct a reading group with the 8 slowest readers in the class, including a boy named William Baker. I was informed that last year's standardized test placed William at the lowest level in reading. He had been absent for 35 days last year and had spent a good number of his school days in the principal's office, many times missing the reading lessons in his first-grade classroom. When the 8 members of the reading group met, the rest of the class worked on workbook assignments at their desks."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                585,
+                930,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Several times, I noticed that William would start an argument, and most of the children at their desks would snap to attention to watch the scene William was making. Ms. Jackson harshly censured William each time, telling him that his behavior was unacceptable and rude and sometimes loudly telling him to sit down and pay attention or she would call his parents. In one instance, when William openly defied her, Ms. Jackson directed William to sit in the time-out chair. When he refused, she sent him to the principal's office. Even in William's absence, the chemistry in the classroom seemed strained, with a lot of bickering among the children."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                700,
+                930,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson seems genuinely invested in helping her students progress. Whenever a child who was reading aloud hesitated with a word, Ms. Jackson pronounced the complete word two or three times, then had the child repeat what she had said. When Ms. Jackson asked the students to summarize the story they had read, most of the members of the small reading group were lost, and could not paraphrase the key events of the plot. Similarly, when she repeated a sentence from the story and asked students to tell her what the sentence meant, the children were hesitant to reply and often gave incorrect answers."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                832,
+                919,
+                883
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                19,
+                76,
+                48
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                21,
+                190,
+                34
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                38,
+                407,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "208"
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                952,
+                67,
+                963
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                51,
+                85,
+                866,
+                156
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                54,
+                166,
+                162,
+                180
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Excerpt from transcript of postobservation conversation between Ms. Jackson and Ms. Evenson"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                54,
+                188,
+                797,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Evenson: I noticed that William Baker created quite a stir in your classroom today."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                226,
+                776,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson: That young man has really tested my resolve this year. How frustrating and embarrassing to be drawn into a battle of wills with a second grader!"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                255,
+                787,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Evenson: Can you expand on \"battle of wills\"? Beyond what I saw today, what kind of stuff is William doing in class?"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                303,
+                861,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson: Throwing pencils and wadded paper at other students. Refusing to stay at his desk. Stepping out of line when we walk to lunch or to recess. Interrupting other students. You name it, really."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                349,
+                864,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Evenson: That's got to be so frustrating. What strategies have you used for helping minimize the effect of William's disruptive behavior on others?"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                412,
+                855,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson: I tell the others to ignore him—that their attention is only encouraging him. I've taken William out into the hall and told him to straighten up. Sometimes, I tell him right in the classroom that he needs to clean up his act—but nothing seems to embarrass him or get through to him. He just doesn't have any respect for others, and his little performances frequently derail the other students' progress in their workbook assignments."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                459,
+                855,
+                547
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Ms. Jackson knows that the progress of the class in reading is being slowed down by external disturbances."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                573,
+                840,
+                608
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO instructional strategies that she could use in teaching reading to the class to minimize the effect of distractions and improve progress."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Explain how EACH of the two strategies would improve the environment in her classroom and assist in her students' development as readers. Base your response on the principles of effective instructional strategies."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                616,
+                840,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. There are a number of measures Ms. Jackson could take regarding William's conduct and behavior in the reading group."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                722,
+                840,
+                758
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO teaching strategies or behavior management techniques she could use with William in particular."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Discuss how EACH strategy or technique would improve William's classroom behavior and make the classroom more conducive to his learning. Base your response on the principles and strategies of classroom management."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                765,
+                848,
+                854
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                804,
+                13,
+                893,
+                27
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                486,
+                29,
+                893,
+                43
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                923,
+                13,
+                965,
+                42
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "209"
+                    }
+                ]
+            },
+            "bbox": [
+                932,
+                949,
+                963,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions: Case History #2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                93,
+                692,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History #2: Grades K–6"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                122,
+                367,
+                139
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                145,
+                215,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Carter is a fourth-grade teacher at the Hudson Elementary K-6 school. Approximately 430 of the 750 students at Hudson are ELL children. There are 10 languages represented in the school plus many dialects of each language. Ms. Carter, now in her second year of teaching, meets regularly with her mentor, Mr. Guo, to discuss problems and to share teaching and classroom management strategies."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                164,
+                948,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                263,
+                248,
+                278
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Carter's journal notes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                284,
+                367,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I'm worried that two of my special education students, Tuyet and Luis, are going to have trouble passing the upcoming state-administered reading test. I'm also slightly concerned that their behavior is making it harder for the other students to get ready for the test."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                304,
+                936,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tuyet is 10 years old and a first-generation immigrant from Vietnam. Her parents, whom I met at a beginning-of-the-school-year open house, seem open to a wide range of ideas when it comes to Tuyet's education. They're learning English themselves and are therefore keenly aware of the challenges Tuyet faces as a nonnative speaker in school."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                366,
+                943,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although Tuyet's English is limited, she can read at a third-grade level. However, she was recently diagnosed with ADHD. Although Tuyet is receiving medication, she has trouble concentrating and is extremely hyperactive."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                447,
+                946,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Luis, on the other hand, doesn't speak any English and is not yet literate in Spanish, his native language. Until this year, he'd apparently had little in the way of formal schooling. He seems unhappy here at Hudson and often creates disruptions during my lessons."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                510,
+                917,
+                562
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                573,
+                250,
+                589
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Guo's notes following observation of Ms. Carter's class"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                144,
+                594,
+                643,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Carter has 18 ELL students in her class of 35 fourth graders. These ELL students speak Arabic, Farsi, Spanish, Vietnamese, Lao, and Mandarin Chinese. Ms. Carter is bilingual, but her second language, Russian, is not spoken by any of the students in the class."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                616,
+                930,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During my observation, non-English-speaking students spent some time individually with Ms. Carter or her paraprofessionals, and occasionally they left the classroom altogether to work with ELL teachers in the school's resource room. Now and then, one of the paraprofessionals chatted with several of the students in Spanish."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                679,
+                934,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "While Ms. Carter was speaking before the entire class, she shared some of her knowledge of Russian with curious students in the class. The students then took turns teaching her some phrases from their own languages. Ms. Carter asked them open-ended questions, praising them for their responses."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                759,
+                930,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One student, however—a girl named Tuyet—had trouble staying on task, often failing to answer direct questions or playing private games instead of following along with the class's conversation. Ms. Carter, at one point, let one of her paraprofessionals take over primary instruction so that she could work with Tuyet one-on-one."
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                840,
+                939,
+                908
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                17,
+                84,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                19,
+                416,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "210"
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                949,
+                74,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Another student, Luis, repeatedly got up from his seat and walked around the room, talking to himself and disturbing the rest of the class. The paraprofessional in Ms. Carter's room escorted him out, finally, and took him down to the ELL resource room where there was someone who spoke his language. The paraprofessional told me that this happens quite often for Luis."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                85,
+                846,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the observation, Ms. Carter and I agreed that it would be productive to schedule an IEP meeting with the parents of each child. Ms. Carter will recommend that Tuyet be allowed to take her reading test separately from the other students, but she is concerned that this special treatment might make the other children jealous. She isn't sure what changes are appropriate for Luis."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                167,
+                868,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                249,
+                166,
+                265
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Excerpt from transcript of Luis's IEP meeting"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                270,
+                455,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Carter [through translator]: Luis's behavior is disruptive to some of the other children, but that's not what I'm really concerned about. I'm concerned that his acting out is a symptom of his need for an educational program better tailored to his specific challenges. And I'd love to listen to your thoughts about what those needs are and how I can help to meet them."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                292,
+                868,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Luis's father [through translator]: Well, he shouldn't be misbehaving. I'll talk to him about that. On the other hand—if he can't understand what the teacher is saying, it makes sense that he would get bored, right?"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                372,
+                846,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Luis's mother [through translator]: Without disrespect—because I'm sure you're an excellent teacher—Luis has told us that he prefers to be in the ELL room with Ms. Martinez and Mr. Glass. He says that he learns more from those teachers than he does in your classroom—probably because he can't understand the words you use."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                436,
+                868,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Carter [through translator]: I understand. But it's important for Luis to spend time with the other children at the school as well, including English-speaking students. And I need to work with him to make sure that he's ready for the state reading test."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                517,
+                855,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Luis's mother [through translator]: The test—why is Luis taking it to begin with? What's the point of making him take a test he can't even read? Just let him spend his time in the ELL room. He learns a lot there."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                580,
+                868,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Ms. Carter's students have a wide range of special needs related, in some cases, to their relative inexperience with the English language."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                660,
+                861,
+                697
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO effective instructional strategies that Ms. Carter and the paraprofessionals, resource teachers, and administrators at Hudson Elementary are currently using in order to better meet the needs of the ELL students in Ms. Carter's class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For EACH strategy that you identify, describe how that strategy helps Ms. Carter's ELL students progress in their learning. Base your response on the principles of planning for students as diverse learners."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                704,
+                853,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Some of the ELL students in Ms. Carter's diverse classroom are not as engaged in the lessons as they should be."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                825,
+                868,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Identify TWO strategies Ms. Carter could use to improve student engagement and foster greater progress in the students' learning. Include one general strategy and one strategy that applies specifically to Luis and/or Tuyet."
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                869,
+                857,
+                923
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                14,
+                897,
+                27
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                29,
+                897,
+                44
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                926,
+                11,
+                970,
+                42
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "211"
+                    }
+                ]
+            },
+            "bbox": [
+                939,
+                949,
+                968,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For EACH strategy you identify, describe how this strategy would help Ms. Carter improve the quality of her ELL students' English progress. Base your response on the principles of student motivation and learning theory and the principles of planning for students as diverse learners."
+                    }
+                ]
+            },
+            "bbox": [
+                182,
+                91,
+                946,
+                160
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions: Case History #3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                184,
+                691,
+                207
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History #3: Grades 5–9"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                213,
+                363,
+                229
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                234,
+                215,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thomas Williams is a sixth-grade student in a relatively affluent suburban school district. His teachers describe him as quiet and shy; they comment that his work is inconsistent but is not a major cause for concern. He is heavily overweight and has been since childhood."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                254,
+                923,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross is Thomas's third-period science teacher. It is Ms. Ross's second year, but she already has a reputation as a popular and exciting teacher. Her mentor, Mr. Perry, has just observed her teaching Thomas's class."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                317,
+                930,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                382,
+                246,
+                397
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross's self-reflection—third-period science, Tuesday"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                402,
+                623,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Today's class went well. Most of the class was excited by the water cycle. The discussion of last year's blizzard was a great last-minute addition that let the students establish a personal connection to the weather. Carlos, Zhou, and Jenny all asked very insightful questions that let me reteach challenging parts of the lesson. I also tried to use my mentor's suggestions about handling off-topic questions, and I think I was able to turn Sasha's questions about acid rain into a teachable moment."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                423,
+                937,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                536,
+                248,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Excerpt from Ms. Ross's postobservation meeting with her mentor, Mr. Perry"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                559,
+                802,
+                576
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Perry: And did your students meet all the learning objectives for your lesson?"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                580,
+                815,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: Absolutely. When I asked review questions after the first 10 minutes of the lesson, the students answered quickly and accurately. And when I opened the floor for questions at the half-hour mark, the responses I got were surprisingly sophisticated and thoughtful. It's a good thing I knew enough about acid rain to answer them."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                608,
+                937,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Perry: What about the quieter students? The reason I ask is that from the back of the room, I saw that Thomas gave incomplete answers to most of the study questions on his worksheet."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                689,
+                946,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: He did? Well, that's disappointing. He had several opportunities to ask if he was having trouble following the lesson."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                734,
+                943,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Perry: Is it possible he just doesn't feel comfortable asking questions in front of his peers?"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                781,
+                914,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: It could be. He has a few friends in class, but he isn't very popular and does get teased about his weight. I'll check with his guidance counselor to see what I can do for him."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                810,
+                936,
+                846
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                17,
+                84,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                18,
+                414,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "212"
+                    }
+                ]
+            },
+            "bbox": [
+                42,
+                948,
+                73,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                85,
+                166,
+                101
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thomas's answers to Ms. Ross's study questions:"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                108,
+                475,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What are the steps of the water cycle? ____ → ____ → ____ → ____\n→ ____ (Hint: the last step is the same as the first.)"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                130,
+                820,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thomas's answer: Consation → Rain?? → Running water → ____ → Consation"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                176,
+                716,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "How do plants play a role in the water cycle?"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                205,
+                435,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thomas's answer: Roots in the ground are part of the water cycle."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                234,
+                588,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Why is the water cycle important to the environment?"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                263,
+                511,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thomas's answer: Acid rain can kill trees and fish."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                292,
+                464,
+                312
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                323,
+                166,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Guidance counselor's note to Ms. Ross"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                345,
+                394,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Saw your message about Thomas. I've spoken to him several times recently about teasing from peers. According to Thomas, it's worse than it was in elementary school, but he \"can put up with it.\" However, it wouldn't surprise me if he were trying to keep a low profile in class."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                366,
+                859,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One other thing: He's made a few comments about teachers \"playing favorites.\" He didn't specify how or why, but he may have gotten an impression that some teachers value other students' contributions more highly than his own."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                428,
+                855,
+                482
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 5"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                494,
+                166,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Excerpt from Ms. Ross's third-period science class, Thursday."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                515,
+                588,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(The bell rings. Students are mostly in their seats, talking among themselves.)"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                535,
+                681,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: Hello, class!"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                565,
+                244,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(The class replies \"Hello, Ms. Ross!\" Several conversations continue, while other students wait silently.)"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                593,
+                808,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: All right, settle down. Today, we're going to talk about different types of clouds and start work on your terrariums. But first, I wanted to talk about something important."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                639,
+                833,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(The class settles down. A few students still whisper.)"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                686,
+                486,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: In Tuesday's class, I got some really great questions. Carlos's questions about condensation were very helpful to let me know what parts of the lesson were hard to understand, and Sasha's question about acid rain was a great learning opportunity for all of us."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                715,
+                864,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Sasha beams. Carlos laughs but is embarrassed.)"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                779,
+                460,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: So I want everyone to know that questions are very important to learning. Everyone should be okay asking questions about things you don't understand. It doesn't matter whether the person who asks is a boy or a girl, if they're good at science or having trouble, if they're a jock or overweight. This should be a safe environment. (A student raises his hand.) Arthur, do you have a question?"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                808,
+                866,
+                899
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                15,
+                897,
+                27
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                30,
+                897,
+                44
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                926,
+                14,
+                968,
+                44
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "213"
+                    }
+                ]
+            },
+            "bbox": [
+                941,
+                951,
+                970,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Arthur (joking): What if they're really really overweight like Tom Tub?"
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                92,
+                709,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(The class laughs. Thomas glares, then puts his head on his desk.)"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                121,
+                659,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross (angry): Arthur, that's completely out of line. Go to the office. Now!"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                150,
+                769,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Arthur: But Carlos and Zhou call him that all the time. Why am I getting in trouble?"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                179,
+                833,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Ross: Don't argue with me, young man. Go to the office."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                209,
+                632,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Ms. Ross starts her lecture. The class is subdued for the whole period, and Thomas doesn't pay any attention to the lesson at all.)"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                237,
+                930,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Ms. Ross helped students take notes by having them complete a study sheet while she lectured. Review Thomas's notes on his study sheet in document 3."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                299,
+                932,
+                333
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Suggest TWO modifications to the study sheet activity that could have helped Thomas better understand Ms. Ross's lecture."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For EACH suggestion, explain how it would have helped Thomas produce more accurate and complete responses. Base your responses on the principles of planning instruction."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                341,
+                934,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Ms. Ross's attempt to encourage a safe environment for students to participate in class was not successful, in part because she inadvertently singled Thomas out in front of his peers."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                434,
+                928,
+                469
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Propose TWO ways that Ms. Ross could make students like Thomas feel more comfortable participating in her classes."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For EACH of those methods, explain how they would encourage Thomas to participate more in classroom discussions. Base your responses on the principles of effective classroom management."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                175,
+                476,
+                923,
+                565
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions: Case History #4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                600,
+                681,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History #4: Grades 7–12"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                629,
+                365,
+                643
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                650,
+                204,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Fayerwether is a math teacher in the only high school in a small suburb. Of the 24 students in his fourth-period Algebra II class, 21 are 10th-grade students. At the beginning of the second month of school, Mr. Fayerwether is collecting documents to prepare a self-evaluation, focusing in particular on the one freshman and two juniors in his class."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                671,
+                925,
+                738
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                751,
+                239,
+                766
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Fayerwether's first impression of the three students"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                771,
+                608,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Johnny is a bright, positive student one-on-one. However, as the only 9th grader in the class, he often seems uncomfortable interacting with students who are older than he is. On Johnny's first day, he was teased for his high-pitched voice; though the perpetrator was disciplined and the teasing has not recurred, I think the incident left a negative impression on him. Johnny has nevertheless proved to be one of the highest-performing students in the class despite his youth—he finishes most in-class assignments well before his classmates."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                794,
+                926,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                17,
+                74,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                19,
+                188,
+                31
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                35,
+                405,
+                48
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "214"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                949,
+                65,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lucy is a popular girl. She is comfortable speaking out in class, but makes as many off-topic jokes as she makes legitimate contributions. Math has consistently been a struggle for her. She failed Algebra I as a freshman and only passed her second time through with a C-. She is clearly a capable student, as demonstrated by her As in English and social studies and Bs in science. But it's hard to tell how dedicated she is to her math studies. She is determined to follow in the footsteps of her mother, a traveling art dealer, and has repeatedly made comments such as \"I suck at Algebra, but who cares? I know what I want to do and don't need math to do it!\""
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                84,
+                866,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karl is struggling to recover after a car accident caused him to miss a significant part of his sophomore year. He has an aide to help him carry his belongings (as he is still on crutches) and, more importantly, to help him read; neurological damage makes it hard for him to focus his eyes on small text. Unfortunately, Karl often refuses to let his aide help him. His weekly quiz grades have been much lower than his B average from last year, and I am convinced that he would have done better if he had accepted assistance. Karl's parents are both very concerned with his recovery, academic and physical, but they do not live together and the information I get from them is sometimes contradictory. When I asked Karl about it, he told me his parents \"are both full of it.\""
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                218,
+                859,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                386,
+                164,
+                399
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Lesson plan for class to be observed by Mr. Fayerwether's supervisor"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                408,
+                648,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Goals:"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                428,
+                109,
+                441
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Students will refresh knowledge of inequalities from earlier grades."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Students will apply the tools for solving systems of equations to solve systems involving both equations and inequalities."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Students will understand how real-world problems can translate to systems of equations and inequalities."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                449,
+                859,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students will work on a review sheet to start off the class. I offered Karl a large-print version of the review sheet, but he unsurprisingly refused. The small-group work that I used for this lesson last year was pure math. Lucy's grades in English suggest she is a verbal thinker, so I've replaced a few equations with word problems; I hope this will engage her. I have not made any modifications to the lesson for Johnny, as his performance suggests he does not need them."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                560,
+                840,
+                645
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                659,
+                164,
+                672
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supervisor's notes on Mr. Fayerwether's class"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                680,
+                444,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Fayerwether begins by handing out a review sheet with symbols, terms, and images. He asks for an explanation of each term from a particular student. When students shout out an answer out of turn, Mr. Fayerwether politely but firmly tells them it's not their turn. Next, he lectures on applying concepts from the previous week's class. He pauses regularly to write equations, steps, and rules on the overhead projector. The class ends with a group-work activity. Each group of students is given 12 problems. Each student is instructed to do a third of the problems, then check his or her partners' work on the other problems."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                701,
+                857,
+                821
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                11,
+                897,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                27,
+                897,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                926,
+                11,
+                968,
+                40
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "215"
+                    }
+                ]
+            },
+            "bbox": [
+                937,
+                949,
+                965,
+                959
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                91,
+                246,
+                106
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Fayerwether's postobservation self-evaluation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                112,
+                564,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Today's results were disappointing. My original plan had been to ask Lucy easy questions early in the review and to save the hard questions for high-performing students like Johnny. However, Lucy responded by making jokes about how I expected her to remember things from sixth grade. By the time I got an answer out of her, Johnny had already finished the entire review and stopped paying attention. Karl was one of several students who shouted out his answers, and he held a grudge; he refused to answer when it was actually his turn. And even Johnny stumbled when it was his turn to answer a question. He had finished and was no longer paying attention, and several students laughed out loud."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                131,
+                946,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The second half didn't go much better. Karl was frustrated because he misread the problem numbers on his worksheet and ended up doing three of the same problems as his partners before his aide spotted the error. Lucy and her partners spent most of the period talking rather than doing math, and Johnny finished 10 of 12 problems before his partners were done with their 8. In retrospect, these were predictable outcomes given these students' recurring behavior, but I'm still frustrated."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                281,
+                945,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Mr. Fayerwether ends his self-evaluation by commenting that Johnny and Lucy's behavior during group work was part of a recurring pattern. Suppose that you are Mr. Fayerwether's supervisor."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                412,
+                908,
+                463
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each of these two students, suggest ONE guiding question to ask Mr. Fayerwether about a specific aspect of that student's pattern of behavior."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For EACH question, explain how different answers would suggest different approaches for Mr. Fayerwether to improve his students' behavior. Base your answer on the principles of modifying instruction for diverse learners."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                470,
+                930,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Throughout the study, Karl refuses direct offers of assistance for coping with his disability."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                580,
+                899,
+                598
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Suggest TWO modifications Mr. Fayerwether could make to his teaching style that would indirectly help Karl."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For EACH modification, explain how it would aid Karl while still being indirect enough that he would not refuse. Base your answers on the principles of educating students with disabilities."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                605,
+                910,
+                691
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                14,
+                80,
+                44
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                15,
+                193,
+                27
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                32,
+                411,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "216"
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                945,
+                67,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                81,
+                449,
+                106
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Constructed-Response Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                116,
+                473,
+                139
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions: Case History #1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                60,
+                146,
+                458,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. One strategy Ms. Jackson could use would be to teach reading using the phonetics approach and basal readers. The students in her class are attempting to learn in a volatile environment, and breaking down the reading lessons to form a narrow learning path will help her to gauge the success of individual students and the lessons better than if the class were trying to intake a broader curriculum. While Ms. Jackson intends to be helpful, interrupting a student who is struggling with a word, then supplying the complete pronunciation for the student, is actually ineffective: it further distracts from the learning environment and contributes to classroom outbursts. When Ms. Jackson pronounces the word to the student, the student may become embarrassed and others may laugh at the struggling student when they see the teacher intervene with such a harsh method of teaching the word. This frustration could further create an unpleasant learning environment, thereby undoing any progress made with the instructional strategies. An alternative approach such as the use of phonics would give students limited guidance when needed, while letting them find their way to the correct pronunciation."
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                167,
+                946,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Jackson could also use writing as a strategy to enhance her students' focus and reading levels. Writing assignments based on reading passages that focus on correct spelling and grammar force the students to understand the individual words rather than attempting to decipher the meaning of an entire passage. If the students are busy working on these assignments, it is less likely that they will be so easily distracted by William's behavior."
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                391,
+                923,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Ms. Jackson should sit down and have a personal conversation with William in which she discusses his behaviors that must be changed. She can provide him with a list of positive and negative reinforcements that will come with certain types of behaviors. For instance, if he continues to disrupt the class, he will have to accept the consequences of that action. The list must be specific so that William's negative behavior will be shaped into a positive state. A contract designed by William and Ms. Jackson together to actually set goals not only for completed work but also for practiced behavior would also be useful. There should be an incentive for reaching these goals."
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                492,
+                941,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In a parent/teacher conference with William's parents or guardians, Ms. Jackson can discuss the areas in which William shows strengths and her concerns about William's weaknesses in his performance in class. She needs to share with William's parents/guardians the positive growth and development William is making and how much more progress he can make. Ms. Jackson should find out in which room William completes his reading at home. For example: if William reads at the kitchen table, then is it free of distractions, such as physical objects on the table and other people in the room talking or eating? If William reads in his bedroom, is he supervised to make sure he remains on task? After asking about these rooms, Ms. Jackson can suggest how William's parents can help him succeed, such as having a clean area on the table where William can work, or having an older sibling also do work in William's room to make sure William remains on task. Ms. Jackson can share the reinforcement guidelines she is using to help with behavior modification in the classroom and ask the parents/guardians to do similar things at home so that William's behavior modification will be consistent. Finally, as a reward, William could be given time in the school library to select a book from his favorite genre. This would reward his good behavior and further encourage his reading skills."
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                630,
+                941,
+                854
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                811,
+                10,
+                901,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                26,
+                901,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                9,
+                972,
+                39
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "217"
+                    }
+                ]
+            },
+            "bbox": [
+                943,
+                947,
+                972,
+                957
+            ]
+        }
+    ]
+]

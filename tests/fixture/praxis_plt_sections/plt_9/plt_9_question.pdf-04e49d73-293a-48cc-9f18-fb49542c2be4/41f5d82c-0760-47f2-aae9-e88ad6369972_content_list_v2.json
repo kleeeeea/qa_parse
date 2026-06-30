@@ -1,0 +1,5271 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Praxis Series Professional Assessments for Beginning Teachers"
+                    }
+                ]
+            },
+            "bbox": [
+                245,
+                84,
+                746,
+                101
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Test Name: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                317,
+                105,
+                677,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Practice Case Histories and Constructed-Response Questions"
+                    }
+                ]
+            },
+            "bbox": [
+                267,
+                125,
+                724,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Time - 120 minutes"
+                    }
+                ]
+            },
+            "bbox": [
+                420,
+                145,
+                572,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 Short-Answer Questions and 24 Multiple-Choice Questions"
+                    }
+                ]
+            },
+            "bbox": [
+                262,
+                165,
+                730,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                427,
+                208,
+                564,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                229,
+                622,
+                245
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pirner"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                453,
+                256,
+                539,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pirner teaches an elective Science course to a class of 27 students. There are 13 male students, and 14 female students. The class is composed of 4 sophomores, 15 juniors, and 8 seniors. Ms. Pirner is in her third year teaching this course at the high school. She has a new principal at the school, and is planning for her self-evaluation. In order to prepare a thorough assessment, Ms. Pirner begins to gather material that may be helpful for the activity. In the journal entries below, Ms. Pirner focuses on a specific class, and four of her students. The class takes place early in the semester, before any preliminary grades have been determined."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                277,
+                887,
+                372
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal Entry #1—Student Profiles"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                361,
+                387,
+                629,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jarrod is an exceptional student who comes from a very proud family. I taught his older brother two years ago, who was the best student in the class. Jarrod is like his brother, but he has additional interests. He does not seem intent on following the family path—medical school. Jarrod has been quiet and focused during most class sessions. He is well respected in the class. Jarrod rarely volunteers information—but whenever I call on him, he always has the correct answer."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                403,
+                887,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vince is repeating this class. I was surprised to see him enroll in this elective course again, as he received an F last year. Vince and I have a good rapport. During the first week, he offered to help distribute some paperwork for our in-class assignments, stating, \"I've seen this stuff before. I should be your teaching assistant!\" He did not do well on our quiz last week. When I asked him about his performance, he shrugged his shoulders and said, \"Ms. Pirner, some people just can't remember all these details, and I'm one of them. But don't worry about it. Maybe I'll stay here another year.\""
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                495,
+                887,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ron is a very quiet student, who is withdrawn from most activities. He received a D in Biology last year, and has a GPA of 2.2. Thus far, Ron has completed few of the activities. Ron does not like to receive any attention from me or other members of the class. In a recent activity that required students to pair with others, Ron was left as the odd man out (13 pairs, then Ron). I volunteered to work with Ron, and he snapped at me, “I don’t need your pity Ms. Pirner. Just let me complete this on my own!”"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                606,
+                887,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bob is the class clown. He manages to make comments on almost every topic, and while they are often disruptive, I do have to admit that some are quite entertaining. Bob has indicated that this year is important to him, because he doesn't look forward to being a \"boring adult\" after graduation. Bob has the talent to exceed in this class. Instead, he manages to do slightly above average work. If he really applied himself, he could excel like a few other students in the class."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                699,
+                887,
+                779
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal Entry #2—Self-Analysis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                370,
+                793,
+                619,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I believe that I have become a fairly competent Science teacher. I attend conferences and read information in an attempt to improve my skill set. This year, I have tried to make my classroom environment more cooperative, by dividing students into different groups for projects and lab work. Yet, I've struggled in making these groups a success. Strong students like Jarrod complain about the groups, claiming that the work is boring and they would learn more if they just do the work themselves, or with a group of their choosing. Some students like Ron seem to dislike anything that brings the class together to perform group work."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                809,
+                887,
+                904
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                652,
+                910,
+                887,
+                926
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "388"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                942,
+                76,
+                955
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                942,
+                264,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In discussions, I find that I am trying to manage two different audiences. There is a group that volunteers constantly. At times I feel they are in a competition with each other to see who can answer the most questions. While I appreciate their intent, it seems like more of an attempt to get a strong grade than to really contribute to the classroom. On the other hand, though, I have a core group of students who remain silent. I'm not sure if they are intimidated by the other students, bored, or both. I have tried strategies to increase classroom participation (I attended a workshop on this last year), but I generally fall back into what I'm most comfortable with, which is lecture and the use of a textbook."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                71,
+                879,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supervisor's Notes on Tuesday's Lesson"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                339,
+                193,
+                638,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pirner gave a lecture on Photosynthesis. She encouraged the class to take careful notes, and informed her students that the information on next week's test would be a combination of material found in the reading material, as well as material mentioned only in her lecture. During the lecture, she walked around the class to see if students were taking notes. She spoke generally quickly, but slowed to emphasize key points, such as vocabulary words, and the steps of the photosynthesis process. While many students took notes, I noticed that neither Vince nor Ron took notes."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                209,
+                879,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 1 through 3 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                309,
+                859,
+                372
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                98,
+                394,
+                181,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pirner noted that strong performing students, such as Jarrod, say small group work is boring, and not effective for them. Assume that Ms. Pirner wants to continue using cooperative learning groups."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                409,
+                879,
+                441
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Identify TWO strategies Ms. Pirner could use to address the concerns of students like Jarrod."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each strategy identified, explain how its use could address the concerns of Jarrod, and would make group work more effective. Base your response on the principles of effective instructional strategies."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                445,
+                846,
+                513
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                98,
+                534,
+                181,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Assume that Ms. Pirner produced a lesson plan before giving the lecture on Photosynthesis. Assume that no modifications are made for any of her students."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                549,
+                879,
+                580
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Suggest TWO modifications, one for Vince and one for Jarrod, that Ms. Pirner could have made that could offer the students a better learning environment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each modification, explain how it will provide for a better learning situation for Jarrod and Vince. Base your response on principles of varied instruction for diverse learners."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                585,
+                846,
+                651
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                98,
+                669,
+                181,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pirner feels that she is having difficulty connecting with Ron as a student, and wants to learn more about Ron so he can become a better learner."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                684,
+                877,
+                714
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Describe TWO aspects of Ron's behavior that Ms. Pirner, and other school leaders, might discuss in order to understand Ron better as a learner."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each aspect, suggest one hypothesis that might be used to understand Ron better as a learner. Base your response on the principles of human development and diagnostic assessment."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                720,
+                849,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                644,
+                860,
+                879,
+                876
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7–12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                699,
+                930,
+                879,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "389"
+                    }
+                ]
+            },
+            "bbox": [
+                906,
+                931,
+                935,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                425,
+                73,
+                561,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                96,
+                619,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Gregory"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                447,
+                116,
+                541,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Gregory is a tenth-grade U.S. History teacher. He teaches to a group of 29 sophomores, 14 boys and 15 girls. This is his sixth year teaching History at Lewisville High School. He is currently planning a lesson on the Civil War, which will be viewed by his supervisor, Mr. Windle, who is the school principal. Attached are Mr. Gregory's notes for his lesson plan, and his reflections after his lecture on Wednesday."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                138,
+                884,
+                200
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Background Information on Lesson to Be Observed by Supervisor"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                250,
+                216,
+                738,
+                232
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Goals of Unit on the Civil War:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                107,
+                243,
+                334,
+                259
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Introduce students to the timelines, theories, and important lessons learned from the Civil War."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Foster students' evaluation skills by identifying similarities between the causes of the Civil War and the causes of today's struggles and wars."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Develop students' abilities in combining textbook information and lecture information."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Give students experience in making presentations to the class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Link students' textbook reading with information found elsewhere."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                264,
+                849,
+                376
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                107,
+                398,
+                183,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The pre-assignment for this unit was to read Chapter 13, “Conflict in the United States,” and Chapter 14, “The Civil War,” by Wednesday, the day of my first lecture on the Civil War. I have asked students to highlight the chapters, and take notes on what they find important in the reading material. I’ve also asked that students think about what they find most interesting about the Civil War, and to write that down. That topic will be the topic I will ask them to present after our test at the end of the week. Ideally, they will seek out additional information beyond what is in the text."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                414,
+                884,
+                506
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Assessment:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                107,
+                523,
+                195,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I will evaluate students based on their performance on Friday's test, as well as their presentation to the class next week. For the presentation, I will evaluate them more on the content of the presentation rather than the delivery. I want to see if students understand how to use outside information effectively to augment the lessons presented directly in class or from our textbook. Further, I will also evaluate them on the quality and quantity of their notes taken while reading the chapter and in their participation in the classroom discussion."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                538,
+                884,
+                616
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Notes from Thursday"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                413,
+                632,
+                575,
+                648
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "One Day After Wednesday's Lecture"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                356,
+                649,
+                630,
+                663
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Today students have a free period to study for tomorrow's test. Walking around, I'm somewhat disappointed to see how few students took notes on the chapter, or highlighted the key points of the material. I hope students were paying attention to yesterday's lecture—some information in that lecture will be used on the test, and that information is NOT in the text. I'm not sure that the test tomorrow is the best assessment of student performance on this material. I think I've written it in the best way possible, but I'm never sure about these things."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                664,
+                884,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                651,
+                862,
+                882,
+                876
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "390"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                931,
+                76,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                931,
+                261,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 4 through 6 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                73,
+                860,
+                135
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                103,
+                157,
+                184,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The fourth and fifth goals of Mr. Gregory are to “Give students experience in making presentations to the class” and “Link students’ textbook reading with information found elsewhere.”"
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                173,
+                884,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Recommend TWO activities or strategies Mr. Gregory could use to help students meet one or both of these goals."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                208,
+                832,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For each activity or strategy suggested, explain how its use will help achieve the goal(s). Base your response on the principles of effective instructional planning and strategies."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                244,
+                863,
+                273
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 5"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                103,
+                292,
+                184,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Gregory's third goal is to \"Develop students' abilities in combining textbook information and lecture information.\" We know that Mr. Gregory plans to test on information uniquely presented in each medium."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                308,
+                884,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Suggest TWO additional ways that Mr. Gregory could help to achieve his goal."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                343,
+                727,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For each strategy suggested, explain how all students would benefit. Base your response on principles of effective instruction."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                364,
+                805,
+                392
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 6"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                103,
+                416,
+                184,
+                430
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In his reflection, Mr. Gregory wonders if his test is the best way to evaluate his students."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                431,
+                727,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Identify TWO additional assessment techniques Mr. Gregory could use to provide his students with opportunities to demonstrate their learning."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                451,
+                837,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For each technique suggested, describe the kinds of information about student learning it could provide. Base your response on the principles of assessment."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                487,
+                843,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                649,
+                863,
+                881,
+                877
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7-12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                704,
+                933,
+                881,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "391"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                933,
+                938,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrete Multiple-Choice Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                356,
+                77,
+                671,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 7–18 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                103,
+                882,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. On a tenth-grade mathematics test, Kathy received a grade-equivalent score of 12.4, and a percentile rank of 91 percent. Which of the following statements is true?"
+                    }
+                ]
+            },
+            "bbox": [
+                118,
+                157,
+                474,
+                220
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Kathy missed only 9 percent of the questions on the test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Kathy performed as well on the test as the average twelfth-grade student in the fourth month of instruction."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Kathy can successfully complete 91 percent of the curriculum of a typical twelfth grader in the fourth month of instruction."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Kathy's ranked 91st of all students that have completed the test nationwide."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                228,
+                475,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Archimedes was asked to find a method for determining whether a crown was pure gold, or if it was alloyed with silver. Thinking over how to solve the problem, he stepped into a bath, and realized that a pure gold crown would displace less water than an alloyed crown. \"Eureka!\" he shouted."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                434,
+                486,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The learning process of Archimedes is best described as"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                552,
+                456,
+                584
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) accidental learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) discovery learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) emergent learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) cluster learning"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                148,
+                593,
+                330,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. A teacher would like to get information on how well her class understood her lecture on the Constitution. Which of the following tests would give the best information?"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                689,
+                483,
+                753
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Criterion-referenced test"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Norm-referenced test"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Portfolio assessment"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Standardized test"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                148,
+                761,
+                370,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Lindsey is struggling in her tenth-grade class. Her records show that she has performed above-average in the ninth grade, and her teacher reports that she has a good attitude and desire to succeed. However, Lindsey's performance on most tests is poor."
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                157,
+                866,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following could Lindsey's teacher do to encourage Lindsey?"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                260,
+                884,
+                293
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Involve Lindsey's parents, and send them notices whenever Lindsey does poorly on an assignment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Match up Lindsey with a student who performs well, and hope that the other student can motivate Lindsey."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Match up Lindsey with another student who is struggling, so they can work at their own pace."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Divide Lindsey's work into small pieces, and provide feedback with each part of an assignment."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                300,
+                882,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Which of the following statements would Howard Gardner most likely agree with on effective instruction?"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                522,
+                854,
+                569
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Teachers must find eight different ways to teach each set of material to correspond with the eight different types of intelligence."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Students must learn different levels of intelligence at different times; they must build on one another."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Intelligence and morality must be separated, and the two should not work together."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Educators need to develop new approaches that might better meet the needs of the range of learners in their classrooms."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                578,
+                881,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                652,
+                864,
+                887,
+                878
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "392"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                935,
+                78,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                935,
+                264,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. Which of the following is an example of a spiral curriculum, as popularized by Jerome Bruner?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                74,
+                444,
+                119
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) Students are given a difficult problem; the tools to address the problem are presented, and then a quiz is given to test comprehension."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                130,
+                453,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) Students are given aide from teachers each step of the way, so that they can grasp the material."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                197,
+                450,
+                245
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) Students are given a new lecture; before the work is completed, the basics are reviewed, and then are built upon to further the learning process."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                250,
+                467,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D) Students move at their own pace, based on successful performance on criterion-referenced tests."
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                317,
+                467,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. Which of the following statements is a well-formed learning objective?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                383,
+                458,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) I will teach students how to solve trigonometric functions."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                424,
+                422,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) While in your reading group, try to identify the use of foreshadowing. Provide examples to the class on foreshadowing."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                459,
+                433,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) Identify the natural resources present in United States that are not present in Asia."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                528,
+                466,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D) Bring in a guest speaker to talk about the trade deficit."
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                580,
+                475,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14. Which of the following is an example of punishment in Skinner's theory of operant conditioning?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                630,
+                446,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) Detention"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                686,
+                259,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) A \"no homework day\""
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                707,
+                345,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) Silence in the classroom"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                727,
+                359,
+                743
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D) A test"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                748,
+                230,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15. George is a student in Mr. Martin's tenth-grade class. George has performed well on standardized tests, but his participation and performance on most tasks are poor."
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                74,
+                876,
+                138
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following practices could Mr. Martin employ to encourage George and assess his needs?"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                146,
+                874,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) Assign work to George in small steps and review that work immediately."
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                203,
+                874,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) Have George work with another underachieving student, so that they will encourage each other."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                239,
+                874,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) Require George to attend detention, so that he can do his work in a quiet, supervised environment."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                291,
+                846,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D) Define a set of consequences with George's parents to be administered if George's grades do not improve."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                342,
+                852,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "16. Vygotsky's ideas about the \"zone of proximal development\" are best understood by which of the following learning techniques?"
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                409,
+                873,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(A) Students should work at their own pace independently, in order to advance in concepts when they are ready."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                465,
+                865,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(B) Students should review basic material of a concept first, and then receive new material with teacher assistance, thus building on previously learned concepts."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                516,
+                868,
+                580
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(C) A challenging concept is taught and expected to be learned, even if the basic building blocks of that concept were not previously covered."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                584,
+                871,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(D) Seeking help from an instructor is not encouraged, as it may stifle development."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                651,
+                874,
+                684
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                644,
+                863,
+                879,
+                878
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7-12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                699,
+                933,
+                879,
+                948
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "393"
+                    }
+                ]
+            },
+            "bbox": [
+                907,
+                934,
+                937,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "17. Students who do not have basic needs met will not be able to achieve the advanced levels of learning, such as the fulfillment of one's potential."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                75,
+                488,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This statement is best supported by the works of what theorist?"
+                    }
+                ]
+            },
+            "bbox": [
+                148,
+                146,
+                477,
+                178
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Abraham Maslow"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Howard Gardner"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) John Dewey"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Jerome Bruner"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                148,
+                187,
+                323,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18. Mr. Abato is designing a lesson plan for his twelfth-grade science class. In preparing a lesson on genetics and cell division, he plans to present a short lecture on the basics of genetics, and then show a video explaining how cells divide. What other activity could he employ which would focus on the students that are kinesthetic learners?"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                282,
+                478,
+                408
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Provide step-by-step instructions on how a cell divides"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Reinforce the lecture with a laboratory session, where students will recreate the cell division process"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Bring in an expert on genetics as a guest-speaker for the class"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Assign a reading assignment in advance of the lecture"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                148,
+                417,
+                485,
+                570
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                654,
+                862,
+                888,
+                878
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "394"
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                933,
+                79,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                933,
+                264,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                425,
+                75,
+                564,
+                93
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                102,
+                621,
+                119
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Watson"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                447,
+                130,
+                541,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Watson is teaching an elective Economics class to 21 twelfth-grade students, made up of 11 males and 10 females. Students must have completed three years of high school mathematics in order to participate in the class. Some of the brightest students at the high school participate in the class, and Mr. Watson is considered one of the most interesting and dynamic instructors. He is beginning his final month of instruction, five weeks before graduation."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                152,
+                887,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                447,
+                246,
+                541,
+                260
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Project Plan"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                450,
+                261,
+                539,
+                277
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Consumer Finance Exercise"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                395,
+                278,
+                596,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "May 8"
+                    }
+                ]
+            },
+            "bbox": [
+                472,
+                294,
+                519,
+                308
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Objectives: Students will:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                103,
+                324,
+                291,
+                339
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Review and use concepts about consumer finance to problem solve."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Demonstrate mathematics skills as they relate to personal finances."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Use creativity to finance deals in multiple ways."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Use higher-order thinking skills to determine who to approve for credit."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                345,
+                680,
+                423
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Assignment:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                443,
+                198,
+                458
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Students will work in groups of four; each student will be a member of a credit card consumer finance company."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Each group will select ten sample customers from a list I will provide."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. For each customer, the group will determine whether to approve or deny the applicant based on their credit, and their specific credit request (amount to finance, desired rate)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Each customer should also be matched using the \"Loss Rate\" handout to compare how customers have performed historically."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Each team will present their results to the class as a whole, and will make a presentation with their recommendations."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Creativity in restructuring deals is encouraged—each team should strive to finance as many customers as possible."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. All students on the team must participate."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                462,
+                860,
+                679
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                700,
+                184,
+                715
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Discussion on consumer finance principles—2 sessions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Group work—select ten sample customers; determine results—2 sessions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Group work—prepare presentations and Excel worksheets—1 session."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Group presentations—3 sessions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Review of work, and quiz on consumer finance—1 session."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                719,
+                691,
+                817
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Assessment:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                104,
+                838,
+                195,
+                853
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Group work: individual and group grade"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Group presentation: individual and group grade"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Excel spreadsheet: team grade for quality of decisions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                857,
+                550,
+                913
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                651,
+                912,
+                885,
+                927
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7–12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                933,
+                884,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "395"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                934,
+                943,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                441,
+                74,
+                535,
+                88
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Review after Lesson Plan Complete"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                361,
+                90,
+                615,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "May 24"
+                    }
+                ]
+            },
+            "bbox": [
+                460,
+                105,
+                514,
+                119
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Below are notes taken from Mr. Watson after the conclusion of this lesson plan:"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                126,
+                666,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I really thought this would be an exciting lesson plan. Students will soon be out in the real world, and I thought they'd enjoy gaining this valuable experience of applying for a credit card. Students need to understand the value of one's credit history, and the role it can plan in consumer finance. But the class was pretty out of control during these sessions—they spent more time discussing prom, graduation, and summer than the FICO scores of their “customers.” I think my class may just be lazy right now. I'm not sure I can give assignments like this towards the end of the year—students are just too burnt out, and “senioritis” is at an all time high. The threat of a poor grade just doesn't seem to work anymore, as many are all set about where they will attend college, if they choose to at all. Next year, I'll do this lesson during the first semester."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                154,
+                859,
+                295
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 19 through 21 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                316,
+                868,
+                379
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 19"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                400,
+                189,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 1, Mr. Watson's project plan for consumer finance, demonstrates several aspects of effective instructional planning."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                415,
+                877,
+                445
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO strengths of Mr. Watson's project plan."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Explain how each strength demonstrates an aspect of effective instructional planning. Base your response on the principles of effective instructional planning."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                450,
+                846,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 20"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                519,
+                190,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Review Mr. Watson's project plan, described in Document 1."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                534,
+                528,
+                548
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Recommend TWO ways in which Mr. Watson could strengthen the assessment section of his project plan in order to provide students with a better opportunity to demonstrate their learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each recommendation, describe how it would improve Mr. Watson's ability to assess his students' accomplishments on this project. Base your response on the principles of assessment."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                552,
+                848,
+                619
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 21"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                642,
+                189,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Review Document 2, where Mr. Watson complains that his students were \"lazy.\""
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                657,
+                669,
+                672
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Identify TWO behaviors of his class that are typical for students that are Seniors in high school."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each behavior, describe how it is typical, and what Mr. Watson can do to create a stronger learning environment. Base your response on the principles of human development and effective learning strategies."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                677,
+                849,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                646,
+                863,
+                879,
+                876
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "396"
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                933,
+                68,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                256,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                424,
+                80,
+                564,
+                98
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                102,
+                619,
+                119
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Kevin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                469,
+                124,
+                519,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kevin is a tenth-grade student at Notre Dame High School. Kevin is a very gifted athlete, who plays on the Varsity football, basketball, and baseball teams. Only a sophomore, he is considered the best athlete in the school, and certainly the most popular. The local press has named Kevin “a sure thing” to play professional sports one day, and that day may be as soon as two years away."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                145,
+                887,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Foster is Kevin's tenth-grade English and homeroom teacher. Mr. Foster is very concerned about Kevin's performance in English, and in other subjects as well. Mr. Foster has gathered the following documentation together, in preparation for a conference with Kevin's parents."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                223,
+                885,
+                272
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/78806802380d55692f2894783897da763995e7438724361b6cb4f4123ec43160.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Document 1\nSemester 1 Progress Report\nNovember 15"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Course</td><td>Grade</td></tr><tr><td>Geometry</td><td>C-</td></tr><tr><td>World History</td><td>C-</td></tr><tr><td>Physical Education</td><td>A-</td></tr><tr><td>Religion</td><td>C-</td></tr><tr><td>English</td><td>D</td></tr><tr><td>Biology</td><td>C</td></tr><tr><td>Preliminary GPA</td><td>1.97</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                292,
+                352,
+                663,
+                479
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5621d0538645f39deda2a12ed015347f1889d2e5a210e441fa048cceb575cfc9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Document 2\nResults of Kevin's Diagnostic Test\nOctober 15"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"4\">Results for Kevin</td></tr><tr><td></td><td>Reading Skills</td><td>Mathematics Skills</td><td>Writing Skills</td></tr><tr><td># of Questions</td><td>50</td><td>50</td><td>2</td></tr><tr><td># Correct</td><td>13</td><td>17</td><td>N/A</td></tr><tr><td>Percentile</td><td>37%</td><td>23%</td><td>42%</td></tr><tr><td>Grade Equivalent</td><td>9.1</td><td>8.3</td><td>9.6</td></tr><tr><td>Notre Dame High Median</td><td>61%</td><td>74%</td><td>77%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                104,
+                542,
+                802,
+                729
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8044048fa15f9d63ae517fc355427d7a741c5653d80dd9e9ec8d16b1b547b15d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Document 3\nTranscript of Meeting Between Mr. Foster and Kevin's Parents, Brian and Jolene"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Brian</td><td>We're very concerned with this grade of a D. Kevin received a B+ in English last year. How could he drop so quickly?</td></tr><tr><td>Mr. Foster</td><td>Kevin's grade is based on the number of assignments he has turned in, and the quality of those assignments. Thus far, he has failed to turn in three assignments, and the overall quality of his work has not been up to standards.</td></tr><tr><td>Brian</td><td>We've spoken with his football coach, who indicated that you grade harder than any other teacher. Kevin can't be penalized because he is in your class. Why isn't there consistent grading?</td></tr><tr><td>Mr. Foster</td><td>I'm sorry you feel that way, but my grading is based upon the work of all students. I have no desire to create a grading scale divergent from others. I simply evaluate the quality of work that students do.</td></tr><tr><td>Brian</td><td>You need to understand that Kevin needs to get at least a C in this class, in order for him to stay academically eligible. Anything below a 2.0, and Kevin can't play. You seem to know that—everyone else has recognized that Kevin is trying and has given him no worse than a C-. And let's be realistic—keeping Kevin eligible is the most important thing for his future.</td></tr><tr><td>Mr. Foster</td><td>I understand how much Kevin likes to play sports. By focusing on his work, he can remain eligible to play. I will not use his extracurricular involvement as a factor in my grading.</td></tr><tr><td>Brian</td><td>Well, maybe Kevin needs a new English teacher.</td></tr><tr><td>Mr. Foster</td><td>I'm sorry you feel that way. You are welcome to discuss this with the principal.</td></tr><tr><td>Jolene</td><td>Fine, we will. Everyone seems to help Kevin do his best. You seem determined to punish him for not being as strong as your other students.</td></tr><tr><td>Mr. Foster</td><td>That's not true, and I'm disappointed you feel that way. This conversation is over.</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                103,
+                789,
+                876,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                649,
+                918,
+                884,
+                933
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7–12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                705,
+                939,
+                882,
+                953
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "397"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                939,
+                942,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                77,
+                866,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 22 through 24 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                350,
+                866,
+                413
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 22"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                93,
+                438,
+                184,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Document 3, it is clear that there is tension between Mr. Foster and Kevin's parents."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                454,
+                713,
+                469
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO things Mr. Foster could do to have a more meaningful conversation with Kevin's parents."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each action identified, discuss how each action will help to focus on Kevin's educational welfare and the development of an effective parent-teacher relationship. Base your response on the principles of fostering school-parent relationships to support student learning."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                473,
+                838,
+                557
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 23"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                93,
+                580,
+                184,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Assume Kevin's parents asked Mr. Foster about the results of the standardized test scores, displayed in Document 2."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                597,
+                874,
+                627
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Provide TWO unique descriptions of Kevin's performance on the standardized test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each description, provide a comparison of Kevin's performance to his classmates, and to students statewide."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                632,
+                810,
+                683
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 24"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                93,
+                705,
+                184,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Foster believes that with hard work, Kevin can succeed in his class."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                720,
+                602,
+                735
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO things Mr. Foster can do to help Kevin in his attempts to improve his performance in class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each item identified, discuss how each strategy can help Kevin improve his performance. Base your responses on the strategies of effective learning."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                740,
+                851,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                638,
+                867,
+                874,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "398"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                937,
+                65,
+                949
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                935,
+                250,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrete Multiple-Choice Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                331,
+                77,
+                647,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 25–36 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                101,
+                859,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "25. In Ms. Lepson's eleventh-grade computer class, teams of three have been assigned to solve a programming problem. The team will receive one overall grade for their performance on the assignment. This structure is an example of what type of learning?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                147,
+                480,
+                243
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Cooperative learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Demonstrated learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Exploratory learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Parallel learning"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                251,
+                352,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "26. Ms. Chamberlin would like to increase the level of participation by students during class discussions. Which of the following techniques is most likely to improve the level of participation, and the thoughtfulness of students' responses?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                346,
+                480,
+                442
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Implement a reward system for answering questions, such as a day with no homework."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Post a ranking of students, ordered by the number of times they answer a question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Ask more leading questions, with clues to the correct answer."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Increase the wait-time between the conclusion of her questions and calling on a student to give an answer."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                450,
+                467,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "27. Which of the following ideas best incorporates the concept of scaffolding?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                656,
+                477,
+                689
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Students will role-play important events being studied."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) For a novel currently being studied, new vocabulary can be supported by linking words on a webpage to a separate page with definitions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Take students on a field trip to a relevant site, and have them take pictures of items that relate to the subject being studied."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Assign students to create their own test, based on the subject material currently being studied."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                697,
+                478,
+                916
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "28. Ms. Bryant's eleventh-grade class took the SAT, a standardized test used for admission to many colleges and universities. Her class performance is summarized below:"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                147,
+                852,
+                211
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Mean: 1240"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Median: 1000"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Mode: 980"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                220,
+                663,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following statements is true about the performance of Ms. Bryant's class?"
+                    }
+                ]
+            },
+            "bbox": [
+                539,
+                281,
+                859,
+                314
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) The performance of some individuals was extremely high, raising the overall average."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) An equal number of students scored above and below 980."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) The mean score was below the norm for eleventh-grade students."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) More students scored 1240 than any other score."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                539,
+                322,
+                870,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "29. Today, Noelle attended her twelfth-grade Science class. There was a discussion on genetics. The class attempted two problems as a group. For homework, Noelle will be required to review her notes on the lecture, and to be ready to try three more group problems tomorrow."
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                495,
+                873,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What stage of the lesson plan is Noelle's class currently performing?"
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                599,
+                868,
+                633
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Anticipatory set"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Closure"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Independent Practice"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Guided Practice"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                539,
+                640,
+                740,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                644,
+                866,
+                879,
+                882
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7–12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                699,
+                935,
+                879,
+                951
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "399"
+                    }
+                ]
+            },
+            "bbox": [
+                907,
+                937,
+                938,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "30. Steven is having problems in his high school classes. The school counselor believes that Steven is having problems at home. His parents have divorced, and there may be abuse within the family. The counselor believes that his home situation must be addressed before his academic issues can be solved."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                77,
+                475,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What theory and theorist best support the counselor's beliefs?"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                197,
+                444,
+                228
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Skinner and negative reinforcement"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Maslow's hierarchy of needs"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Bandura's extinction"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Freud's theory of id, ego, and superego"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                238,
+                456,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "31. Ms. Lloyd has a new student in her class, Cynthia, who was diagnosed with ADHD. Cynthia will be the only student in the class with ADHD. What can Ms. Lloyd do to provide a positive learning environment for Cynthia?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                332,
+                475,
+                413
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Introduce Cynthia to the class, and announce that she has ADHD, so that other students can help keep her on track."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Seat Cynthia in the back of the class, away from the teacher, and most other students."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Create a consistent class schedule, with predetermined transitions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Keep the same set of rules for Cynthia as for all other students."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                421,
+                475,
+                608
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "32. The formal operational stage of Jean Piaget's stages of cognitive development most likely occurs with what age groups?"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                626,
+                461,
+                675
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Infancy"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Toddler and early childhood"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Elementary and early adolescence"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Adolescence and adulthood"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                683,
+                425,
+                759
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "33. Mr. Snow is teaching a tenth-grade class in Literature. The class has completed a novel, and is required to write an essay answering the following questions:"
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                79,
+                873,
+                142
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• What criteria would you use to assess the strength of the main character?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Do you agree with the outcome of the novel?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• What is the most important message from the novel?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                151,
+                857,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These questions measure what type of learning, according to Bloom's Taxonomy?"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                251,
+                856,
+                282
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Knowledge"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Comprehension"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Synthesis"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Evaluation"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                539,
+                291,
+                697,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "34. Mr. Prior believes that the best way to teach his ninth-grade English class is to employ a constructivist approach? He could do this by using which of the following strategies?"
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                387,
+                859,
+                451
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Students will read material at a level significantly more challenging than the student's reading level today."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Students will analyze passages to understand the syntax, structure, and vocabulary of each sentence. Then, students should diagram the sentences."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Students will read a new passage. In writing a summary of the passage, they will be asked to associate the passage with prior readings, and events from their own life."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Students will read the passage, pair up with another student, then present their summary of the passage to the larger class."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                539,
+                459,
+                871,
+                722
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                643,
+                867,
+                879,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "400"
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                937,
+                68,
+                949
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                935,
+                255,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "35. In Mr. Cockrum's eleventh-grade Business class, the class is currently studying fiscal policy. In order to convey the material, he has broken up the class into groups of six. Then, after a series of lectures, he allows the team to meet for two group sessions to review the material. Next, a test is given, and the cumulative score of all six members is used to determine a grade. Each team member receives the same overall letter grade."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                76,
+                482,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Cockrum is using what cooperative learning technique?"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                242,
+                475,
+                275
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Jigsaw method"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Think-pair-share"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Student Teams-Achievement Divisions (STAD)"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Portfolio"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                279,
+                477,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "36. Keith, normally a very strong student, is struggling with an assignment in his twelfth-grade History class. The assignment is to analyze the inaugural address of John F. Kennedy, and write a paper discussing the speech's impact. Thus far, the class has been told to read the address contained in their History book. Keith has told his teacher that he is having difficulty understanding the meaning of the speech. What is the most plausible reason Keith is struggling with the assignment?"
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                76,
+                879,
+                250
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Keith is not interested in History."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Keith does not recognize the reward system in place for completing the assignment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Keith may be a strong auditory learner; hearing the speech may help him with the assignment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Keith may have difficulty reading."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                254,
+                868,
+                401
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "STOP"
+                    }
+                ]
+            },
+            "bbox": [
+                469,
+                866,
+                522,
+                881
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: 7-12 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                708,
+                935,
+                885,
+                949
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "401"
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                935,
+                943,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac{1}{2} = \\frac{1}{2}\\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2}\\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2}\\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} \\times \\left( \\frac{\\sqrt{3}}{4}\\right) \\times \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac0.5 - 0.6 - 0.7 - 0.8 - 0.9 - 1.0 - 1.1 - 1.2 - 1.3 - 1.4 - 1.5 - 1.6 - 1.7 - 1.8 - 1.9 - 2.0 - 2.1 - 2.2 - 2.3 - 2.4 - 2.5 - 2.6 - 2.7 - 2.8 - 2.9 - 3.0 - 3.1 - 3.2 - 3.3 - 3.4 - 3.5 - 3.6 - 3.7 - 3.8 - 3.9 - 4.0 - 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 - 4.9 - 5.0 - 5.1 - 5.2 - 5.3 - 5.4 - 5.5 - 5.6 - 5.7 - 5.8 - 5.9 - 6.0 - 6.1 - 6.2 - 6.3 - 6.4 - 6.5 - 6.6 - 6.7 - 6.8 - 6.9 - 7.0 - 7.1 - 7.2 - 7.3 - 7.4 - 7.5 - 7.6 - 7.7 - 7.8 - 7.9 - 8.0 - 8.1 - 8.2 - 8.3 - 8.4 - 8.5 - 8.6 - 8.7 - 8.8 - 8.9 - 9.0 - 9.1 - 9.2 - 9.3 - 9.4 - 9.5 - 9.6 - 9.7 - 9.8 - 9.9 - 10.0",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ad21adec96e94ce39f36d75993885592c915690b0bff1c79ef9256523b8d6a0c.jpg"
+                }
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                998
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diagnostic Test Form"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                203,
+                29,
+                455,
+                50
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5072eb72c190ccef4e7b581a91edd680082f48fc771ce9df2bbc4c08e6ff248c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"4\">1. YOUR NAME: (Print) Last First M.I.</td></tr><tr><td colspan=\"4\">SIGNATURE: DATE: /</td></tr><tr><td colspan=\"4\">HOME ADDRESS: (Print) Number and Street E-MAIL:</td></tr><tr><td colspan=\"4\">City State Zip</td></tr><tr><td colspan=\"4\">PHONE NO.: SCHOOL: CLASS OF: (Print)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                81,
+                694,
+                253
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0c377b49558373a559e33c90157a3465899c11f290ebc1f0e2dd50732235f157.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>2. TEST FORM</td></tr><tr><td>_</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                257,
+                192,
+                305
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/89e37a473a7be314847ba4d5d27e52890250031b2f58a436327403c1ff8a6485.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"5\">6. DATE OF BIRTH</td></tr><tr><td>MONTH</td><td colspan=\"2\">DAY</td><td colspan=\"2\">YEAR</td></tr><tr><td>○ JAN</td><td></td><td></td><td></td><td></td></tr><tr><td>○ FEB</td><td></td><td></td><td></td><td></td></tr><tr><td>○ MAR</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>○ APR</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>○ MAY</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>○ JUN</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>○ JUL</td><td></td><td>4</td><td>4</td><td>4</td></tr><tr><td>○ AUG</td><td></td><td>5</td><td>5</td><td>5</td></tr><tr><td>○ SEP</td><td></td><td>6</td><td>6</td><td>6</td></tr><tr><td>○ OCT</td><td></td><td>7</td><td>7</td><td>7</td></tr><tr><td>○ NOV</td><td></td><td>8</td><td>8</td><td>8</td></tr><tr><td>○ DEC</td><td></td><td>9</td><td>9</td><td>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                320,
+                245,
+                542
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b96fa76b4fb7b249a3b3797aec316a1b681418db45f492261476ce6f5a78a8c4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"4\">3. TEST CODE</td><td colspan=\"7\">4. PHONE NUMBER</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr><tr><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td></tr><tr><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td></tr><tr><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                264,
+                257,
+                730,
+                463
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/79d5a7fafc83552dbe2673f738fb7573f59af4f2484a40d9e20ac16ea0ff2564.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>7. SEX</td></tr><tr><td>○ MALE</td></tr><tr><td>○ FEMALE</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                286,
+                492,
+                394,
+                541
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b14c93796ec2cc3fcfb79c68ad61d576db4765daf3fe8a403293a8ea6b6331a4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"6\">8. OTHER</td></tr><tr><td>1</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>2</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>3</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                455,
+                476,
+                690,
+                542
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Completely darken bubbles with a No. 2 pencil. If you make a mistake, be sure to erase mark completely. Erase all stray marks."
+                    }
+                ]
+            },
+            "bbox": [
+                730,
+                23,
+                982,
+                61
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/916b913788f664a88d850d84cc96f20e47a5bd2ed38f6a4eabef06b918a1e170.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"6\">5. YOUR NAME</td></tr><tr><td colspan=\"4\">First 4 letters of last name</td><td>FIRST INIT</td><td>MID INIT</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr><tr><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr><tr><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td></tr><tr><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td></tr><tr><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td></tr><tr><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td></tr><tr><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td></tr><tr><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td></tr><tr><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td></tr><tr><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td></tr><tr><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td></tr><tr><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td></tr><tr><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td></tr><tr><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td></tr><tr><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr><tr><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td></tr><tr><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td></tr><tr><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                730,
+                69,
+                982,
+                542
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8ef0ca8f8c71b2d444cb020f9ff6639973a06d3778ee16055bc5b4f5afe096a6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>CASE I</td><td rowspan=\"8\">7 A B C D8 A B C DD9 A B C DD10 A B C DD11 A B C DD12 A B C DD13 A B C DD14 A B C DD15 A B C DD16 A B C DD17 A B C DD18 A B C DD</td><td rowspan=\"4\">CASE III</td><td rowspan=\"8\">25 A B C DD26 A B C DD27 A B C DD28 A B C DD29 A B C DD30 A B C DD31 A B C DD32 A B C DD33 A B C DD34 A B C DD35 A B C DD36 A B C DD</td></tr><tr><td>1. Write your response on the appropriate page of the response book.</td></tr><tr><td>2. Write your response on the appropriate page of the response book.</td></tr><tr><td>3. Write your response on the appropriate page of the response book.</td></tr><tr><td>CASE II</td><td>CASE IV</td></tr><tr><td>4. Write your response on the appropriate page of the response book.</td><td>22. Write your response on the appropriate page of the response book.</td></tr><tr><td>5. Write your response on the appropriate page of the response book.</td><td>23. Write your response on the appropriate page of the response book.</td></tr><tr><td>6. Write your response on the appropriate page of the response book.</td><td>24. Write your response on the appropriate page of the response book.</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                43,
+                557,
+                849,
+                878
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The Princeton Review"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                22,
+                143,
+                71
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d15ba1f4ac9d53fc6e6ed135a91dbdbb0a87ffeaed384253a047d60cd3109258.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                61,
+                57,
+                890,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                54,
+                910,
+                903
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                65,
+                57,
+                893,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "31"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                413,
+                94,
+                871,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Answers and Explanations for PLT: 7–12 Practice Test"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                305,
+                427,
+                882,
+                630
+            ]
+        }
+    ]
+]

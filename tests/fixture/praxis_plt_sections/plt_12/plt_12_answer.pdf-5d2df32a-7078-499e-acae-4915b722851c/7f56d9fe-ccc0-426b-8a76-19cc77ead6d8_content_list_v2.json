@@ -1,0 +1,2349 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                54,
+                105,
+                440,
+                126
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Practice: PLT Grades 5–9"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                139,
+                330,
+                158
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                168,
+                106,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Sarah's success in math and English shows that she is likely not affected by a learning disability. Likewise maturity and self-confidence do not factor into her educational abilities in a negative manner. Given her success with hands-on manipulatives, Sarah is most likely experiencing a learning style issue."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                188,
+                466,
+                292
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                307,
+                106,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A 504 plan requires healthcare documentation and will then ensure the student has appropriate access to grade-level curriculum with medically necessary accommodations. Merely providing the healthcare documentation itself (D) will not ensure access to accommodations. Choice (A) is correct. Individualized Education Plans (IEPs), in choices (B) and (C), are for students with diagnosed cognitive learning disabilities. This student does not have a cognitive processing disorder; therefore, an IEP is not appropriate."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                328,
+                471,
+                515
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                532,
+                106,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The student will benefit most from supplementary curricula, such as audio books, and curricular supports, including extended time and one-on-one help from a teacher or peer. Combined, these supports will provide appropriate access for this student. While priority seating can be a needed accommodation, it is not beneficial for individual reading time, making choice (B) the correct answer."
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                552,
+                455,
+                689
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                705,
+                106,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A constructivist learning approach is driven by student led inquiry. Summarizing a video or lecture would only entail low-level thinking and not implement the problem solving and reflection skills outlined in constructivism. Answer choice (C) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                726,
+                478,
+                811
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                828,
+                106,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to boost intrinsic motivation, students need to be able to relate the curriculum to real-world situations. Given the developmental maturity at this age, real-world situations need to include things that directly affect the students. Incorporating their own hobbies into the examples, as in choice (B), will give the students buy-in to the curriculum to increase their intrinsic motivation."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                848,
+                460,
+                899
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                511,
+                102,
+                934,
+                188
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                205,
+                564,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data analysis is a higher level of cognitive processing. It requires the students to synthesize information and determine how it applies to the question posed. This would be considered a form of problem solving."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                225,
+                932,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7. D"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                311,
+                564,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A crucial step in the synthesis of new concepts is to have students demonstrate the application of the new skill set. In other words, the activity needs to go beyond recall skills, direct instruction, and replication. Students need to be able to analyze what the new skills mean and how they apply to a problem. Choice (D) is an appropriate activity for this purpose."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                331,
+                932,
+                452
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8. C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                468,
+                564,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Effective classroom management involves utilizing a variety of teaching methods to promote differential instruction. This allows all students to have access to the curriculum in many ways so they can synthesize the information and apply new skills. Choice (C) promotes boredom in students, which leads to more classroom management issues. (C) is therefore correct."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                488,
+                928,
+                624
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                642,
+                564,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Schema theory includes chunking information to help commit it to memory. A great activity to help students synthesize what they think will happen or want to learn is to brainstorm, as in choice (A). Brainstorming promotes the free flow of ideas to allow students to better process and commit new information to memory. Therefore, choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                662,
+                932,
+                782
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10. D"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                513,
+                799,
+                564,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When thematic units of study from one subject can be implemented across multiple subjects, then teaching is considered thematic and interdisciplinary. This approach requires careful planning and, when more than one teacher is involved, thoughtful collaboration."
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                820,
+                937,
+                906
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                29,
+                19,
+                71,
+                48
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                19,
+                184,
+                32
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                36,
+                400,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "244"
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                951,
+                63,
+                963
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "11.C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                85,
+                107,
+                101
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The students are utilizing many hands-on instructional methods on this field trip. Direct instruction relates to more traditional lecture methods. Since the students are not listening to lectures, but rather discovering instructional objectives on their own, choice (C) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                108,
+                427,
+                213
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "12. C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                229,
+                107,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Task and performance modeling is defined as the teacher demonstrating the desired skill to be learned. Ms. Mignot in choice (C) accomplishes this by modeling the language frame she desires of her students."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                250,
+                464,
+                335
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "13. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                353,
+                107,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ensuring that students find a reason to pay attention and be ready to participate in discussions is key to preventing a “monopolized” lesson in which a small group of students make most of the contributions. Random selection ensures a higher percentage of students will contribute and be engaged in the lesson."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                374,
+                471,
+                494
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "14. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                511,
+                107,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Jansch is creating an assessment to help his students identify what areas they are strong in as well as areas of learning opportunities. This is the definition of a formative assessment, and choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                532,
+                464,
+                618
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "15. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                56,
+                635,
+                107,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students with visual and kinesthetic learning styles require a varied teaching approach. Visual learners benefit from seeing notes, problems, data, and pictures to help them process the information. Kinesthetic learners require a hands-on approach to be able to interact physically with the curriculum. Therefore modeling and hands-on activities provide the strongest links for these learners. Choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                656,
+                462,
+                811
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "16. C"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                54,
+                829,
+                106,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Allowing students time to reflect on successes as well as develop a plan to work on improvement gives them more control over their education. This, in"
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                850,
+                469,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "turn, teaches them to self-regulate through intrinsic motivation. This activity has a greater impact than simply telling students what their perceived strengths and weaknesses are."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                92,
+                939,
+                159
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "17. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                176,
+                572,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An informal assessment does not generally have grading criteria, though it may have a rubric to follow. In addition, Ms. Petrie is already using formal assessments to assign class grades. The informal assessment described in choice (A) works as a supplement and, in this case, will allow the students to determine the strengths and weaknesses they see in their own work. This type of analysis and goal setting is important, but still considered informal."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                197,
+                930,
+                352
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "18. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                369,
+                570,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results that tell students where they rank in terms of other students at their grade/age level come from norm-referenced tests. The “higher than 80 percent” is referring to a percentile score, because the student scored better than 80 percent of the other students who took the test. Choice (B) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                390,
+                934,
+                492
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "19. D"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                509,
+                570,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Summative assessments are appropriate for the final, or summary, portion of a unit. They belong at the end of the instructional unit. Choice (D) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                530,
+                937,
+                580
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "20. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                598,
+                570,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students are being asked to create visual aids to demonstrate the new information. To set them on the right path, Mr. Shinawatra needs to provide them with visual examples. Utilizing technology to provide the visuals creates a stronger impression than lectures, discussions, or debates. Choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                618,
+                937,
+                720
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "21. D"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                738,
+                570,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is important for educators to utilize all the resources available to them. To ensure that students are receiving the highest level of instruction, experts in other areas of the school play a crucial role. Using these professionals allows students to make cross-curricular connections that will assist them in success in multiple subject areas."
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                758,
+                939,
+                878
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                17,
+                899,
+                31
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                493,
+                32,
+                899,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                928,
+                17,
+                970,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "245"
+                    }
+                ]
+            },
+            "bbox": [
+                937,
+                952,
+                967,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "22. B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                69,
+                94,
+                118,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Garnering parent participation is a challenge for most educators. The first step in achieving this goal is to make sure parents know what is going on with their child. The means of communication needs to be adjusted based on the available methods of the parents. For example, the teacher should not rely solely on email for families who lack the technological resources to access it reasonably often."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                117,
+                484,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "23. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                69,
+                269,
+                118,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subject curricula will vary not only by state but also by district. State standards provide a foundation on which the district will build its pacing guide. District-developed resources should always be the first go-to resource for any new teacher. Choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                290,
+                478,
+                375
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "24. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                96,
+                577,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As teachers prepare new lessons, professional best practices include using a variety of resources to develop the lesson. The foundation of developing any new unit is to determine the desired outcome: this includes learning objectives, standards, and skills to be mastered. From there, a diverse base of educational materials should be chosen, including readings and technology. Choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                114,
+                930,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "25. A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                270,
+                575,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anytime self-evaluation is involved, the teacher is participating in a form of reflective practice. By collaborating to develop, observe, and evaluate their teaching, these teachers are engaging in reflective practice. Choice (A) is correct."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                290,
+                939,
+                375
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                18,
+                85,
+                48
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                19,
+                197,
+                32
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                36,
+                414,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "246"
+                    }
+                ]
+            },
+            "bbox": [
+                38,
+                949,
+                69,
+                963
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Approximate time—25 minutes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                43,
+                87,
+                297,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history below is followed by two short-answer questions. Your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the question. Write your answers on the pages indicated in your answer sheet booklet."
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                117,
+                837,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                45,
+                207,
+                127,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny Carmichael is an eighth-grade student in a heterogeneous urban classroom. It is the beginning of the year, and Mr. Koppel is getting to know his eighth-grade language arts class, which includes Jenny. Concerned about Jenny's responses to an introductory survey on the first day, Mr. Koppel is gathering documents to attempt to discern whether he needs to take any particular action regarding Jenny's education."
+                    }
+                ]
+            },
+            "bbox": [
+                43,
+                232,
+                840,
+                320
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                45,
+                336,
+                159,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny's answers to Mr. Koppel's introductory survey (including errors):"
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                356,
+                663,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What is your favorite subject in school, and why?"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                385,
+                464,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I don't like any but I guess science is okay because sometimes we look at pretty animals and plants."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                414,
+                846,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What is your least favorite subject in school, and why?"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                444,
+                504,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "English. I don't get grammar and reading."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                473,
+                383,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What were three things you had fun doing as part of English class last year?"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                502,
+                683,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I liked cutting up magazines to make a poem colage."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                532,
+                473,
+                550
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I liked when we found that the author messed up about how snakes are, so the detective was totally wrong when he said who did it."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                560,
+                846,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I liked watching other people do sharades and act out parts of books. But I hated doing it myself."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                605,
+                833,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "What was something that was very hard for you in last year's English class?"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                635,
+                676,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I don't like long books because I can't remember who the characters are or what happened."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                664,
+                773,
+                683
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                49,
+                701,
+                160,
+                716
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny's end-of-term evaluations from the final term of seventh grade:"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                718,
+                652,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "English: D+"
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                751,
+                153,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny has been struggling in this class from the beginning of the year, but her performance has declined this term. Her earlier difficulties seem to have discouraged her, and she has left her last few assignments incomplete."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                775,
+                853,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Math: B"
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                845,
+                122,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny generally doesn't participate in class unless called upon. However, she completes most assignments and performs adequately on quizzes."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                869,
+                817,
+                910
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                795,
+                13,
+                886,
+                27
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                478,
+                29,
+                886,
+                44
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                11,
+                959,
+                43
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "247"
+                    }
+                ]
+            },
+            "bbox": [
+                932,
+                948,
+                965,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Physical Education: A"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                93,
+                319,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny participates in all activities and passes all basic fitness requirements. She is sometimes hesitant to be involved in competitive games."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                120,
+                897,
+                156
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Science: B+"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                168,
+                234,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny's performance has improved substantially this term. She still has trouble with reading assignments from the textbook, but her performance has improved noticeably since I've started providing her with visual organizers. This has also improved her motivation, and she has not missed a homework assignment this term."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                195,
+                921,
+                265
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Social Studies: B"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                277,
+                276,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This term, the majority of student grades were based on students' composing a report and presentation on a country of their choosing. Jenny's written report received only a C, but her presentation was excellent. In particular, she demonstrated a strong aptitude for making slides in the computer lab, even though she does not have a computer at home."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                304,
+                934,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                391,
+                244,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note from Ms. Moran, Jenny's seventh-grade English teacher, to Mr. Koppel:"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                411,
+                791,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I'm glad you're reaching out to me about Jenny. She's a good student, and she's occasionally shown glimmers of brilliance with regard to English. In particular, she wrote a very interesting story about horseback riding during a creative writing unit, even though she didn't seem to understand the importance of proofreading and revision."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                439,
+                917,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jenny's biggest challenge is with reading. She is very slow when we read aloud together in class; she also gets so focused on pronouncing individual words and sentences that she'll often be completely lost about what actually happened in the text she just read. I've tried to introduce her to metacognitive strategies such as making predictions while she's reading, organizing things in terms of cause and effect, and listening to her \"internal voice\" to see if it's talking to her or just reciting text. So far, they have been unsuccessful."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                519,
+                934,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Finally, she left multiple assignments incomplete during the last term of the year, which nearly caused her to fail. I think the frustration is getting to her, and I'm hoping a fresh approach will make English accessible to her."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                634,
+                921,
+                684
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENT 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                138,
+                701,
+                244,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note from Jenny's guidance counselor to Mr. Koppel"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                722,
+                586,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "According to my records, Jenny's parents are both blue-collar workers. Neither has a college degree, and her mother was a college dropout. Jenny's standardized test scores have been consistently low. She needed remedial literacy education in elementary school, and her reading level remains two grades below expectation."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                751,
+                919,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "She hasn't had any major disciplinary concerns. Past progress reports indicate that she has not always been thorough about completing assignments, but never to the point of failure. Meanwhile, teachers consistently describe her as well-behaved, if withdrawn."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                832,
+                881,
+                883
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                15,
+                82,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                18,
+                409,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "248"
+                    }
+                ]
+            },
+            "bbox": [
+                40,
+                948,
+                71,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                51,
+                89,
+                314,
+                106
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                51,
+                110,
+                144,
+                127
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Moran mentioned that she attempted to introduce Jenny to metacognitive techniques to help her focus on reading. However, those techniques were unsuccessful."
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                141,
+                859,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Suggest TWO reasons that the strategies Ms. Moran used might not have been effective for Jenny."
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                188,
+                824,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For EACH of those reasons, propose an alternative that addresses that reason and is more likely to help Jenny understand challenging reading. Base your responses on the principles of modifying instruction for diverse learners."
+                    }
+                ]
+            },
+            "bbox": [
+                49,
+                234,
+                866,
+                286
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                51,
+                299,
+                146,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Throughout the case study, Jenny demonstrates indifference or frustration toward academics and toward language arts in particular."
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                327,
+                857,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Briefly describe TWO activities that Mr. Koppel could plan to engage Jenny's interest."
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                374,
+                778,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For EACH of those activities, explain how it could help Jenny become more involved in class material. Base your response on the principles of encouraging student motivation."
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                403,
+                840,
+                439
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter Four"
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                17,
+                890,
+                31
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Review of the Principles of Learning and Teaching (PLT) Test"
+                    }
+                ]
+            },
+            "bbox": [
+                484,
+                32,
+                890,
+                47
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                15,
+                961,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "249"
+                    }
+                ]
+            },
+            "bbox": [
+                937,
+                951,
+                968,
+                964
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                133,
+                94,
+                515,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constructed-Response Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                126,
+                394,
+                142
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample Response to Question 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                147,
+                383,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Moran notes that Jenny is having serious reading comprehension problems. The strategies the teacher tried with Jenny in seventh grade would tend to promote comprehension, but they focused on written responses, while Jenny's past work and preferences indicate she is a strong visual learner. Instead of asking Jenny to think about the \"voice in her head\" as she reads, it might be more helpful for her to form a \"picture in her head.\""
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                167,
+                943,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Another reason Ms. Moran's techniques might not have worked is that Jenny was told to try them while reading out loud. Jenny does not speak out in other classes and does not like to compete. Mr. Koppel might consider having students read aloud in small groups rather than in a whole class, \"round robin\" fashion, which is considered less effective—students such as Jenny who are not comfortable speaking in front of the class may develop anxiety during this activity, while other students may lose focus when it is not their turn to read aloud. Mr. Koppel should have Jenny focus on prereading metacognitive techniques, such as making predictions and looking at illustrations, tasks she can perform while she's not in the spotlight."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                269,
+                943,
+                389
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample Response to Question 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                135,
+                405,
+                383,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Koppel could pair Jenny up with a student with stronger verbal skills and have them collaborate on making a comic related to the week's reading. Jenny became involved in designing slides for her social studies class, and she would likely be engaged in designing visuals for a comic. Her classmate, with strong verbal skills, would likely be modeling to Jenny the strategies he uses when reading and writing, and this approach could encourage Jenny to use some of these same effective techniques."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                426,
+                941,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Koppel could collaborate with the eighth-grade science teachers to do a joint unit. Jenny has demonstrated an interest in zoology and biological sciences—her survey response noted that she enjoyed a reading activity involving snakes, and she was very successful in her seventh-grade science class. Perhaps a “detective investigation,” in which students find factual errors in the textbook, would be helpful. Such activities can remind students that authors are human and can make even challenging texts seem less intimidating."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                527,
+                941,
+                629
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I"
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                18,
+                74,
+                48
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Section Two"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                19,
+                188,
+                32
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRAXIS: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                36,
+                405,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "250"
+                    }
+                ]
+            },
+            "bbox": [
+                34,
+                949,
+                63,
+                961
+            ]
+        }
+    ]
+]

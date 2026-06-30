@@ -1,0 +1,1505 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6fb33cb1ba0c461b76fc52d3def400d14e8fac3bc755d9875211a2497ac8e621.jpg"
+                },
+                "content": "18",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                100,
+                173,
+                330,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aba3ed0e3b397818d8fce2ebf352764e10df1b34feefcf09ed2d411c66159411.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                345,
+                225,
+                424,
+                335
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                441,
+                201,
+                848,
+                358
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scoring the Short-Answer Case History Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                179,
+                660,
+                816,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Short-answer responses are scored on a range from 0 to 2. First, this section presents the criteria for scoring short-answer responses to the PLT case histories. Then, it shows how three different levels of short answers to the same question might be scored as a 2, a 1, and a zero based on the scoring criteria that follow."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                705,
+                931,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Criteria for Scoring"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                61,
+                782,
+                283,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For a score of 2, the response must"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                805,
+                339,
+                823
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ show the writer has a thorough understanding of the parts of the case history that relate to the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ appropriately address all components of the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ provide a strong explanation (if requested) and support it with relevant evidence."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ provide evidence that the writer possesses strong knowledge of pedagogical concepts, facts, theories, methodologies, or procedures relevant to the question."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                845,
+                927,
+                944
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "CHAPTER"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                207,
+                89,
+                341
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "409"
+                    }
+                ]
+            },
+            "bbox": [
+                866,
+                964,
+                901,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "For a score of 1, the response must"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                86,
+                101,
+                370,
+                120
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ show the writer has a basic understanding of the parts of the case history that relate to the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ appropriately address one component of the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ provide a weak explanation (if requested) but still be supported with relevant evidence."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ provide evidence that the writer possesses some knowledge of pedagogical concepts, facts, theories, methodologies, or procedures relevant to the question."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                141,
+                481,
+                362
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "For a score of 0, the response must"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                384,
+                372,
+                401
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ show the writer misunderstood the parts of the case history that relate to the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ fail to address the question."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ not be supported by relevant evidence."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "■ provide little evidence that the writer possesses some knowledge of pedagogical concepts, facts, theories, methodologies, or procedures relevant to the question"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                423,
+                481,
+                581
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Answers and Explanations"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                619,
+                439,
+                641
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 4.1 Misao Tanaka"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                660,
+                450,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Mr. Sato should be careful not to measure only the skills and abilities valued by the dominant culture but to be flexible and respectful of individual differences. Misao's background and experiences are quite different from those of his new environment. Careful observation and assessment must take into consideration information about Misao's development to date, the sociocultural values and context of his family, and his family's cultural background. Active family involvement in the assessment process should be encouraged to minimize cultural biases. Rather than comparing Misao's development to what his English-speaking peers are doing, he should be viewed in relation to the developmental patterns of children from similar backgrounds. Also, when possible, his comprehension and skills should be assessed in his first language rather than expecting him initially to demonstrate his understandings through oral or written English. Response expectations may be readjusted as Misao becomes increasingly confident and competent in English. In this way, Mr. Sato will get the most comprehensive view of Misao's learning strengths and needs."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                701,
+                482,
+                937
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                546,
+                99,
+                940,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. There are various theories related to the best practices for placing and instructing multilingual learners. Some believe second-language learners learn best when immersed into the second language; others see a more guided transition as better suiting the needs of young learners. Mr. Sato's classroom has its advantages and disadvantages for Misao. One important advantage is that Mr. Sato knows some Japanese language and is aware of many of the cultural traditions and practices that have formed Misao's background. This connection between teacher and learner should benefit Misao's ability to make sense of his new world and Mr. Sato's understanding of what Misao is going through. The main disadvantages of being placed in a regular classroom are that instruction and communication among adults and peers will largely be in English. Misao's content and skills learning and his ability to assimilate into the classroom culture will be hindered by his inability to comprehend the language. It may be too soon to determine if Mr. Sato's classroom is the right placement. There are too many unknown variables to predict how Mr. Sato, Misao's classmates, and Misao's family will facilitate his learning and language acquisition and how Misao will adjust to everything."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                362,
+                940,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                202,
+                45,
+                783,
+                60
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "410"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                970,
+                117,
+                982
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. First, we know that the concepts of print knowledge that children bring with them from their native language can be transferred to second-language writing. For example, if Misao understands a complete sentence has a subject and a verb, he can transfer that knowledge when he writes in English. Also, we know that strong first-language literacy is a significant factor in second-language acquisition. One strategy that would encourage Misao to transfer this knowledge would be to have him write the names of his classmates on separate index cards. Then, he could begin a collection of action verbs cards. He could play games with the children where he chooses and reads one name and one verb. The classmate performs the action that Misao reads. Misao could practice forming sentences using this strategy of constructing sentences from sentence parts. Second, we know children's writing appears to pass through phases of spelling development. This holds true for learning a second language, also. One strategy that would facilitate Misao's spelling development would be to encourage him to use drawings to express himself and meanings he wants to convey. Then he should be helped to use letters to label his drawings and to represent words. Eventually, he can learn common spelling patterns as he moves into conventional spelling."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                92,
+                489,
+                674
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 4.2 Mr. Parker"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                61,
+                691,
+                422,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. First, Mr. Parker and the students could discuss what they like about the current format and what they do not like. Assuming the children do not prefer the current lecture style of teaching, they could talk about the advantages to cooperative learning through classroom discussions and small-group work. Then, together, they could construct class rules everyone would follow, such as"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                733,
+                485,
+                912
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Respect others: When someone is talking, wait your turn."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                96,
+                931,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stay on track: Comments have to be related to the topic being discussed."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                137,
+                931,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Be safe: Respect each other's space and right not to be shoved."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                177,
+                929,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The key is to engage the students in making the rules they will be expected to live by rather than forcing rules upon them without explaining their purpose. Mr. Parker could then use a seminar format of classroom management, where students hold respectful conversations and small cooperative learning groups where students collaborate on projects. Time first needs to be invested in developing a respectful classroom atmosphere. Mr. Parker should model and explicitly encourage compassion and consideration."
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                217,
+                931,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The advantages to Mr. Parker just doing what the team suggested include taking advantage of their experience of working with the students the past five months; the students will experience consistency in the expectations of all of their teachers; and the team might consider him \"one of them\" because he is following their lead. The disadvantages are that it will probably take him longer to get to know his students' strengths and needs because he'll have fewer opportunities to assess them; the lecture/behaviorist model doesn't seem to fit his teaching philosophy; and the students' learning may be hindered. The current style doesn't take into consideration the students' various learning styles, needs, and strengths. It shifts power and control from the students to the teacher. It strips the students of chances to be motivated, engaged learners; and it does not reflect best teaching practices."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                456,
+                931,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. First, Mr. Parker should take the time to get to know his colleagues personally and professionally. Stopping by their classrooms for just a few minutes each day just to say hello and catch up on the news will not only help build a strong bond with others but will help keep him informed about what is going on in the school and with the students. Working as a team, his colleagues will most likely schedule times to meet to work on the curriculum and discuss students' progress. Mr. Parker should be prompt to and attentive at these meetings. He should be prepared to share what he has learned about the students as a pair of fresh eyes; he could offer new resources he has as a result of having just graduated. He should also attend the meetings prepared to learn from the experiences of his colleagues. He should respect their perspectives but not be afraid to offer his own as well."
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                855,
+                927,
+                933
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                41,
+                781,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "411"
+                    }
+                ]
+            },
+            "bbox": [
+                866,
+                966,
+                901,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                88,
+                105,
+                481,
+                405
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 4.3 Crossbow Elementary School"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                50,
+                426,
+                410,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. It is a teacher's responsibility to make a concerted effort to learn about and understand each student's background, culture, and experiences. This is not a difficult task when the teacher's culture is similar to his or her student's cultural background; however, the difficulty lies in understanding cultures and upbringings that are not our own. Understanding cultures other than his or her own will allow a teacher to revise curriculum and instruction to meet the needs of all students. It will help a teacher know the best ways to teach and assess students, the most effective instructional methods to use, and what expectations to set for the children. With the knowledge of students' cultural backgrounds, teachers can begin to determine how they can use the rich cultural and cognitive resources their students' homes and families offer to provide culturally responsive lessons that are meaningful to students."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                487,
+                482,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Educators can find out about a student's family background in several ways. They should spend time in the homes and neighborhoods of their students so they learn about the students' cultures from the students and families themselves. They should get to know students' historical, political, and personal issues to determine what the students are experiencing and bringing with them to the classroom. Teachers should become researchers about the cultures represented in their classrooms by reading about them, talking with and appropriately questioning students and families about them, seeking professional development and training, and experiencing their students' traditions and daily living experiences themselves as much as possible. Teachers can invite families into the classroom to share recipes, traditions, their language, and cultural artifacts. In general, the teacher should be a lifelong learner and keep an open mind."
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                884,
+                482,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                547,
+                103,
+                943,
+                443
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. After a teacher has learned about a student's culture, he or she can use this new knowledge to foster learning and development. One way cultural knowledge fosters learning and development involves activating prior knowledge. A teacher who understands a student's culture can better relate new knowledge to experiences the student has already had, allowing students to make meaning of new information by connecting it to known concepts. The teacher might also integrate the student's familiar language and body language into instruction so the student can make important connections and comparisons."
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                446,
+                943,
+                724
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 4.4: Ms. Isabella"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                743,
+                900,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Ms. Isabella can help students develop their reading comprehension skills by providing structured lessons on how to find the main idea in a social studies content passage; how to take notes by asking themselves who, what, when, where, how, and why; how to analyze key concepts and vocabulary in a passage; and how to summarize content. Through explicit instruction while learning about the content, students will be taught to break text down into small component parts and how to determine the features of each. Students will practice activating their prior knowledge before reading and making predictions about what they read. They will be given models of the skills and then will be guided as they practice the skills themselves. Generally, rather than teaching comprehension skills in isolation through decontextualized activities, students will learn these skills along with and through content knowledge."
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                784,
+                943,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                204,
+                49,
+                784,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "412"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                974,
+                117,
+                986
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                110,
+                94,
+                492,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Ms. Isabella can help students improve their writing skills through content instruction by teaching students the components of specific writing genres, such as reports, poetic forms, folk tales, journals, and so on. For example, she could teach students how to write in a narrative voice. Students could keep a personal journal in the voice of an eighteenth-century child as the class reenacts crossing the country in a covered wagon. Students can demonstrate their content knowledge and employ the vocabulary of the content area as they internalize the construction of knowledge."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                335,
+                492,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Two advantages of integrating computer technology into content learning are its motivating appeal to most students and the fact it includes a wealth of information that is geared toward a range of developmental levels and skills. Computers offer various perspectives on issues. Students could be assigned to research topics online and prepare an oral group presentation on the topic to the class. These types of opportunities help students practice their language skills and use newly acquired vocabulary in appropriate contexts. These types of activities will help students internalize concepts as they add to their content area understandings."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                594,
+                489,
+                874
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions I"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                96,
+                832,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. c. Gardner originally presented eight multiple intelligences. Children who possess bodily-kinesthetic intelligence learn well through sensations received from their body, such as moving and touching. They tend to be physically gifted. The other intelligences are verbal/linguistic, logical/mathematical, visual/spatial, musical, interpersonal, intrapersonal, and naturalist."
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                137,
+                929,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. d. Current philosophy emphasizes children learn best when they actively collaborate with peers to construct meaning during hands-on manipulation and creation. While all of the choices would most likely cause learning, choice d would be most effective."
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                317,
+                929,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. b. It is the teacher's responsibility to search his or her extensive repertoire of teaching strategies to find which work best with children with special needs. There won't be one solution to meet their needs; however, the teacher should rely on the strengths of the children to determine which strategies will work best. Typically, the special education teacher writes IEPs. Mainstreaming children with special needs among children with no special needs is the best method to foster social and academic growth among all children."
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                437,
+                927,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. a. IDEA mandates each child with a disability must receive appropriate public education that is free and reflects the least restrictive environment for the child based on his or her needs. The statute also mandates children with disabilities be educated alongside children without disabilities unless the severity or nature of the disability interferes with the ability to successfully provide services and aid."
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                696,
+                929,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                223,
+                41,
+                783,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "413"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                965,
+                906,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. b. Classroom design can be used to meet instructional goals and should reflect students' needs (e.g., students with visual or hearing impairments may be best suited sitting near the front of the room). It is a good idea to change seating at least every couple of months so children are shuffled from the periphery to the center of the classroom, from the back to the front, and from one group of peers to another. Sometimes it is a good idea to group students with unfamiliar peers so they can make new friends. There is no evidence to support a preference for alternating boy-girl seating. Provide ample space for mobility between seats; however, hopefully you will want to encourage children to communicate and collaborate with peers throughout the day."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                105,
+                479,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. a. Lesson plan objectives should align with national and state learning standards. They may need to be adjusted to the needs of some students, so it cannot be said they meet all needs. Objectives describe what the student will know or be able to do at the completion of the lesson, and they should align with appropriate assessment criteria to determine if the objectives have been met."
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                486,
+                477,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. b. The best example of a way to activate prior knowledge is interactively reading and discussing a book about the seashore with the child. Teacher guidance and scaffolding will help to pull out key concepts and themes of the sea. The other choices will also activate prior knowledge, but the added guidance from the teacher makes choice b the best answer."
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                664,
+                477,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. a. According to Moll, funds of knowledge are the bodies of knowledge that underlie a family's household activities. The knowledge may be productive in that it is related to getting something done; it may be lived in that it relates to daily living practices; it may also relate to learning something. Funds of knowledge are accumulated historically and developed culturally."
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                103,
+                927,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. d. With holistic scoring, which is usually very appropriate for evaluating projects and written pieces, the scorer assigns a score based on his or her overall impression or quality of the piece. Elements (e.g., grammar, spelling, content, and clarity of a written essay) are not separated out or scored separately. In contrast, analytic scoring breaks the elements down and scores them separately."
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                284,
+                927,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. c. Brown v. Board of Education was a 1954 Supreme Court decision that struck down the “separate but equal” policy that blacks and whites should be housed in separate schools. It was not the first attack on this policy. As early as 1849 a suit was filed against school racial segregation. The decision did have far-reaching implications. It is credited as having galvanized civil rights issues not only across the United States but around the world. It is said to have been a catalyst in having launched the Civil Rights movement in America."
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                486,
+                931,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. a. John Dewey (1859–1952) promoted progressive education that spawned experiential education, such as outdoor learning and authentic applications for learning. Visiting a “living museum” would allow students to experience firsthand how people lived during the Colonial Period."
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                744,
+                927,
+                882
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                204,
+                47,
+                783,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "414"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                972,
+                115,
+                985
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. c. The McGuffey Readers, published by Truman and Smith's publishing company in the nineteenth century, were written by an educator named Rev. William Holmes McGuffey. The series of eclectic readers included readings from the Bible, pictures and lessons, and were highly moralistic in nature."
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                96,
+                485,
+                255
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions II"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                66,
+                276,
+                390,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. a. Blended literacy instruction combines the emergent literacy and scientifically based reading research approaches to early literacy instruction. Emergent literacy programs promote developmentally appropriate activities that promote literacy learning, while scientifically based reading research targets instruction that helps children learn necessary skills."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                317,
+                485,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. d. Computers can benefit all children, not just high achievers. However, when used inappropriately in a classroom, computers can not only be unsafe—even when schools use advanced filtering systems—but they can distract students from reaching instructional objectives. Many teachers feel ill prepared to use technology effectively in the classroom."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                496,
+                480,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. c. Allowing students to demonstrate their understandings of a topic in a variety of ways (e.g., creating a model, writing a poem, taking a test) is an example of differentiated instruction. This approach allows students to show what knowledge they have constructed to the best of their ability. The other choices may lead to differentiated instruction if approached in such a way by the instructor, but the choices do not indicate they will be as they stand."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                676,
+                480,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. b. Measurement theory encourages educators to think about what their data (i.e., test scores, rubric grades, observations) mean. Educators must consider the measurement's validity, reliability, scoring procedures, and biases. It applies across the grade levels and does not assume all tests are either valid or invalid."
+                    }
+                ]
+            },
+            "bbox": [
+                535,
+                100,
+                927,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. a. A primary resource is an original account or record of an event. It provides firsthand information from someone who was there when the event occurred. Eleanor Roosevelt's letter is the only choice that represents firsthand experience of the original event."
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                260,
+                929,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. a. Visual literacy represents the ability to understand and communicate through visual means, such as maps, drawings, symbols, hypertext, and videos. K–6 instruction in visual literacy should include the analysis of advertisements because lives are infiltrated with them. Students should learn to critique advertised messages to be informed consumers. Visual literacy views students as constructors of knowledge who interpret what they view to make personal meanings rather than simply receive knowledge."
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                400,
+                922,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. b. Simply put, formative assessments assess for learning, whereas summative assessments are assessments of learning. Choices a, c, and d all assess what was learned from a particular unit of study. Choice b would be used by a teacher to inform his or her instruction."
+                    }
+                ]
+            },
+            "bbox": [
+                531,
+                658,
+                924,
+                794
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. d. Graphic organizers may be used before, during, and after reading and instruction to clarify, organize, and generate ideas and thinking. Choices a, b, and c are all good examples of ways to use graphic organizers."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                798,
+                922,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                43,
+                781,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "415"
+                    }
+                ]
+            },
+            "bbox": [
+                866,
+                968,
+                901,
+                981
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. c. Scope and sequence refers to the organizational structure of curriculum that accounts for what and when content and skills should be taught over time, as exemplified in choice c. Choice a refers to scientific curriculum making. Think-pair-share is a teaching strategy to encourage participation and critical thinking, not a type of curriculum design. Choice d is an example of cooperative learning but does not imply any learning over time or any sequence to learning."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                107,
+                477,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. d. Phonological awareness refers to the ability to hear and manipulate the sounds in oral language. It includes the examples listed in choice d."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                349,
+                468,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. d. The postings are from a blog, which means Casie does not know the authority with which the bloggers post. She does not know the bloggers' background, knowledge of the topic, biases, and so on. So, rather than take any stance on the issue now—either for or against foreign language classes—she should research and investigate the issue further, exploring multiple perspectives. She should consult peer-reviewed professional journals and other reliable resources."
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                427,
+                479,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. a. The author of the second passage would most likely feel that Spanish-speaking children should learn English based on the blogger's last two sentences. Choices b, c, and d sound like statements the first author would more likely support."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                105,
+                934,
+                226
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Praxis II Scoring"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                614,
+                264,
+                833,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Evaluate how you did on this practice exam by scoring your short-answer responses and your multiple-choice answers. Bring your short-answer responses to a trusted friend to score so you can better see how you did. Reflect on the types of questions you missed most frequently."
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                307,
+                940,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The key to doing well on the Praxis II is to practice, read widely, and stay organized and focused. You have self-assessed your strengths and weaknesses and learned how to manage the various types of questions on the test. Enter the exam with confidence, knowing you are ready and equipped to do your very best!"
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                427,
+                940,
+                548
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ANSWERS AND EXPLANATIONS FOR PRACTICE EXAM 4"
+                    }
+                ]
+            },
+            "bbox": [
+                204,
+                50,
+                783,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "416"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                974,
+                117,
+                988
+            ]
+        }
+    ]
+]

@@ -1,0 +1,5014 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Praxis Series Professional Assessments for Beginning Teachers"
+                    }
+                ]
+            },
+            "bbox": [
+                244,
+                75,
+                755,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Test Name: Principles of Learning and Teaching"
+                    }
+                ]
+            },
+            "bbox": [
+                317,
+                96,
+                685,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Practice Case Histories and Constructed-Response Questions"
+                    }
+                ]
+            },
+            "bbox": [
+                267,
+                116,
+                733,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Time -120 minutes"
+                    }
+                ]
+            },
+            "bbox": [
+                424,
+                137,
+                575,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 Short-Answer Questions and 24 Multiple-Choice Questions"
+                    }
+                ]
+            },
+            "bbox": [
+                261,
+                157,
+                741,
+                174
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 1"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                422,
+                204,
+                575,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                228,
+                629,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pemble"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                454,
+                250,
+                545,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pemble teaches second grade in a K–5 school. This is her fifth year as a teacher, but her first year teaching second grade. Her prior experience was teaching fifth-grade classes. Ms. Pemble was very excited to make the transition to second grade, feeling it would provide a new challenge in her teaching career. She believed that the transition to second grade would be tough, but she has been surprised by just how difficult her first few months have been."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                270,
+                899,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Today, Ms. Pemble invited her colleague Ms. Chaouki to observe her class. Ms. Chaouki has taught second grade for the past seven years at the school. Upon entering, Ms. Chaouki saw a classroom much different than her own. She was delighted to see the room decorated in great detail. She took a seat in the back of the classroom, and sat at Ms. Pemble's desk. The students' desks were arranged in a large rectangle. Students at the front of the class could not easily see their other classmates, while those in the back of the class could see all students. Students on the sides of the classroom could see most other students, and both whiteboards."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                364,
+                899,
+                459
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pemble began today's class by announcing, \"Good morning class. Today we're going to cover lots of fun and meaningful lessons. Let's first start with mathematics. Please take out your math workbooks and let's review the addition examples on Page 12.\" Ms. Chaouki noted that it took some students several minutes to retrieve the correct workbook from their desks, and join in the lesson."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                474,
+                899,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After reviewing a few problems in mathematics, Ms. Pemble instructed the class “to work on your own, completing all problems on page 13.” Students quietly worked on these problems, except for Steve, who did not pay attention to the instructions. Instead, Steve made funny faces at his neighbor Tim, who was trying to do the problems, but was distracted by Steve. Ms. Pemble noticed this, and said to the class, “Remember the most important rule in our class—be respectful of your neighbors, and treat them as you wish to be treated.” Ms. Chaouki noticed some students recite these words along with Ms. Pemble—it was clear she has said this many times before."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                552,
+                899,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Twenty minutes later, Ms. Pemble said, \"Okay class, time is up. Let's put away our mathematics workbooks and take out our reading books.\" Ms. Pemble watched students followed this task, some much faster than others. Steve was one of the students who took quite some time to complete this task. The noise level began to grow during this time, as some students began to talk with their neighbors. Ms. Pemble stood quietly in front of the room, and did not begin to speak until the classroom was silent. Unfortunately, this took about three minutes."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                677,
+                899,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pemble then continued with the day's reading lesson. In her notes, Ms. Chaouki observed:"
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                786,
+                789,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is clear Ms. Pemble has great enthusiasm for this job. In watching her class, I now understand why Ms. Pemble has commented that the class was often rowdy—I definitely saw this today. She'll soon get a better understanding on how to manage the classroom more effectively."
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                816,
+                897,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                658,
+                864,
+                899,
+                880
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "336"
+                    }
+                ]
+            },
+            "bbox": [
+                44,
+                934,
+                74,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                934,
+                264,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 1 through 3 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                74,
+                859,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                147,
+                170,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Chaouki noticed that Ms. Pemble's room was set up differently than she expected."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                162,
+                712,
+                179
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Identify TWO things Ms. Pemble could do to structure her room more effectively."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each item above, discuss how these changes would be helpful for Ms. Pemble. Base your response on the principles of establishing an effective climate for classroom management."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                183,
+                816,
+                233
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                252,
+                170,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Pemble's class often displayed difficulty moving from one event to the next."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                267,
+                663,
+                281
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO things Ms. Pemble might do that would help the students navigate from one task to the next more effectively."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each item above, explain how these will help Ms. Pemble maintain attention in her classroom. Use specific management techniques that a teacher can apply to all classes."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                287,
+                848,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                371,
+                170,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Chaouki observed that Ms. Pemble's class was often \"rowdy.\""
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                386,
+                559,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Identify areas where Ms. Pemble could improve in her ability to influence how her class should act in school. Include specific actions on how she may be able to work more effectively with Steve."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                406,
+                866,
+                436
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                408,
+                459,
+                562,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                485,
+                612,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Ascher"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                438,
+                507,
+                532,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Ascher is a third-year teacher at a K–5 elementary school, and currently teaches the fourth-grade class of 25 students. This class contains 14 boys, and 11 girls; further, the class has several LEP students, as the school is located near the California-Mexico border. Mr. Ascher has prepared a lesson plan for teaching students about the California Gold Rush."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                522,
+                885,
+                583
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                437,
+                603,
+                532,
+                616
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Project Plan"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                618,
+                532,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "California Gold Rush"
+                    }
+                ]
+            },
+            "bbox": [
+                406,
+                634,
+                566,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Objectives: Upon completion of the lesson, students will"
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                665,
+                502,
+                679
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Understand the events leading up to the California Gold Rush"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Perform a play about the events"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Explain the ethnic diversity present in mining towns"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Discuss concepts of scarcity and diversity"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                685,
+                610,
+                761
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Lesson Plan and Activities:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                783,
+                291,
+                797
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Class Discussion—overview of life in the 1840s. Students will begin Gold Rush Journal—1 session. During this session I will dress up as a miner from the 1940s."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Introduction to \"gold fever.\" Students will read Chapter 2, and enter responses in journals—1 session."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                802,
+                832,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                645,
+                864,
+                883,
+                878
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: K-6 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                934,
+                883,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "337"
+                    }
+                ]
+            },
+            "bbox": [
+                913,
+                934,
+                945,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Analyze political cartoons to further discuss \"gold fever\" and respond to writing prompt—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                80,
+                835,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Record questions from overview chart—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                116,
+                535,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Simulation game—hunting for gold—results to be entered into journals—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                136,
+                779,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Analysis of population charts and recording of inferences in journals—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                157,
+                755,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Compare daguerreotypes of miners and prospective miners. Responses in journal—2 sessions."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                176,
+                846,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Students write a letter home from the viewpoint of a miner—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                197,
+                688,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Role-play buying miner's provisions—2 sessions."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                218,
+                523,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Finalize what has been learned from overview chart and in Gold Rush journals—1 session."
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                238,
+                827,
+                254
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Focus Questions:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                270,
+                234,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"What are the characteristics of a mining town?\""
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                296,
+                492,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"How well did the towns incorporate diversity into their society?\""
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                313,
+                609,
+                329
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Assessment:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                345,
+                199,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Performance on the Gold Rush journal"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                364,
+                459,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Level of effort in the play"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                385,
+                360,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Score on the \"letter home\" writing assignment"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                405,
+                511,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 4 through 6 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                441,
+                881,
+                504
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                530,
+                191,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Ascher has produced a detailed lesson plan for the Gold Rush assignment."
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                545,
+                674,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Identify TWO weaknesses in the lesson plan."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                566,
+                500,
+                580
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For each item identified, explain how the inclusion of that item will hinder Mr. Ascher's ability to meet his planned objectives effectively."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                586,
+                883,
+                618
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 5"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                637,
+                191,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Ascher's project plan demonstrates many types of effective planning."
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                654,
+                634,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Identify TWO strengths of the plan."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                674,
+                435,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- For each strength, explain how it demonstrates effective planning, based on the principles of planning and instruction."
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                694,
+                845,
+                725
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 6"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                106,
+                746,
+                191,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Ascher has several LEP (Limited English Proficiency) students in the class."
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                761,
+                677,
+                777
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Identify TWO items that Mr. Ascher has incorporated into his lesson plan that will help LEP students accomplish the objectives, using the principles of learning and teaching."
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                781,
+                848,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                661,
+                868,
+                901,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "338"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                938,
+                76,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                937,
+                267,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrete Multiple-Choice Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                320,
+                71,
+                642,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 7–18 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                98,
+                878,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. In a third-grade class, teams of three have been assigned to solve a series of multiplication problems. This task is an example of what type of learning?"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                146,
+                473,
+                210
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Inquiry learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Lecture learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Demonstrated learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Cooperative learning"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                218,
+                342,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Which of the following is NOT one of the eight types of intelligence identified by Howard Gardner?"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                314,
+                459,
+                360
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Linguistic"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Musical"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Spatial"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Exploratory"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                370,
+                247,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Ms. Gemmer's second-grade class is finishing a lesson in mathematics. She then announces, \"In five minutes, we will complete work on this subtraction question and begin our discussion of history.\" This statement is an example of"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                466,
+                468,
+                559
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) cueing"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) authoritative leadership"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) context clues"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) whole language"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                569,
+                347,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Brady, a first-grade student, announces that his favorite TV Show is \"Reference Boy.\" He becomes upset when another student, Timmy, mentions that he does not like that show. This behavior is an example of what cognitive development theory?"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                665,
+                467,
+                760
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Piaget's preoperational stage"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Freud's oral stage of personality development"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Eriksen's stage of identify vs. identity"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Thorndike's law of effect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                768,
+                443,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. Ms. Daniels is a first-grade teacher. Which of the following characteristics of her classroom will likely be the most challenging in establishing effective classroom management?"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                146,
+                866,
+                210
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) All desks are set up so that Ms. Daniels can see the faces of all students in the room."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Library books, which are used for group reading assignments, are organized in the back left corner of the room."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Classroom rules are posted on the blackboard at the front of the class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Two children with special needs are located at the front of the class."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                217,
+                875,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. Which of the following statements is a well-formed learning objective?"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                408,
+                858,
+                441
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) I will teach students how to subtract two numbers."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) While in your reading group, pronounce the new vocabulary words on page 12. Help the class pronounce any difficult words."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Identify where California is located on a map of the United States."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Bring in a guest speaker to talk about the activities of a fireman."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                448,
+                875,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. Ms. Larson is writing a spelling test for her second-grade class. This test will likely have which of the following characteristics?"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                639,
+                858,
+                686
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) High content validity"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) No error of measurement"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Perfect reliability"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Low criterion validity"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                694,
+                763,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                641,
+                860,
+                878,
+                875
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: K-6 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                706,
+                930,
+                878,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "339"
+                    }
+                ]
+            },
+            "bbox": [
+                907,
+                931,
+                939,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14. Mr. Elam is in his first year as a fourth-grade teacher. One of his students, Cindy, is struggling in math. Which of the following is likely the most effective step Mr. Elam can take to develop an effective learning plan for Cindy?"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                77,
+                494,
+                157
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Ask Cindy about her parents, in order to better understand her socio-economic status."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Assign additional math questions for Cindy—practice makes perfect."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Discuss Cindy's performance with her third-grade teacher, who still teaches at the school."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Tell Cindy that girls traditionally don't do well in math, and encourage her to do her best."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                166,
+                500,
+                352
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15. A teacher is using a phonics approach for her first-grade classroom. Which of the following will the teacher most likely witness in the student's performance?"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                371,
+                489,
+                434
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Students will know how to associate letters and groups of letters with sounds."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Students will have a larger vocabulary than those using a whole language approach."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Students can pronounce words, but will likely not know their meaning."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Students can only decode words from their context."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                442,
+                491,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "16. Which of the following is NOT an effective strategy for teaching a student with ADHD?"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                616,
+                480,
+                649
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Provide a quiet environment for testing."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Ensure that each activity is at least one hour long."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Create a progress plan for the student."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Use positive reinforcements when activities are completed."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                657,
+                491,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "17. In order to determine how well the students in Mr. Brook's third-grade class perform in mathematics compared to other students in the state, he should have his students take what type of test?"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                77,
+                901,
+                157
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) A criterion referenced test"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) A low content validity measure"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) An authentic assessment"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) A norm-referenced test"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                166,
+                834,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18. A student in fourth grade is most likely to exhibit which of Erikson's stages of psychosocial development?"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                261,
+                894,
+                309
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Trust vs. mistrust"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Initiative vs. guilt"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Autonomy vs. doubt"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Industry vs. inferiority"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                317,
+                768,
+                395
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                866,
+                905,
+                881
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "340"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                935,
+                82,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                935,
+                271,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                409,
+                71,
+                550,
+                88
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                93,
+                609,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Farrell"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                435,
+                112,
+                524,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Farrell is about to hold a parent-teacher conference to discuss the results of a series of achievement tests. Ms. Farrell is in her twelfth year teaching third grade at Nessland Elementary School, one of several schools in the South District. This year, her class is composed of 23 students—11 boys and 12 girls. Before her conference, Ms. Farrell is reviewing the documents below, in order to prepare her comments about the class's performance."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                133,
+                880,
+                197
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/69936dea614b828ccaeeddfa1c6545f710c561c25ce59bf98d6c09bbead7577a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Document 1"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>Reading Grade Equivalent</td><td>Math Grade Equivalent</td><td>Social Studies Grade Equivalent</td><td>Writing Grade Equivalent</td></tr><tr><td>Nessland Elementary</td><td>3.6</td><td>4.5</td><td>4.1</td><td>3.1</td></tr><tr><td>All Schools in South District</td><td>3.5</td><td>4.0</td><td>4.1</td><td>3.7</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                213,
+                878,
+                332
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/31545bbd4c7200e137a631eaa8e948cbd7e222224381b1ead518a74948eda6e4.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Summary of Results for Third-Grade Classes in South District"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>Reading Grade Equivalent</td><td>Math Grade Equivalent</td><td>Social Studies Grade Equivalent</td><td>Writing Grade Equivalent</td></tr><tr><td>Nessland Elementary</td><td>61%</td><td>93%</td><td>85%</td><td>44%</td></tr><tr><td>All Schools in South District</td><td>57%</td><td>86%</td><td>85%</td><td>52%</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                362,
+                878,
+                485
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b84470c83fad0d20af721409fbd236fc96042455a75ed92cf06dc451386a8b28.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Document 2\nSummary of Results for Student Joy Lewis"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>Reading Grade Equivalent</td><td>Math Grade Equivalent</td><td>Social Studies Grade Equivalent</td><td>Writing Grade Equivalent</td></tr><tr><td>Nessland Elementary</td><td>29</td><td>34</td><td>31%</td><td>N/A</td></tr><tr><td>All Schools in South District</td><td>48%</td><td>88%</td><td>81%</td><td>52%</td></tr><tr><td>Grade Equivalent</td><td>3.3</td><td>4.2</td><td>4.0</td><td>3.7</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                530,
+                878,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 19 through 21 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                693,
+                870,
+                756
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 19"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                772,
+                175,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Farrell is pleased with the job she has done for the year, as her class is performing above grade level in all areas but one. She is also pleased to see that her class often performs better than other schools within the district. Yet she feels that more information may be necessary for her to assess her students' progress effectively."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                786,
+                878,
+                835
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO reports or inputs that Ms. Farrell could use to get a more complete view of the class's performance."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each input identified, describe how that assessment information can be used to guide Ms. Farrell's teaching."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                839,
+                824,
+                905
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                636,
+                901,
+                875,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: K-6 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                704,
+                930,
+                877,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "341"
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                931,
+                934,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 20"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                113,
+                77,
+                207,
+                91
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Joy's parents are not familiar with the results of standardized tests, and want some feedback on her performance."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                91,
+                907,
+                124
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Interpret Joy's performance on the standardized test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Provide TWO recommendations for what Joy should improve on during the last half of third grade."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                129,
+                851,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 21"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                111,
+                201,
+                202,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The parents of another student complain that any evaluation from a standardized test is unfair, as their daughter “is not a good test taker” and doesn’t perform well under pressure."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                216,
+                907,
+                247
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Explain TWO reasons how standardized tests can be a helpful tool in evaluating a students' performance."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO other ways in which student performance can be measured, and how Ms. Farrell can use these to provide a comprehensive assessment of each student."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                252,
+                866,
+                320
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case History 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                438,
+                341,
+                580,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: The case history is followed by three short-answer questions."
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                364,
+                642,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                457,
+                384,
+                561,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer is a fourth-grade teacher at Abel Elementary School, where she has taught for the past two years. Below is a conversation she recently had with a student in her class:"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                405,
+                905,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tuesday, 10:45 A.M."
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                452,
+                582,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusion of Recess"
+                    }
+                ]
+            },
+            "bbox": [
+                430,
+                469,
+                590,
+                483
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8e6419abf45a0788e4266a71e5cd75e1204b5b657459bf2f6cce153b1cc7e403.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Tiffany (smiling)</td><td>Ms. Gemmer, the boys are really funny.</td></tr><tr><td>Ms. Gemmer</td><td>Oh really? What are they up to now?</td></tr><tr><td>Tiffany</td><td>They just sang a song about Billy.</td></tr><tr><td>Ms. Gemmer</td><td>About your classmate Billy? What did they sing?</td></tr><tr><td>Tiffany</td><td>It&#x27;s pretty funny. It goes, “Billy, Billy, really stinky. You wear clothes from 1950. You take a bath once a year, cause you stink more than dirty underwear!!”</td></tr><tr><td>Ms. Gemmer</td><td>Which boys are singing this?</td></tr><tr><td>Tiffany</td><td>Oh, I don&#x27;t want to get anyone in trouble. It&#x27;s just funny.</td></tr><tr><td>Ms. Gemmer</td><td>Please tell me who was singing, so I can deal with them. Otherwise, I may just punish you too.</td></tr><tr><td>Tiffany</td><td>Scott and Rick.</td></tr><tr><td>Ms. Gemmer</td><td>Anyone else?</td></tr><tr><td>Tiffany</td><td>No. But if you tell them I told you, then they&#x27;ll get mad at me.</td></tr><tr><td>Ms. Gemmer</td><td>Don&#x27;t worry about that. Thank you, Tiffany.</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                113,
+                488,
+                894,
+                710
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Upon returning from class, Billy did not look happy. In fact, it appeared that he had been crying. Ms. Gemmer noticed that while Billy did not in fact smell, that his clothes were somewhat disheveled, and had numerous stains across the shirt. These were not the result of any recess play; in general, Ms. Gemmer knew that Billy wore many “dirty” clothes. As a majority of her class was affluent, she was concerned that Billy’s attire was not a function of finances but of someone not properly caring for Billy."
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                724,
+                907,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following conversation took place immediately after recess:"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                807,
+                602,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Before we move on to our Computer assignment, I heard a song I really did not like during recess. Does anyone want to raise their hand and admit that they were singing this song?"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                839,
+                894,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                668,
+                887,
+                907,
+                901
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "342"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                935,
+                84,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                934,
+                274,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No hands are raised; many students are laughing at Rick and Scott, who are no longer making eye contact with Ms. Gemmer."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                72,
+                877,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mark I know who did it!"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                109,
+                382,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Thank you Mark, but I want the culprits to identify themselves."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                125,
+                709,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No hands are raised."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                146,
+                224,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Okay. Fine. I'll deal with this during the lunch period, and those of you who did this, but did not admit it now, will now get twice the punishment."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                168,
+                861,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer introduced the computer lesson. Part of this lesson involved students working quietly in groups of three. Ms. Gemmer walked around to each group to monitor their progress. As she reached the group Scott was in, she whispered to Scott, \"Please see me at lunch regarding the recess incident.\" Scott was unhappy, and no longer participated in the assignment. She then walked up to Rick and whispered the same thing. Rick immediately began to cry. When she walked pass Billy's group, she asked Billy how we was doing, leading to this exchange:"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                217,
+                880,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Billy, are you doing okay?"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                327,
+                433,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Billy Yes, Ms. Gemmer"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                343,
+                374,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Don't worry, I'll take care of the recess problem."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                359,
+                593,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Billy I don't want to talk about it."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                374,
+                452,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer Then, I'll talk about it for you."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                389,
+                468,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Billy I wish you'd just leave this alone."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                406,
+                486,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer I'm sorry, Billy. But I need to teach people what is right and what is wrong. And that song is not nice."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                422,
+                859,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer continued teaching until lunch, when she met privately with Rick and Scott."
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                464,
+                765,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 22 through 24 require you to write short answers. You are not expected to cite specific theories or texts in your answer; however, your responses to the questions will be evaluated with respect to professionally accepted principles and practices in teaching and learning. Be sure to answer all parts of the questions. Write your answers on the answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                491,
+                870,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 22"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                79,
+                571,
+                173,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer struggled on how much of this incident she should make public to the entire class versus how much she should deal with it in private."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                586,
+                878,
+                619
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Identify one thing Ms. Gemmer did well during this situation."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify two things Ms. Gemmer could do better regarding her handling of this matter. Focus your answers based on your knowledge of managing a positive instructional environment."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                623,
+                856,
+                675
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 23"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                79,
+                690,
+                173,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Gemmer thinks that Billy's attire may in fact be a sign of problems for Billy."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                706,
+                661,
+                722
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Identify TWO things Ms. Gemmer can do to address this issue with Billy and/or his parents."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Base your response on the principles of teaching and learning and human development."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                726,
+                813,
+                762
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Question 24"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                79,
+                774,
+                173,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There were two students who gave Ms. Gemmer information about the song—Tiffany and Mark. She treated Tiffany and Mark differently."
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                789,
+                878,
+                821
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- Identify TWO things that Ms. Gemmer could have done differently in her interactions with Tiffany and Mark."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "- For each modification you suggested, explain how the modification could have created a better learning environment. Base your response on the principles of effective classroom management."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                825,
+                840,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                637,
+                901,
+                877,
+                917
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: K-6 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                703,
+                931,
+                877,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "343"
+                    }
+                ]
+            },
+            "bbox": [
+                905,
+                932,
+                936,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrete Multiple-Choice Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                344,
+                77,
+                666,
+                96
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Questions 25–36 are not related to the previous case. For each question, select the best answer and mark the corresponding space on your answer sheet."
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                100,
+                881,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "25. A proper Individualized Education Plan (IEP), includes all of the following EXCEPT"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                151,
+                492,
+                183
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) what should be taught and how"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) how much time the student will spend with children who do not have disabilities"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) annual goals and short-term objectives for the student"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) an agreement signed by parents and teachers that the IEP will not change for the school year"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                192,
+                494,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "26. Steven, a second grader, completes a standardized reading test. His grade-equivalent score is a 4.3, and his national percentile is 93. Which of the following is true about Steven's national percentile score?"
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                366,
+                496,
+                445
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Steven did as well as 4.3% of the second graders who completed the test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Steven scored higher than 93% of students who have completed three months in their fourth year of school."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Steven scored higher than 93% of second grade students who completed the test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) The national percentile shows that Steven has not learned concepts taught in the second half of fourth grade."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                452,
+                492,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "27. Physical education activities are one way to develop which of the following types of learning?"
+                    }
+                ]
+            },
+            "bbox": [
+                118,
+                658,
+                491,
+                706
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Cognitive domain"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Affective domain"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Psychomotor domain"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) All of the above"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                153,
+                714,
+                355,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "28. According to Skinner's theories on behavioral development, the practice of giving a student a low grade for poor performance on a test is an example of"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                150,
+                904,
+                214
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) positive reinforcement"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) negative reinforcement"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) extinction"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) presentation punishment"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                222,
+                787,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "29. Ms. Hardy's fourth-grade class is studying the process in which cereal is made. The class is currently answering the following question: \"What companies should a cereal manufacturer interact with in order to package the cereal?\" This task best models what level in Bloom's Taxonomy of Objectives?"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                318,
+                889,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Knowledge"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Comprehension"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Application"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Evaluation"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                437,
+                722,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "30. Mr. Bailey started teaching his third-grade class in the following manner: First, he reviewed the prior day's material with two questions designed to reinforce the material. Second, he presented new information for the next lesson. What could Mr. Bailey have done to create a more effective lesson?"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                533,
+                899,
+                643
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Introduce a statement or question related to the next lesson to get students curious about the future material."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Call on a quiet student and ask him or her to explain the next lesson."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Give a pop quiz to the students."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Have students pre-read the information, and prepare a quiz for other students in the class."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                651,
+                899,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GO ON TO THE NEXT PAGE"
+                    }
+                ]
+            },
+            "bbox": [
+                666,
+                864,
+                907,
+                881
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "344"
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                935,
+                82,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "CRACKING THE PRAXIS"
+                    }
+                ]
+            },
+            "bbox": [
+                113,
+                935,
+                272,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "31. Several tools are recommended when modifying instruction for students who are learning disabled. Which of the following is NOT a recommended instructional method?"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                71,
+                456,
+                135
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Structured, brief assignments"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Manipulative experiences"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Cooperative learning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Increasingly longer lessons with less public praise"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                144,
+                427,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "32. Jamie, a third-grade student, is attempting to learn how to multiply two numbers together. Her teacher recommends that she do 100 problems per day until she is comfortable with the process. Which theory does her teacher employ to help Jamie?"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                254,
+                460,
+                351
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Thorndike's law of exercise"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Thorndike's law of effect"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Skinner's extinction"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Piaget's sensorimotor"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                359,
+                365,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "33. Which of the following statements about creating an environment for student learning is NOT true?"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                455,
+                454,
+                502
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Objectives should be aligned with the overall goals of the school district."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Objectives should be accepted by appropriate national, regional, or state organizations."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Objectives should be aligned for the achievement desired of students in the class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Objectives should not be modified for specific student populations; it is important that goals are not compromised."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                511,
+                444,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "34. Tanya is a second-grade student who recently completed a standardized test. She received a score of 100 out of 200, which resulted in an equivalent stanine score of 3. Which of the following statements about Tanya's performance must be true?"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                72,
+                859,
+                166
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Tanya scored one grade equivalent above her current grade level."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Tanya scored in the 50th percentile."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) The error of measurement on the test is within 20 percent."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Tanya scored below average compared to other students in her class."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                175,
+                870,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "35. Students in a sixth-grade class are trying to solve a problem—how to develop a recycling program for their school. They have invited the local commissioner of sanitation and recycling to speak with the class. The students are at which of the following steps in the problem-solving process?"
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                318,
+                870,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) Develop assessment tools to measure the effectiveness of their solutions."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) Brainstorm possible solutions to the task."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) Gather data and information about the problem."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) Develop an implementation plan for the problem."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                437,
+                870,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "36. Which of the following instructional strategies is most commonly observed in first-grade classes?"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                580,
+                859,
+                627
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(A) The teacher carefully maps out the day's activities, which include numerous structured lessons."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(B) The teacher focuses on whole group discussions and uses various questioning, explaining, and probing techniques."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(C) The teacher focuses on two or three long lessons per day, which relate to a common integrated theme."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(D) The teacher introduces a topic, and allows students to develop their own plans to address the topic."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                527,
+                636,
+                867,
+                839
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "STOP"
+                    }
+                ]
+            },
+            "bbox": [
+                449,
+                862,
+                505,
+                878
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT: K-6 PRACTICE TEST"
+                    }
+                ]
+            },
+            "bbox": [
+                703,
+                931,
+                874,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "345"
+                    }
+                ]
+            },
+            "bbox": [
+                904,
+                932,
+                934,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac{1}{2}\\left( \\frac{\\sqrt{3}}{4}\\right) = \\frac{1}{2} \\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2}\\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{3}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{2}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{2}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{2}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{2}}{4}\\right) + \\frac{1}{2} \\left( \\frac{\\sqrt{2}}{4}\\right) + 0. \\tag{1.1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d026b3d0fdbcd0fbd8d39e002e039563be1a37888faba266ffeccb09d3f4f137.jpg"
+                }
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                998
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diagnostic Test Form"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                221,
+                17,
+                473,
+                38
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. YOUR NAME:"
+                    }
+                ]
+            },
+            "bbox": [
+                15,
+                68,
+                110,
+                80
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Print)"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                80,
+                76,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Last"
+                    }
+                ]
+            },
+            "bbox": [
+                242,
+                80,
+                264,
+                89
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "First"
+                    }
+                ]
+            },
+            "bbox": [
+                409,
+                80,
+                432,
+                89
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "M.I."
+                    }
+                ]
+            },
+            "bbox": [
+                599,
+                80,
+                618,
+                89
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SIGNATURE:"
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                93,
+                106,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OATE:"
+                    }
+                ]
+            },
+            "bbox": [
+                484,
+                94,
+                519,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "HOME AODRESS:"
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                119,
+                132,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Print)"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                131,
+                76,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Number and Street"
+                    }
+                ]
+            },
+            "bbox": [
+                379,
+                131,
+                462,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "City"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                155,
+                74,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "State"
+                    }
+                ]
+            },
+            "bbox": [
+                167,
+                155,
+                192,
+                165
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Zip"
+                    }
+                ]
+            },
+            "bbox": [
+                291,
+                155,
+                309,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PHONE NO.:"
+                    }
+                ]
+            },
+            "bbox": [
+                33,
+                169,
+                105,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Print)"
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                183,
+                76,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IMPORTANT: Please fill in these boxes exactly as shown on the back cover of your test book."
+                    }
+                ]
+            },
+            "bbox": [
+                108,
+                196,
+                358,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OpScan /INSIGHT™ forms by Pearson NCS EM-255325-1:654321 Printed in U.S.A."
+                    }
+                ]
+            },
+            "bbox": [
+                385,
+                194,
+                708,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "© The Princeton Review Mgt. L.L.C. 2004"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                218,
+                658,
+                232
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. TEST FORM"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                240,
+                108,
+                252
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8c993ca8272375a0e8f5822904e321727b2b3e52cf9037a4aa7cbc14f7669f60.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"3\"></td></tr><tr><td>1</td><td>2</td><td>3</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                12,
+                254,
+                213,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. OATE OF BIRTH"
+                    }
+                ]
+            },
+            "bbox": [
+                12,
+                300,
+                129,
+                311
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c1ec7d1d253bc181b878675ecdfc765926c83d1138b1addee01e19d52396bd20.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">MONTH</td><td colspan=\"2\">DAY</td><td colspan=\"2\">YEAR</td></tr><tr><td>○</td><td>JAN</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>○</td><td>FEB</td></tr><tr><td>○</td><td>MAR</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>○</td><td>APR</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>○</td><td>MAY</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>○</td><td>JUN</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>○</td><td>JUL</td><td></td><td>4</td><td>4</td><td>4</td></tr><tr><td>○</td><td>AUG</td><td></td><td>5</td><td>5</td><td>5</td></tr><tr><td>○</td><td>SEP</td><td></td><td>6</td><td>6</td><td>6</td></tr><tr><td>○</td><td>OCT</td><td></td><td>7</td><td>7</td><td>7</td></tr><tr><td>○</td><td>NOV</td><td></td><td>8</td><td>8</td><td>8</td></tr><tr><td>○</td><td>OEC</td><td></td><td>9</td><td>9</td><td>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                11,
+                314,
+                266,
+                515
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cde6f4a396b1cdd6049e6437128db4a8cccd6f100b65cdd636a1c5dfd8e5e0e9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"4\">3. TEST COOE</td><td colspan=\"7\">4. PHONE NUMBER</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr><tr><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td></tr><tr><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td></tr><tr><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td><td>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                282,
+                237,
+                744,
+                438
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/88995b3ccb45143fb11114f4ee2ad1a9efd4356144bc825c5a1758585e16adbc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>7. SEX</td></tr><tr><td>○ MALE</td></tr><tr><td>○ FEMALE</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                304,
+                466,
+                411,
+                515
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/86eb887123a613da621104c91b0dff21fcce3eee65806c302f58ae3f7c781b4c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"6\">8. OTHER</td></tr><tr><td>1</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>2</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>3</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                470,
+                450,
+                704,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Completely darken bubbles with a No. 2 pencil. If you make a mistake, be sure to erase mark completely. Erase all stray marks."
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                11,
+                993,
+                48
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1546c0e48230f08ff65230f97ab880fc05825c0e59e70b7579cee5743049f829.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "5. YOUR NAME"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"4\">First 4 letters of last name</td><td>FIRST INIT</td><td>MID INIT</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr><tr><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr><tr><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td></tr><tr><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td><td>E</td></tr><tr><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td><td>F</td></tr><tr><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td></tr><tr><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td><td>H</td></tr><tr><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td><td>I</td></tr><tr><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td><td>J</td></tr><tr><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td><td>K</td></tr><tr><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td><td>L</td></tr><tr><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td><td>M</td></tr><tr><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td></tr><tr><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td><td>O</td></tr><tr><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td><td>P</td></tr><tr><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td><td>Q</td></tr><tr><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td></tr><tr><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td></tr><tr><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td><td>T</td></tr><tr><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td><td>U</td></tr><tr><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td></tr><tr><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td><td>W</td></tr><tr><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td></tr><tr><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td><td>Z</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                744,
+                69,
+                993,
+                515
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/29391e73709e4a9476a40a04b79fa59f2eeebc858a39461176541964bf4df152.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>CASE I</td><td rowspan=\"8\">7 A B C D8 A B C D9 A B C D10 A B C D11 A B C D12 A B C D13 A B C D14 A B C D15 A B C D16 A B C D17 A B C D18 A B C D</td><td>CASE III</td><td rowspan=\"8\">25 A B C D26 A B C D27 A B C D28 A B C D29 A B C D30 A B C D31 A B C D32 A B C D33 A B C D34 A B C D35 A B C D36 A B C D</td></tr><tr><td>1. Write your response on the appropriate page of the response book.</td><td>19. Write your response on the appropriate page of the response book.</td></tr><tr><td>2. Write your response on the appropriate page of the response book.</td><td>20. Write your response on the appropriate page of the response book.</td></tr><tr><td>3. Write your response on the appropriate page of the response book.</td><td>21. Write your response on the appropriate page of the response book.</td></tr><tr><td>CASE II</td><td>CASE IV</td></tr><tr><td>4. Write your response on the appropriate page of the response book.</td><td>22. Write your response on the appropriate page of the response book.</td></tr><tr><td>5. Write your response on the appropriate page of the response book.</td><td>23. Write your response on the appropriate page of the response book.</td></tr><tr><td>6. Write your response on the appropriate page of the response book.</td><td>24. Write your response on the appropriate page of the response book.</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                63,
+                529,
+                862,
+                842
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "The Princeton Review"
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                10,
+                164,
+                59
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e1fa1bf7f362548149b1c2cfa2c22c401f1ad68cb8f35860c525878d6c43cce1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                74,
+                57,
+                923,
+                908
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                55,
+                934,
+                909
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                74,
+                57,
+                921,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "27"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                419,
+                98,
+                902,
+                374
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Answers and Explanations for PLT: K-6 Practice Test"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                275,
+                426,
+                897,
+                636
+            ]
+        }
+    ]
+]

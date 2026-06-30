@@ -1,80 +1,90 @@
-import argparse
+from pathlib import Path
 
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
-from _2_split_question_main_body_into_consecutive_problem_spans import (
+from _2_parse_questions import (
     SplitQuestionMainbodyIntoIndividualQuestionsStage,
 )
-from _4_split_mineru_parsed_md_into_consecutive_answer_spans import (
-    SplitMineruParsedMdIntoAnswerSpansStage,
-)
-from exam_formats import EXAM_FORMATS, ExamFormat
+from exam_formats import ExamFormat
 from exam_formats import get_exam_format
-from tests.fixture._constants import mineruparsed
+from parse_evaluation.exam_formats import EXAM_FORMAT_BY_NAME
 
 
-EXAM_FORMAT_BY_NAME = {fmt.name: fmt for fmt in EXAM_FORMATS}
+def _infer_answer_input_document(question_input_document: str) -> str:
+    question_path = Path(question_input_document)
+    question_dir = question_path.parent
+    question_dir_name = question_dir.name
 
+    if 'question' not in question_dir_name:
+        return str(question_path)
 
-def parse_args(argv=None):
-    parser = argparse.ArgumentParser(
-        description='Parse evaluation question and answer markdown files.',
-    )
-    parser.add_argument(
-        'question_input_document',
-        nargs='?',
-        help='MinerU parsed question markdown, usually full.md.',
-    )
-    parser.add_argument(
-        'answer_input_document',
-        nargs='?',
-        help='MinerU parsed answer markdown, usually full.md.',
-    )
-    parser.add_argument(
-        '--exam-format',
-        choices=sorted(EXAM_FORMAT_BY_NAME),
-        help='Override exam format detection.',
-    )
-    parser.add_argument(
-        '--force',
-        action='store_true',
-        help='Recreate outputs even when they already exist.',
-    )
-    args = parser.parse_args(argv)
-    if bool(args.question_input_document) != bool(args.answer_input_document):
-        parser.error(
-            'question_input_document and answer_input_document must be provided together'
+    parent_dir = question_dir.parent
+    answer_prefix = question_dir_name.split('question', 1)[0] + 'answer'
+    exact_answer_dir = parent_dir / question_dir_name.replace(
+        'question', 'answer', 1)
+
+    candidates = []
+    exact_answer_path = exact_answer_dir / question_path.name
+    if exact_answer_path.is_file():
+        candidates.append(exact_answer_path)
+
+    for sibling in parent_dir.iterdir():
+        if not sibling.is_dir():
+            continue
+        if not sibling.name.startswith(answer_prefix):
+            continue
+        answer_path = sibling / question_path.name
+        if answer_path.is_file() and answer_path not in candidates:
+            candidates.append(answer_path)
+
+    if len(candidates) == 1:
+        return str(candidates[0])
+    if candidates:
+        raise ValueError(
+            'multiple answer documents matched '
+            f'{question_input_document}: {candidates}'
         )
-    return args
-
-
-def main(argv=None):
-    args = parse_args(argv)
-    question_input_document = args.question_input_document or mineruparsed
-    answer_input_document = args.answer_input_document or mineruparsed
-    exam_format = (
-        EXAM_FORMAT_BY_NAME[args.exam_format] if args.exam_format else None
+    raise FileNotFoundError(
+        'could not infer answer_input_document from '
+        f'{question_input_document}'
     )
-    # 每步返回输出路径并作为下一步的输入；输出已存在时各步自动跳过（幂等）
-    # 不传 exam_format —— 由题目文档内容自动推断
-    run_parse_evaluation_pipeline(
-        question_input_document,
-        answer_input_document,
-        exam_format=exam_format,
-        skip_if_output_exists=not args.force,
-    )
+
 
 
 def run_parse_evaluation_pipeline(
     question_input_document: str,
-    answer_input_document: str,
+    answer_input_document: str | None = None,
+    exam_format_str: str | None = 'plt',
     exam_format: ExamFormat | None = None,
     *,
     skip_if_output_exists: bool = True,
 ) -> None:
+    if (
+        answer_input_document in EXAM_FORMAT_BY_NAME
+        and exam_format_str == 'plt'
+        and not Path(answer_input_document).exists()
+    ):
+        exam_format_str = answer_input_document
+        answer_input_document = None
+
+    if answer_input_document is None:
+        answer_input_document = _infer_answer_input_document(
+            question_input_document)
+    if exam_format is None:
+        exam_format = (
+            EXAM_FORMAT_BY_NAME[exam_format_str] if exam_format_str else None
+        )
+
     # 未显式指定时，从题目文档内容自动推断卷型
     if exam_format is None:
         exam_format = get_exam_format(question_input_document)
         print(f'inferred exam format: {exam_format.name}')
+    from parse_evaluation._1_parse_answers import SplitMineruParsedMdIntoAnswerSpansStage
+    SplitMineruParsedMdIntoAnswerSpansStage(
+        exam_format=exam_format,
+        skip_if_output_exists=skip_if_output_exists,
+    ).run(
+        answer_input_document
+    )
     questions_mainbody_md = GetQuestionsMainbodyStage(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
@@ -83,11 +93,6 @@ def run_parse_evaluation_pipeline(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
     ).run(questions_mainbody_md)
-    SplitMineruParsedMdIntoAnswerSpansStage(
-        exam_format=exam_format,
-        skip_if_output_exists=skip_if_output_exists,
-    ).run(
-        answer_input_document, individual_question_csv)
     # joined_output_csv = os.path.join(
     #     os.path.dirname(individual_question_csv), joined_output_csv_basename)
     #
@@ -108,6 +113,18 @@ def run_parse_evaluation_pipeline(
     #         _writer.writerow(asdict(PromptRow(**_row)))
     #         _rows_written += 1
     # print(f'wrote {_rows_written} prompts to {prompts_output_csv}')
+
+
+
+
+def main():
+    question_input_document = '/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/tests/fixture/praxis_plt_sections/plt_10/plt_10_question.pdf-6aee572b-1ff6-48fc-842c-c9e45f7bbdf0/full.md'
+    # 每步返回输出路径并作为下一步的输入；输出已存在时各步自动跳过（幂等）
+    # 不传 exam_format —— 由题目文档内容自动推断
+    run_parse_evaluation_pipeline(
+        question_input_document,
+            skip_if_output_exists=False,
+    )
 
 
 if __name__ == '__main__':

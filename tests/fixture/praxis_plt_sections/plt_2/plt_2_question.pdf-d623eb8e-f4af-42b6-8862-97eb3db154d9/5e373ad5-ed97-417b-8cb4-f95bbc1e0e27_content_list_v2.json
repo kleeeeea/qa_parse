@@ -1,0 +1,3221 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                140,
+                90,
+                404,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                133,
+                485,
+                311
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. DeSoto"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                63,
+                332,
+                195,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. DeSoto had several students in his tenth-grade literature class that he suspected were having trouble with the class textbook. They could decode the text. That wasn't the problem. They seemed to have trouble understanding the messages behind the words. So, he decided to spend part of each class day trying a method a colleague told him she had begun to use successfully in her class: think alouds."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                353,
+                485,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The first day Mr. DeSoto tried the think-aloud method, he read a paragraph from A Midsummer Night's Dream. As he read, he stopped after a particular sentence he thought might be confusing to students and said, \"I don't know what this sentence means.\" Then, he restated the difficult sentence and said, \"I still don't know what it means, so I think I'll look back through the passage and see if I can find information that might give me a clue to the meaning of the sentence I don't understand.\""
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                513,
+                485,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This is how Mr. DeSoto continued through reading and thinking aloud for about 5 minutes. When he was done, he asked his students what he had just done to help understand passages he didn't understand at first. Also, he asked his students what they did when they came to parts that confused them. These are some of the responses he got from his students:"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                713,
+                485,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"You talked your way through the parts you didn't understand. Sometimes when I'm"
+                    }
+                ]
+            },
+            "bbox": [
+                103,
+                894,
+                450,
+                932
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reading something and having trouble with it, I read it out loud. For some reason, that helps me figure things out sometimes.\""
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                91,
+                927,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"You looked for clues. You read parts over again. Rereading things can help.\""
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                150,
+                924,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"You stopped when you realized you didn't understand what you'd just read. I usually just keep going and hope that eventually I'll figure it out. I don't like to read things again and again. You don't have to understand every sentence to get an idea of what's happening. As long as you understand most of it, you're usually all right.\""
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                190,
+                910,
+                349
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.1 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                510,
+                369,
+                864,
+                388
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Mr. DeSoto was pleased with the responses from the students. How can he reinforce these and other reading strategies through think alouds and other approaches to ensure students are using them when they read? Base your response on what you know about best practices in literacy instruction."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Describe one authentic approach Mr. DeSoto can use to assess students' reading comprehension of A Midsummer Night's Dream as they are reading it. Explain two ways that the approach you chose is authentic."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Besides think alouds, describe one other method Mr. DeSoto could use to teach students reading comprehension strategies like the ones he taught during the think aloud example."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                528,
+                390,
+                931,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                586,
+                745,
+                853,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                789,
+                933,
+                929
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                304,
+                35,
+                691,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "335"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                961,
+                906,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                39,
+                98,
+                473,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Keanna Petersen"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                41,
+                158,
+                238,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keanna is an exchange student from Germany. She will be spending the school year in the small town of Schoharie, and she will be attending classes at the high school. Keanna has been speaking English since she was a young child, but she is finding speaking casual English and being expected to learn through the English language are two different things. She is finding it difficult to learn complex concepts by reading English texts and participating in class activities and discussions. The content-area subjects contain vocabulary that is new to her. For example, in history class, she has never heard many of the American names and places. She gets confused trying to catch up with her classmates even though they are quite amiable and try to help."
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                178,
+                475,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keanna will be returning to Germany when the school year is over, so she just has to do her best to be part of the classes and to learn what she can. She is motivated to learn but does not feel too stressed out to get high grades. She is enjoying the experience and the cultural aspects of being a high schooler in the United States. Grades are secondary to her."
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                480,
+                473,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keanna's teacher Mr. Elkin is concerned about Keanna's self-motivation. The other students in the class seem to reflect what Mr. Elkin has identified as Keanna's laissez-faire attitude about her grades. She is well behaved in class and is very personable; however, she often comes to class unprepared. She doesn't always do the required readings and homework assignments."
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                619,
+                473,
+                776
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.2 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                43,
+                796,
+                406,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Describe two approaches Mr. Elkin could integrate into his instruction to address Keanna's literacy and language needs. Base your response on what you know about accommodating diverse learners."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                817,
+                473,
+                913
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Generally, research evidence indicates adolescents' motivation declines in the middle- and high-school years. Explain why this decline frequently occurs."
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                96,
+                934,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. How can Mr. Elkin shape his instruction to help better motivate Keanna?"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                178,
+                934,
+                215
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                580,
+                256,
+                855,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                299,
+                936,
+                479
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Granato"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                500,
+                499,
+                641,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It's conference day at Guilderland High School. Classes have been canceled; appointments have been made; family members and students are sitting in classrooms talking quietly—for the most part—with educators about students' progress, attitudes, and programs. It's a day to not only share reports and problem-solve, but it's also a day for families and educators to meet and get to know each other. Educators hope to gain some insight about the home environment of their students, so they can best help the students. Parents desire feedback about their high schooler so they can support their adolescent at home. Students listen and contribute, sometimes proudly and sometimes defensively."
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                519,
+                933,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Granato has just finished his 8:15 A.M. appointment with his twelfth-grade English student Jeff, Jeff's mother, and his father. Mr. Granato found the family supportive but respective of Jeff's ability to manage his academic and sport schedules in a way that prioritized school work. Jeff was eager to do well his last year so he would be prepared for college. Jeff's father ended the conference with, \"Well, you keep doing your job and we'll keep doing ours to get our boy ready. But the truth is that Jeff has it all under control. He knows what he wants out of life, and he's got a plan to get it. He's a good kid. We're proud of him.\""
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                800,
+                933,
+                937
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                43,
+                687,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "336"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                966,
+                106,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                63,
+                88,
+                487,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Granato had a smile on his face thinking about the meeting when the Maynards—Cody and his mother—walked briskly into the room. He had a feeling by the look on Mrs. Maynard's face that this conference would be a bit different from his last one. Stress followed Mrs. Maynard into the room."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                190,
+                487,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "“Mr. Granato,” Mrs. Maynard said as she held out her hand. She wore a business suit with black high-heels. “I’m a little early, I know; but, I have to be at work in   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  hour. So, I hope you don’t mind if we start early.”"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                309,
+                487,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"That's fine, Mrs. Maynard. Hi, Cody. How ya doing?\" Mr. Granato signaled the desks that were pulled together in a circle."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                389,
+                487,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Before everyone was even seated, Mrs. Maynard took out a list and began to question Mr. Granato about its first item. \"I sent you a couple of e-mails last week, Mr. Granato, with an agenda of what I'd like to cover in today's meeting. Did you get my e-mails? Did I send them to the right address? I called the school secretary and she said that yes, I had the right address? So, did you get my e-mails?\""
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                450,
+                487,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "“Oh, yes, I think I did. I was very busy last week grading the students’ essays. I’m sorry I never got back to you. I always give my students’ work priority over my other responsibilities. I saw your name in my inbox but just didn’t get a chance to read what you wrote. I figured we were meeting today anyway, so we can talk now. So, let’s get started.” Mr. Granato admitted his neglect and was ready to move on to talk about Cody’s work . . . ‘or, actually, lack of work."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                609,
+                487,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cody was really quiet in class and often came unprepared. He had “senioritis” as he called it. He had already told Mr. Granato that he was just biding his time until he graduated, doing just enough to get through the course. His records showed he was an average student with average grades all through high school. Homework and tests just weren’t motivating to him, according to notes from previous teachers. In short, Cody was an intelligent student who was unmotivated to perform. He saw no reason to make an effort to get an A or B when a C would suffice."
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                790,
+                487,
+                929
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                91,
+                933,
+                169
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "However, Mrs. Maynard saw things differently. She'd spent the past 13 years—Cody's academic years—doing the best she could to support him. She drove him to school and picked him up every day until he got his driver's license and she bought him his first pickup truck. She met with teachers, kept in touch with them through phone calls and e-mails between meetings, e-mailed when she had a question about Cody's assignments, checked over Cody's homework, asked him repeatedly about his progress, and tried to perk his interest as best she could. She'd tried punishing him, grounding him, praising him, and even paying him for good grades. Mrs. Maynard had a reputation with the teachers and administrators in the building as a \"helicopter mom\" who was always hovering around Cody and the school. (In fact, a colleague had told Mr. Granato at the very beginning of the school year to check Cody's work regularly to see if he was doing his homework—on nights when it was done at all—or if maybe someone else was micromanaging it just a bit too much.) Nothing seemed to have any effect on his class average. To Cody, school was a great place to go to see his friends; the academic part was something he just put up with."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                170,
+                933,
+                650
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.3 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                668,
+                867,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Parents who micromanage their children to a high degree have been referred to as “helicopter parents.” Discuss the advantages and disadvantages to parents being highly involved in their children’s academic lives. Include examples from the scenario to explain your points."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                690,
+                933,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Is Mrs. Maynard a \"helicopter mom,\" or is she just doing her job as a parent? Is she too involved? Base your response on what you know about motivating students and parent involvement. Include clues from the scenario to support your response."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                810,
+                933,
+                929
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                308,
+                35,
+                693,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "337"
+                    }
+                ]
+            },
+            "bbox": [
+                871,
+                962,
+                908,
+                976
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Explain how the meeting is going so far. How should Mr. Granato respond to Mrs. Maynard and Cody at this conference?"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                98,
+                481,
+                157
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                126,
+                196,
+                401,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                45,
+                239,
+                481,
+                418
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Strub"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                48,
+                439,
+                164,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dusti Strub is a first-year seventh-grade English teacher at Onteora Middle School. She has made it through the middle of her first month of teaching. Things have gone pretty smoothly, and she feels she is getting to know the students very well."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                460,
+                481,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "She spent time getting to know her students first. She had them write “I Am” poems—a formulaic poem about how authors see themselves—to introduce themselves. This activity also gave her an idea of their writing skills and their interests so she could use what she’d learned to plan her next writing assignment."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                558,
+                481,
+                696
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Strub connects well with this age group, she is finding. However, there is one student who Ms. Strub is particularly concerned about. Annie Morris is her name. She's a very quiet young girl with short blonde hair and big brown eyes. She rarely looks Ms. Strub in the eyes even when Ms. Strub has stopped her in the hall just to converse. Ms. Strub has noticed Annie seems to tag along with two girls who have very different personalities from her own. Ms. Strub would describe Annie's place in the threesome as more like an awkward third wheel than part of a close circle of friends. Ms. Strub has begun an observation journal about the students, and she is focusing on Annie at the moment. She is mostly concerned based on the I Am poem Annie wrote, but the young woman's behaviors and self-imposed isolation also have her concerned."
+                    }
+                ]
+            },
+            "bbox": [
+                47,
+                699,
+                481,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                504,
+                96,
+                943,
+                217
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Annie's I Am Poem"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                239,
+                714,
+                256
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I am ugly and shy."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I wonder if there is life after death."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I hear people talking about me."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I see snickers and sneers."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I want to have lots of friends."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I am ugly and shy."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I pretend I am popular."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I feel like an alien on a strange planet."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I touch the stars and the far planets."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I worry about what other people say about me."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I cry when I am alone."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I am ugly and shy."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I understand that being popular isn't important, it's what's inside that has value."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I say, \"I can get through this.\""
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I dream about living in Australia."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I try to smile at people."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I hope they notice me."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "I am ugly and shy."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                260,
+                929,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 6.4 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                506,
+                658,
+                869,
+                676
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. What concerns should Ms. Strub have about Annie? What should Ms. Strub do about her concerns? Base your responses on what you know about dealing with adolescents' social and emotional issues."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. How might Annie's social and emotional status influence her learning in Ms. Strub's class?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. If unchecked or ignored, adolescent's social and emotional issues can lead to mental health issues. Discuss TWO psychological issues adolescents are susceptible to develop during this stage of development."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                679,
+                940,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                43,
+                694,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "338"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                966,
+                113,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions I"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                87,
+                457,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Students learn to question, clarify, summarize, and predict to improve their ability to monitor their understanding of text as they apply strategies on their own through"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                131,
+                482,
+                210
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. reciprocal teaching."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. guided teaching."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. extended text teaching."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. scaffolded teaching."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                211,
+                320,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. According to the Generating Interaction between Schemata and Text (GIST) approach, students"
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                311,
+                475,
+                366
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. add a main idea with supporting ideas to a writing prompt."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. construct a 15-word-limit summary of a text with topic statements that fit it."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. practice extending their writing by adding personal experiences to it."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. activate prior knowledge to interpret text."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                370,
+                471,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. An anticipation/reaction guide for the topic of dinosaurs might include which of the following?"
+                    }
+                ]
+            },
+            "bbox": [
+                535,
+                88,
+                927,
+                147
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. Most dinosaurs' names come from the Latin language."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. Explain how you feel about dinosaurs."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. What do you want to learn about dinosaurs?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. What do you already know about dinosaurs?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                150,
+                931,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Use the following table to answer question 4."
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                288,
+                850,
+                308
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9507b10b6d2f9cb82033471e2640f3ffd446e987d401c60e0f93ec233faaa9a9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "QUESTION 1 QUESTION 2 QUESTION 3 QUESTION 4 QUESTION 5"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>I think . . .</td></tr><tr><td>Resource 1 says . . .</td></tr><tr><td>Resource 2 says . . .</td></tr><tr><td>Resource 3 says . . .</td></tr><tr><td>Resource 4 says . . .</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                576,
+                931,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. The table is an example of"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                741,
+                323,
+                760
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. a rubric."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. a portfolio."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. an interest chart."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. an inquiry chart."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                764,
+                271,
+                841
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                34,
+                695,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "339"
+                    }
+                ]
+            },
+            "bbox": [
+                871,
+                958,
+                906,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. The following graphic organizer—a network tree—would best be used to illustrate"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                96,
+                457,
+                135
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7b99b165224ad37e1349205db20591a945e1998fe093a0b662eaa508db0de01e.jpg"
+                },
+                "content": "```mermaid\ngraph TD\n  A[\" \"] --> B[\" \"]\n  A --> C[\" \"]\n  A --> D[\" \"]\n  B --> E[\" \"]\n  B --> F[\" \"]\n  C --> G[\" \"]\n  C --> H[\" \"]\n  D --> I[\" \"]\n  D --> J[\" \"]\n```",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "flowchart",
+            "bbox": [
+                48,
+                158,
+                475,
+                321
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the life cycle of a butterfly."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the sequence of steps to conducting a lab experiment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. the causal interaction of an election."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. attempted solutions to solving the national debt and their potential results."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                337,
+                466,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. The findings of the National Institute for Literacy indicate"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                478,
+                426,
+                515
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. content-area teachers are not responsible for improving adolescent literacy skills."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the primary responsibility of content-area teachers should be to improve adolescents' literacy skills."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. content-area teachers must be aware of literacy instructional approaches that can be integrated within their existing curricula."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the needs of diverse learners cannot be assessed accurately by content-area teachers."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                519,
+                477,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Which of the following is an example of self-regulation?"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                96,
+                918,
+                135
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. A student working in a collaborative group of peers is in charge of assessing that all members of the group are doing their assigned jobs."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. A reader is motivated, has prior knowledge about a topic, and uses effective strategies as she reads a passage."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. A writer directs his performance toward goals he wants to achieve."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. A writer perceives that she has control over her writing."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                137,
+                934,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. The most common form of formative assessment at the middle- and high-school levels is"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                378,
+                898,
+                435
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. state tests across the content areas."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. teacher questioning."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. performance criteria."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the use of student think alouds."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                441,
+                855,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Morphology refers to"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                539,
+                728,
+                557
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the part of speech a word represents."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the ability to use context clues to decipher the meaning of a word."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. the definition of a word."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the roots and affixes in a word."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                560,
+                916,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. G. Stanley Hall was one of the first psychologists to study adolescents. He is noted for identifying the period between ages 12 and 25 as a period of"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                678,
+                922,
+                756
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. childhood and adulthood."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. storm and stress."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. laughter and frivolity."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. fragility and strength."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                758,
+                788,
+                835
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                42,
+                692,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "340"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                966,
+                113,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. According to the National Center for Education Statistics, the dropout rates of high school students between 2000 and 2008"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                91,
+                471,
+                148
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. differed by race and ethnicity."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. increased drastically due to unemployment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. increased drastically due to changes in housing."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. remained the same."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                152,
+                475,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. If a parent or a school district has concerns about the eligibility or placement of a child in a supportive special education program, either party has the legal right to"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                271,
+                482,
+                349
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. request a due process hearing to resolve the dispute."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. enforce a solution they deem appropriate for the child."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. void the child's individualized education plan."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. place the child in the program based on assignment as the child's power of attorney."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                352,
+                471,
+                509
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions II"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                93,
+                547,
+                448,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Word identification or decoding refers to"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                590,
+                429,
+                609
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the ability to figure out the word a group of accurately sequenced letters makes."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. knowing the definition of a word in isolation."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. determining the meaning of a word by using context clues."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the ability to pick the word a person dictates out of a list of words."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                611,
+                475,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. According to the Individuals with Disabilities Education Act (IDEA), children with disabilities require Individualized Education Programs (IEPs). The following information about the child must be included; however, this is not the only information that is required by law to be documented in the IEP. The IEP must include"
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                92,
+                926,
+                249
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. past performance, short- and long-term goals for the child, and health history of the child"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. past performance, current skills, goals, special education services"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. current performance, annual goals, and special education and related services"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. needed transitional services, family history, and how progress will be measured"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                254,
+                917,
+                430
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Erikson's eight stages of development propose that adolescents (ages 12 to 18 years)"
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                452,
+                913,
+                491
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. are developing a sense of industry accompanied by unresolved feelings of inferiority among their peers."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. attempt to find their own identity and experience role confusion as they separate from family to be members of a wider society."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. experience a desire to take initiative while they rely significantly on the basic family structure."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. experience intimacy or isolation, depending on their success with this stage."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                492,
+                920,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. The main objective for PL 94-142 is to"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                752,
+                853,
+                769
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. mainstream and integrate students with handicaps into general education classes."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. provide equal education for children of all cultures and races."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. extend health insurance for all students living with their parents up to the age of 25."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. restrict the working age for children to 16."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                773,
+                919,
+                911
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                304,
+                37,
+                688,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "341"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                964,
+                899,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. If a parent wanted to know what the goals of the science program of a high school were and what fundamental concepts would be explored, he or she would ask the administrator for a copy of"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                98,
+                475,
+                198
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the school's individualized education program."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the school's mission statement."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. the school's report card."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the school's curriculum guide."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                201,
+                417,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. At the beginning of each class, it is a good idea for educators to review with the students what happened in the previous class"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                320,
+                470,
+                378
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. to give students time to settle down and get ready for the day's lesson."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. to reinforce students' understanding of where they are now and to determine if any reteaching is needed."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. so students can summarize what they are to do in this class."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. because research indicates this is the best way to begin a class using the constructivist approach."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                382,
+                471,
+                578
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Which of the following is the best example of a question/prompt that would facilitate a student's factual recall?"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                600,
+                475,
+                656
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. How does the character John Proctor in The Crucible compare with other characters you know?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. How did you get your answer to problem four?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. Describe the contexts in which nominalization would be used."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. Is the solution a reasonable one considering the situation?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                660,
+                475,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Families are sometimes marginalized by cultural or linguistic differences and need the teacher's help to know effective ways to support school goals. When working with families that are marginalized, the teacher and school"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                96,
+                929,
+                215
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. must not judge these families for the lack of interest they portray by not attending school events."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. should hold families accountable to attend school events."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. must find ways to accommodate families who are not able to attend school events."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. should not plan school events for these families because they will not be able to participate and will feel out of place."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                219,
+                934,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Constructivist approaches are most effective"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                439,
+                913,
+                458
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. when instructors are expert at teaching students how to construct answers, not at giving them answers."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. with unmotivated students."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. when teachers eliminate direct instruction from the curriculum."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. when students are not expected to memorize."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                460,
+                918,
+                615
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Nonfluent speakers typically will have difficulty articulating the English language when reading a text out loud. Therefore, the teacher should"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                639,
+                936,
+                696
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. not call on these students to read text out loud in class so as not to embarrass them."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. recognize the students cannot understand a passage if they cannot accurately pronounce the words out loud."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. understand nonfluent speakers of the English language can comprehend what they are reading before they can correctly pronounce all of the sounds in the language."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. assume the reading skills of the nonfluent speaker are well established and it is just an articulation problem."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                551,
+                700,
+                936,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                42,
+                690,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "342"
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                966,
+                115,
+                981
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questions 11 and 12 can be answered by reading the following passages. They are taken from a debate about the advantages and disadvantages of discussing controversial issues in the secondary classroom with students."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                87,
+                489,
+                182
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Controversial Issues Should Be Discussed with High-School Students"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                105,
+                207,
+                448,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Teachers must accept the incredible responsibility of helping secondary students understand and make sense of today's social and political events. Today's youth are intelligent and world-savvy. They have access to media and news from around the world at the touch of a screen. Therefore, we cannot assume they are disinterested in world, political, and social events. Neither should we assume they can intelligently interpret all they hear without the guidance of those adults in their lives who have more education and experiences than the students have. High-school students are generally eager to discuss controversial issues. Frequently, it is the students who bring these topics up when they are inserted into classroom discussions. We owe it to our students to offer our classrooms as safe grounds for questioning and clarifying controversial issues so students can make informed decisions and construct meaningful positions on them. Many times controversy is inherent in content areas; dismissing it would be irresponsible. Educators are supposed to help students develop skills needed to interpret today's world. It is the duty of educators to carefully plan contexts so students can explore issues in a constructive manner."
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                247,
+                484,
+                806
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "High-School Classrooms Are Not the Place to Discuss Controversial Issues"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                827,
+                471,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Controversial issues are too risky and too unpredictable to bring into classroom conversations. Teachers are not equipped to know how to respond to current controversial issues. Even experts need time to understand causes and likely political and social effects of current issues to develop the knowledge and evidence needed to wisely counteract hearsay and speculation. Classroom discussions can cause students to compound their anxieties and fears. When they hear the speculations and fears of their classmates, they become doubtful and afraid. It is not the teacher's responsibility to bring controversial issues into the high-school classroom. It is the role of the family to address these concerns."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                867,
+                448,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                552,
+                88,
+                929,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. The author of the first article"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                368,
+                786,
+                385
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. would support teachers telling their students about the World Trade Center attacks on September 11, 2001, but not discussing it beyond that."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. would not support teachers saying anything about the World Trade Center attacks."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. would support teachers opening the classroom to discuss the possible reasons for the attacks the day they happened."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. would advise teachers to carefully plan how they would lead a class discussion about the World Trade Center attacks."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                389,
+                927,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. The most important component missing from both articles is"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                647,
+                919,
+                683
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. a timeline for discussing controversial issues so teachers can implement it into their curriculum."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. a definition of the term controversial issue because readers don't even know to what types of issues the authors are referring."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. the authors' names so we know what their political backgrounds are."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. the date the articles were written so we know if they are current or dated."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                688,
+                924,
+                884
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 6: PLT: GRADES 7-12"
+                    }
+                ]
+            },
+            "bbox": [
+                306,
+                34,
+                693,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "343"
+                    }
+                ]
+            },
+            "bbox": [
+                866,
+                958,
+                901,
+                972
+            ]
+        }
+    ],
+    []
+]

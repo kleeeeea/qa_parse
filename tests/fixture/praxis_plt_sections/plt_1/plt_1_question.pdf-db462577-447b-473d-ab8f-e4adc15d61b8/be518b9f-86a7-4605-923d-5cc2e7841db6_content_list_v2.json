@@ -1,0 +1,3643 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                146,
+                88,
+                411,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                133,
+                492,
+                311
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Morris"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                332,
+                195,
+                349
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Scenario"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                362,
+                153,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ann Morris is a first-year teacher who is fresh out of her university undergraduate program. She was happy to get a position two months after graduation as a ninth-grade teacher in an inner-city school. Ms. Morris is looking forward to working with the 135 underprivileged adolescents who will pass through her Earth Science class each day. She is committed to her students' learning and to the professional services she can offer her students and their families. She believes she understands the magnitude of the responsibility inherent in teaching."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                382,
+                489,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One week into the school year, one of Ms. Morris's students brings her a note from home. The handwritten note contains many unconventional spellings and incorrect grammar. Ms. Morris can barely believe the note is from a parent, based on the quality of the writing. In the note, the parent questions Ms. Morris's practice of giving homework to the students every night. She writes:"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                603,
+                489,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alicja can't do no for hour a work evry nite. She got to watch the kids so I be to work."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                782,
+                473,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Morris interpreted the message to read, Alicja can't do four hours of work every night. She has to watch the kids so I can go to work."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                843,
+                489,
+                901
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.1 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                91,
+                871,
+                109
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. What would be the best way for Ms. Morris to respond to the note she has received from her student's parent?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Describe two ways Ms. Morris can attempt to cultivate active partnerships among her students, their parents/guardians, and herself."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Explain the two principles of the National Education Association's Code of Ethics for the education profession."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                113,
+                934,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                591,
+                329,
+                859,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the two short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                372,
+                936,
+                550
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                570,
+                639,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Throughout his past five years of teaching seventh grade science, Matthew Tenace has observed variance in the ways males and females participate in his classes and labs. He has read that statistics indicate females are less represented than males in most science fields. Mr. Tenace has set a goal for himself this year to learn more about gender issues in science by studying his students' behaviors and reading up on the issue. He has invited a colleague who teaches eighth grade science, Mrs. Parker, to work with him on this teacher research project. He plans to apply what he learns to his teaching practices."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                590,
+                936,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace and Mrs. Parker want to answer these questions:"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                811,
+                934,
+                849
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. How do males and females participate in science classes and labs?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Do males and females feel equally confident and competent in the field of science?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                531,
+                866,
+                934,
+                944
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                316,
+                35,
+                690,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "321"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                962,
+                908,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                173,
+                101,
+                332,
+                120
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace's Project Plan"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                39,
+                143,
+                330,
+                162
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "State Science Learning Standard:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                39,
+                174,
+                356,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students will compare and contrast structures and functions in living systems: animals."
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                194,
+                470,
+                233
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Course Objective:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                39,
+                255,
+                213,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students will investigate the respiratory and circulatory systems of animals."
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                275,
+                468,
+                313
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                39,
+                335,
+                139,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students will"
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                354,
+                148,
+                370
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. complete self-selected readings on animal systems and participate in class discussions to share what they have learned."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. work in small groups to illustrate the process of respiration."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. individually illustrate the process of the circulatory system for a homework assignment."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. prepare a small-group oral presentation to be shared with the class to describe the interaction between the respiratory and circulatory systems."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "e. dissect and label the respiratory and circulatory systems of a frog with a lab partner after the process has been modeled for the whole class by the instructor."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "f. write individual essays comparing and contrasting the structures and functions of the respiratory and circulatory systems of a frog."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "g. reflect upon and self-assess what they have learned about the structures and functions of the animal respiratory and circulatory systems."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                394,
+                471,
+                813
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                634,
+                99,
+                799,
+                119
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Observation by Mrs. Parker"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                497,
+                141,
+                824,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace asked Mrs. Parker to observe his class and document student participation, noting in particular any differences between male and female participation. Her notes follow:"
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                162,
+                933,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bell rings. Students enter lab talking rather loudly about the upcoming basketball game. One boy shoves past another and a seemingly friendly push-shove interaction results between the two young men. Several girls nearby duck out of the way of the skirmish."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                264,
+                933,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: Respect for each other, please, gentlemen. We have young ladies present whom we don't want to hurt. Watch yourselves."
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                405,
+                916,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tony: Oh, yeah. We don't want to hurt the young ladies."
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                486,
+                882,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Len: Ladies? Where are the ladies? I don't see any ladies."
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                525,
+                900,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Josephine (whines): Lenny!"
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                565,
+                759,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Len: Oh, sorry Jo-Jo. Just kidding, m'lady. (He flourishes a royal bow to her.)"
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                585,
+                911,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Students sit at their assigned seats with their lab partners. There are 12 mixed male-female groups and one group of two females."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                643,
+                925,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: Okay, let's get started. We have a lot to do. Today is dissection day!"
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                724,
+                925,
+                762
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dianne: Ugh! I'm going to be sick, Mr. Tenace."
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                764,
+                913,
+                782
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tonya: Do we have to do this? It's so gross."
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                785,
+                882,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Akim: We're gonna cut it open and squeeze its guts out. Ahhhh!"
+                    }
+                ]
+            },
+            "bbox": [
+                540,
+                803,
+                913,
+                842
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Giggles and conversations spring up around the room."
+                    }
+                ]
+            },
+            "bbox": [
+                538,
+                864,
+                909,
+                900
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                43,
+                679,
+                60
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "322"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                969,
+                104,
+                982
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: All right now. Let's go over the procedure. I'll demonstrate the process. Watch and learn."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                88,
+                464,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dianne: Can we just watch our lab partner do it? We don't have to actually touch it, do we?"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                150,
+                468,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: That's up to you and your partner. Everyone has to participate in some way, though. We can't have any slackers here."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                210,
+                473,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dianne: (turning to her male partner) Okay, you're in charge. Just wake me when it's over. I'll take notes. Gross."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                270,
+                464,
+                327
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                198,
+                366,
+                355,
+                386
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interview with a Female Student"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                66,
+                407,
+                434,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: Do you like science?"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                450,
+                366,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dianne: Mostly I like the classes when we're reading and talking about interesting stuff that relates to me or people in general. But I don't like labs. Mostly because I work with Jason and he just takes over. He's really interested in the experiments we do. And when we did the frog, I just let him go for it. I don't want him to think I'm vulgar and willing to cut up a frog. Girls aren't supposed to like that sort of stuff."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                468,
+                485,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: What if you had a female lab partner?"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                668,
+                429,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dianne: That would be interesting. I don't know. Maybe we'd work together better because it wouldn't be like the boy always trying to take over. One of us would have to do it. I kind of think if it were two girls as partners, they'd work together to split the work up."
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                709,
+                477,
+                849
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Document 4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                644,
+                92,
+                802,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interview with a Male Student"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                133,
+                855,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: Do you like science?"
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                174,
+                809,
+                192
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Len: Yeah, it's kind of cool. I like that we don't have to sit and listen all the time. We get to do things like the labs."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                194,
+                913,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: How do you and your partner, Dianne, work together?"
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                255,
+                889,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Len: She's a good speller and I'm not. So she does the writing and I do the hands-on stuff. She doesn't like to dissect frogs and stuff like that. You know, the typical girl. But we work well together."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                295,
+                917,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Tenace: What if you had a male partner?"
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                394,
+                901,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Len: Then who would do the writing? No, we definitely need to mix it up."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                414,
+                908,
+                452
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.2 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                472,
+                864,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. What are two strengths of Mr. Tenace's project plan? Describe how each of these strengths depicts effective aspects of planning. Base your response on what you know about planning instruction."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                494,
+                931,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. From what we know about his class based on the four documents, suggest two ways Mr. Tenace could try to equalize the roles of males and females in his science classes. Base your response on what you know about gender role development and gender biases."
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                593,
+                931,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Mr. Tenace's goal is to answer his two questions about gender and science. He has used classroom observations written by his colleague, and he has interviewed several students. Besides these methods, how else might Mr. Tenace find answers to his questions?"
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                713,
+                931,
+                831
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5–9"
+                    }
+                ]
+            },
+            "bbox": [
+                313,
+                35,
+                686,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "323"
+                    }
+                ]
+            },
+            "bbox": [
+                871,
+                962,
+                906,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                119,
+                98,
+                394,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                39,
+                141,
+                475,
+                323
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Kim"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                43,
+                343,
+                92,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is the beginning of the school year, and Ms. Lee is assessing all students' strengths and needs through various universal screening measures using a typical Response to Intervention model. She is also making observations and jotting down notes about students' behaviors and participation in a teaching log."
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                362,
+                475,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kim is a fifth grader in Ms. Lee's class. In her review of the anecdotal notes she has made of various students over the past two weeks, Ms. Lee has noted the following about Kim:"
+                    }
+                ]
+            },
+            "bbox": [
+                41,
+                484,
+                475,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9/9, 8:30 A.M. Upon entering room, Kim does not respond to classmates who call to her from across the room. She appears to hear them but does not respond. Eventually, they come over to Kim and talk with her at her desk. Then Kim responds to them."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                582,
+                461,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9/12, noon. During the class read-aloud time, the whole class was laughing and attentive except Kim. They all seem to be engaged in the book (Because of Winn-Dixie by Kate DiCamillo), but Kim just doesn't seem to be attentive. She seems to be mimicking others when they laugh or react rather than demonstrating authentic, personal emotions."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                703,
+                468,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9/18, 10 A.M. During literature circles time, I observed Kim's group. Kim's job was to be the Word Wizard. She was to record new, unusual vocabulary that stood out in the night's reading assignment. In her notes, she listed these words: except, especially, and independent. When asked why she chose those words, she said, “They were the biggest words I could find.” I need to re-teach the purpose of the role of the Word Wizard. Does she know these words or was she just confused about the directions? Further evaluation is needed."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                860,
+                464,
+                941
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                542,
+                98,
+                925,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ms. Lee is somewhat concerned about Kim's disorientation. She often appears on the fringes of the class, watching others rather than participating herself. She looks confused by expectations and directions, especially when they are given orally."
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                280,
+                936,
+                380
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.3 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                500,
+                400,
+                864,
+                419
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Based on what Ms. Lee has observed so far, in what areas should she begin assessing Kim? How should Ms. Lee proceed in assessing Kim's needs?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. After further assessment, Ms. Lee has determined that Kim would benefit from learning/listening strategies to help her be a more active listener. What are two listening strategies Ms. Lee could teach Kim?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Ms. Lee's school follows a typical Response to Intervention model. What is Response to Intervention? In your description, explain the three tiers of the model."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                421,
+                934,
+                676
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.4"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                578,
+                716,
+                851,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Directions: Read the following case history, then answer the three short-answer questions that follow. You are not expected to include citations of specific texts, authors, or theories in your responses. Your answers will be evaluated, however, based on your use of professionally accepted practices and principles in learning and teaching. Some questions have multiple parts, so be sure your response addresses all components of each question."
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                758,
+                933,
+                937
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                43,
+                681,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "324"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                966,
+                106,
+                980
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Vanderwerker"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                86,
+                276,
+                103
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Vanderwerker's sixth grade classroom is composed of 32 heterogeneously grouped students reading across a wide range of grade levels. He is developing a theme unit on Ancient Greece and its influence on Modern Civilization, and plans to build into his theme unit a number of meaningful activities that will provide necessary and appropriate resources and methods of instruction to engage all of his students."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                107,
+                489,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mr. Vanderwerker wants to ensure all of his students will read and comprehend the texts and other resources he provides; however, two of his students have been tested as reading at a second-grade level while several others are reading at a twelfth-grade reading level. These scores were acquired through individual assessment using an informal reading inventory. Mr. Vanderwerker knows that the most effective teachers change lessons, instructional techniques, and materials to fit the needs of their students. He is worried, however, about finding materials at the appropriate reading levels that will motivate his students and teach the content he needs to cover according to the state learning standards and the school's curriculum."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                268,
+                491,
+                545
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PLT Case History 5.4 Questions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                566,
+                422,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Describe one way Mr. Vanderwerker might differentiate his instruction so he can best meet the needs of students reading at various reading levels. Base your response on what you know about best practices in literacy instruction and the value of small-group instruction."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                586,
+                489,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Explain how Vygotsky's theory of the zone of proximal development (ZPD) might help to inform teachers about how to work with students in small groups.. Begin your response by defining ZPD."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                707,
+                491,
+                805
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Mr. Vanderwerker is worried about finding motivating resources at various reading levels that contain the content he must cover in the themed unit. What can he do to solve this problem?"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                807,
+                491,
+                908
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions I"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                545,
+                87,
+                904,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Mr. Fortuin is explaining an individual child's performance on a school-administered test to the child's parents. He explains that this particular test compares the child's performance to that of her classmates and other larger groups. It tells how well she did compared to her classmates on a given set of knowledge, but it does not indicate what information she does and does not know. The score will be given in a percentile, which was derived from raw scores obtained from testing a large population. The test Mr. Fortuin is describing is most likely"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                129,
+                933,
+                368
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. an aptitude test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. a criterion-referenced test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. a norm-referenced test."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. a standard-score test."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                370,
+                794,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. During Piaget's concrete operational stage, children"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                468,
+                897,
+                505
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. are egocentric thinkers who believe everyone thinks as they do."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. are able to handle abstract reasoning and understand hypothetical concepts."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. are not yet capable of concrete problem solving."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. begin to organize their thoughts and reason logically."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                509,
+                929,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Robert Gagne, an experimental psychologist, published The Conditions of Learning, which"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                688,
+                913,
+                727
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. outlined the relation of appropriate instructional designs to learning objectives."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. described the relation of child development to learning styles."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. defined the psychological strategies children must learn to be self-sufficient."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. are used widely by States to assess students' learning."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                729,
+                931,
+                888
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                315,
+                31,
+                688,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "325"
+                    }
+                ]
+            },
+            "bbox": [
+                876,
+                957,
+                911,
+                970
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. No Child Left Behind legislation"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                95,
+                350,
+                113
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. authorized and funded the Goals 2000 program."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. set national educational goals for U.S. students that were to be achieved by the year 2000."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. identified eight national goals, including that all children in the United States would start school ready to learn."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. supports standards-based education reform, which proposes setting high standards and establishing assessable goals will improve students' learning."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                117,
+                468,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. A writing approach designed for use at all grade levels, in which students have opportunities to choose writing topics and styles, and teachers and peers act as mentor authors and confer with students as they advance their ways through the writing process, is known as"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                373,
+                468,
+                492
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. writing with technology."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. guided writing."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. a writing workshop."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. individualized writing."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                494,
+                311,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Which of the following learning theories views learning as a process whereby learners build new ideas and concepts?"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                588,
+                464,
+                646
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. constructivism"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. behaviorism"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. cognitivism"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. naturalism"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                650,
+                233,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Accommodations"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                744,
+                233,
+                760
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. may lower the level of difficulty of a task so students with special needs may experience success."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. may offer alternative ways for students to share what they are learning with others."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. reduce the standards of achievement for the learner."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. must be made for all children with special needs."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                764,
+                462,
+                937
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. A school is seeking to use Title I funds to support a new literacy program at the grade five through grade nine levels. The school must investigate upon what research the new program is based. This is an example of"
+                    }
+                ]
+            },
+            "bbox": [
+                520,
+                95,
+                931,
+                196
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. due process."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. Section 504 of the Rehabilitation Services Act."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. using scientifically based research to make critical decisions about programming."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. legislation related to the Americans with Disabilities Act."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                200,
+                911,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. A classroom teacher is concerned about the varying skill levels and learning styles in his ninth grade classroom. To meet his students' needs, he plans to acquire materials across readability levels, present ideas orally and visually, and set up the classroom in interest centers that allow students to practice inquiry learning. These approaches are examples of"
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                358,
+                915,
+                517
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. learning theories."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. discriminatory practices."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. gender inequalities."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. differentiated instruction."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                519,
+                777,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. Mr. Bing's classroom is set up in problem-solving stations. Students move through the stations and use their prior knowledge to interact with the environment. They experiment, explore, and manipulate as they work their way through the stations with their classmates. This environment may best be described as"
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                617,
+                900,
+                773
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. discovery learning."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. skill and drill."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. service learning."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. antibias curriculum."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                542,
+                778,
+                732,
+                852
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                294,
+                41,
+                679,
+                56
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "326"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                964,
+                101,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. To best encourage students' divergent thinking, a teacher could ask"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                87,
+                484,
+                124
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. What might be another solution to this problem?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. How did the author solve the problem?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. What is a fraction?"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. When the settlers travelled across the nation, what did they pack in their wagons?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                128,
+                478,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Use the following concept map to answer question 12."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                268,
+                471,
+                287
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5a580639afcc84262e73bf08613518c59dcaa3c00a8d1bdbfc1e4676ca0bf294.jpg"
+                },
+                "content": "```mermaid\ngraph TD\n  A[\"animalia\"] --> B[\"The Six Kingdoms of Biology\"]\n  A --> C[\"plantae\"]\n  A --> D[\"archae\"]\n  A --> E[\"fungi\"]\n  A --> F[\"protista\"]\n  A --> G[\"bacteria\"]\n```",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "flowchart",
+            "bbox": [
+                68,
+                309,
+                485,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. When given a blank concept map and asked to complete it showing the six kingdoms of biology in a graphic way, a seventh grader completed the map as shown. From looking at the map, a teacher could safely assess that the student"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                686,
+                478,
+                803
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. does not understand the six kingdoms."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. does not understand the purpose of the concept map configuration."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. strayed off the topic."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. copied the information from another classmate or a book."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                807,
+                448,
+                924
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple-Choice Questions II"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                538,
+                87,
+                906,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Culturally responsive educators"
+                    }
+                ]
+            },
+            "bbox": [
+                535,
+                131,
+                808,
+                148
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. encourage children to set aside their own nationalities and take on those of the majority race."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. teach multiculturalism during a two-week themed unit of the school year."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. incorporate a variety of instructional approaches and strategies that recognize all learning styles."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. call on students of color to represent the feelings and experiences of the people of their heritage."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                558,
+                150,
+                920,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Which method is most likely to be used in a direct instruction approach to teaching?"
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                390,
+                901,
+                427
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. coaching a student how to do long division step-by-step in small increments through clear instruction"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. setting up learning centers and allowing students to flow from center to center throughout the morning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. teaching one student a skill and directing that student in how to teach the skill to his or her peers"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. students determining what they will learn by constructing questions of inquiry"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                558,
+                431,
+                919,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. A child tells the teacher that his mother was upset because he came home with a low grade on a math quiz the night before, and he blames the teacher for his low grade. What is the best way for the teacher to respond?"
+                    }
+                ]
+            },
+            "bbox": [
+                533,
+                668,
+                929,
+                766
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. \"It isn't my fault if you didn't study!\""
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. \"I don't blame your mother for being upset; it was a terrible grade.\""
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. \"So, what are you going to do to get a better grade on your next test?\""
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. \"How did you feel when your test grade upset your mother?\""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                769,
+                931,
+                908
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                313,
+                33,
+                686,
+                49
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "327"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                957,
+                908,
+                970
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. One thing that influences how much time a teacher should plan to spend teaching a lesson is"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                92,
+                466,
+                133
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the complexity of the concept."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the teacher's personal interest in the topic."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. students' interest in the topic."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. how much time is left in the class period."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                135,
+                453,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. An eighth grade boy refers to a classmate as a \"chick.\" What would be the best way to respond to this student?"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                234,
+                453,
+                292
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. ignore the comment, as he was just joking"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. demand he apologize to the classmate"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. have him write out all of the definitions of \"chick\" and substantiate his use of the word"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. ask him why he thinks some females might find the term offensive"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                295,
+                464,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Which of the following would most likely be the best way to motivate students to learn about history?"
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                434,
+                448,
+                492
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. let them use an inquiry approach to determine what they want to learn, how they want to learn it, and how they want to report what they've learned"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. have them write a report about American history using Microsoft Word"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. let them read books of their choice about the founders of America"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. let them research topics of their choice using Internet search engines"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                496,
+                457,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Maslow's hierarchy of needs portrays self-actualization as"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                92,
+                889,
+                131
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. the realization that we need water, food, air, and sleep to survive."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. the need for love and affection through friendships, romance, and family companionship."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. a person's desire for self-fulfillment, reflected through spontaneity, autonomy, and realism."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. knowing who we are and being satisfied with our self-worth."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                135,
+                925,
+                333
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Readers who read the title and main headings, glance through the pictures and graphics, and begin to form questions of what the text will be about before reading the text are activating valuable information. They are"
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                356,
+                929,
+                455
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. determining where the answers to the questions at the end of the chapter are."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. forming predictions of what the text will be about to increase their alertness to the text."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. deciding what information will be on the next test the teacher gives them."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. gathering information about the text so they can just skim the materials later."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                458,
+                929,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Through which type of thinking do we begin by detecting patterns in specific observations, then formulate tentative hypotheses and then conclusions?"
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                635,
+                913,
+                712
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. deductive"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. inductive"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. reasoning"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. inclusive"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                716,
+                650,
+                790
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                296,
+                38,
+                681,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "328"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                962,
+                103,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. In the teachers' faculty room, Ms. Curtain tells Mr. Bassett that one of her student's parents who happens to live down the street from her was just arrested for assaulting another neighbor. A conversation ensues in which she reveals other family interactions she has observed also. Is Ms. Curtain within her bounds to share this information with her colleagues? What should she do? Select the best choice."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                86,
+                485,
+                283
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. Ethically, because Ms. Curtain is the child's teacher, she should refrain from \"gossiping\" about the child's family. Nothing good can come from it."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. The incidents all occurred in public, so Ms. Curtain is not obligated by confidentiality rules in this case."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. Ms. Curtain is obligated to share everything she knows about her students to other teachers who may come in contact with the student."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. If in doubt, Ms. Curtain should talk with the building principal or other administrator to determine what information is confidential and what information may be helpful for school personnel to be aware of."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                287,
+                482,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questions 11 and 12 are based on the following passages regarding the debate about national versus state control of educational institutions and policies."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                626,
+                492,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Education should be controlled at the national level."
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                705,
+                399,
+                743
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There are fifty states in the United States. When the national government controls educational policies, all states are uniform. Families can move from state to state and hold the same expectations for the schools their children will attend. Central management at the national level creates predictability and conformity to the same standards and a universal curriculum across states. If states were to be the locus of"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                745,
+                487,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "control for school policy, inequalities would exist, making it unfair for some populations."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                86,
+                908,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Education should be controlled at the state level. People in a local community best know what the children in the area need as far as education is concerned. States should control school policies within their state because they understand what the school and students need better than the national government would. Funding stays local rather than going to another part of the country. It is too big an undertaking to try to control a whole nation of schools with any success."
+                    }
+                ]
+            },
+            "bbox": [
+                556,
+                145,
+                933,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. The author of the first passage would most likely agree that"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                386,
+                901,
+                423
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. states should set their own learning standards that are controlled by the national government."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. state taxes from New York should be used to support poor school districts in California."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. the national government should hold all schools to one set of learning standards."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. families should not be allowed to switch schools when they move from one state to another."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                426,
+                934,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. The second passage suggests that"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                645,
+                823,
+                663
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a. one state should have a say about how another state educates its children."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b. it is too big a job for the state to control the educational policies within its state."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c. children who move from state to state will not achieve the same caliber of education."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "d. state control takes into consideration the economic needs of a state."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                666,
+                926,
+                822
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRACTICE EXAM 5: PLT: GRADES 5-9"
+                    }
+                ]
+            },
+            "bbox": [
+                316,
+                31,
+                690,
+                47
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "329"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                958,
+                913,
+                970
+            ]
+        }
+    ]
+]

@@ -2,26 +2,20 @@
 import os
 import re
 
-from exam_formats import PRAXIS_READING, ExamFormat, question_number_safe_search
-from stage import Stage
+from dataclass_ import Stage
+from parse_evaluation.exam_formats import ExamFormat
 from tests.fixture._constants import mineruparsed
 
 
 def slice_mainbody(lines, is_start, is_end, *, default_start):
-    """切出文档主体的 [start, end) 行区间，供「题目主体」「答案主体」复用。
-
-    start：第一条 is_start(line) 命中的行；没命中则用 default_start
-    （题目主体取 0=文件头；答案主体取 len(lines)=空切片，没有答案区时）。
-    end：start 之后第一条 is_end(line) 命中的行；没命中则到文件尾。
-    再剥掉主体末尾的空行和孤立页码行（mineru 把页脚页码解析成单独一行，
-    否则会挂在最后一题/最后一条答案的尾部）。返回 (start, end) 下标。
-    """
+    """切出文档主体的 [start, end) 行区间。"""
     start = next((i for i, l in enumerate(lines) if is_start(l)), default_start)
     end = next((i for i in range(start, len(lines)) if is_end(lines[i])), len(lines))
     while end > start and (not lines[end - 1].strip()
                            or re.fullmatch(r'\s*\d+\s*', lines[end - 1])):
         end -= 1
     return start, end
+
 
 
 def _get_questions_mainbody(md_text, exam_format: ExamFormat):
@@ -39,13 +33,11 @@ def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     # 处理第一个题目没有Passage， 直接是 "1.{question}" 的情况：
     # 起点取「第一个 trigger 行」和「题号为 1 的题目行」中更早出现者
     def _is_mainbody_start(l):
-        if exam_format.matches_span_trigger(l):
+        if exam_format.is_question_span_line(l):
             return True
-        return question_number_safe_search(exam_format, l) == 1
+        return exam_format.get_possible_item_number(l) == 1
 
-    end_re = exam_format.mainbody_end_re
-    is_end = end_re.match if end_re is not None else (lambda l: False)
-    start, end = slice_mainbody(lines, _is_mainbody_start, is_end, default_start=0)
+    start, end = slice_mainbody(lines, _is_mainbody_start, exam_format.is_question_mainbody_end_line, default_start=0)
     return '\n'.join(lines[start:end]).strip() + '\n'
 
 

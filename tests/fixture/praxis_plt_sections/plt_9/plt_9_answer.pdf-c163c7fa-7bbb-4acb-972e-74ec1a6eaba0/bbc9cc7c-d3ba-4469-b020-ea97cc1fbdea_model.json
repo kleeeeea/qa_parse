@@ -1,0 +1,4918 @@
+[
+    [
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.414,
+                0.095,
+                0.873,
+                0.376
+            ],
+            "angle": 0,
+            "content": "31"
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.306,
+                0.428,
+                0.883,
+                0.632
+            ],
+            "angle": 0,
+            "content": "Answers and\nExplanations for PLT:\n7–12 Practice Test"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.518,
+                0.427,
+                0.781,
+                0.496
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.773,
+                0.436,
+                0.885,
+                0.49
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.281,
+                0.487,
+                0.893,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.365,
+                0.565,
+                0.894,
+                0.637
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.087,
+                0.075,
+                0.849,
+                0.098
+            ],
+            "angle": 0,
+            "content": "ANSWERS AND EXPLANATIONS FOR PLT: 7–12 PRACTICE TEST"
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.087,
+                0.102,
+                0.468,
+                0.119
+            ],
+            "angle": 0,
+            "content": "1. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.124,
+                0.847,
+                0.313
+            ],
+            "angle": 0,
+            "content": "Ms. Pirner needs to be creative and find strategies that will challenge and excite all students, even top performing students such as Jarrod. One way she can do that is to make each of the groups interdependent. She can give each student within the group an assigned role, and check to make sure each student fulfills their responsibilities. The roles will likely vary in the skills and abilities required; thus, students like Jarrod should be in the most challenging roles. Another possibility is to use a jigsaw cooperative learning approach. This could segment talented students like Jarrod to a group of his peers, where he is assigned the most challenging material. However, the approach requires that all students are brought together as one group. The challenge for the talented students will be that they need to convey their ideas in a way all students will understand; hopefully, they will also learn from the other students in the class.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.113,
+                0.318,
+                0.468,
+                0.335
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.34,
+                0.841,
+                0.46
+            ],
+            "angle": 0,
+            "content": "One way to keep students like Jarrod motivated is to ensure that each student has an independent challenge, such as a homework assignment, in addition to the group task. Therefore, students like Jarrod are not penalized by the poor work of other students. Another thing that Ms. Pirner could do is challenge the group to complete the task before the other groups. That way, students like Jarrod will have the proper incentive to participate. The challenge will be to design a task where one student alone cannot complete the task, so other students must learn as well.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.087,
+                0.465,
+                0.468,
+                0.482
+            ],
+            "angle": 0,
+            "content": "2. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.488,
+                0.851,
+                0.591
+            ],
+            "angle": 0,
+            "content": "For Jarrod, who is a bright, independent learner, he needs the opportunity to be continuously challenged, which will hopefully keep him more engaged with the class. Ms. Pirner could offer Jarrod a more sophisticated Science text, or material that focuses specifically on photosynthesis. Jarrod could be asked to review this material, then possibly present this information to the rest of the class. That would challenge Jarrod to think about the material in a more complex way, and find ways to communicate more effectively.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.596,
+                0.844,
+                0.716
+            ],
+            "angle": 0,
+            "content": "For Vince, Ms. Pirner might have a meeting with Vince to discuss his past year in Science—what went well, and what he struggles with. Ms. Pirner may also want to review the paperwork from last year to identify any patterns of weakness for Vince. This could lead to a set of strategies for Vince for the upcoming year. From the passage, we know that Vince struggles with “remembering details.” Thus, Ms. Pirner could task Vince with identifying the important concepts of Science, without focusing on the small details. This could engage Vince, build confidence, and assess his level of understanding.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.115,
+                0.72,
+                0.468,
+                0.737
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.743,
+                0.841,
+                0.827
+            ],
+            "angle": 0,
+            "content": "Jarrod needs to be given more detailed and challenging assignments. Ms. Pirner should take a look at the Plant Biology curriculum at a local college, and find out what they teach regarding photosynthesis. For Vince, he needs to be given more visual tools to learn the information. A graphic on how Photosynthesis works will motivate Vince and help him become a better learner.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.088,
+                0.833,
+                0.468,
+                0.85
+            ],
+            "angle": 0,
+            "content": "3. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.138,
+                0.855,
+                0.851,
+                0.924
+            ],
+            "angle": 0,
+            "content": "There are several aspects of Ron's behavior that suggest different hypotheses about his ability to learn. First, while he does not seem to display any specific behavioral problems, it is curious to note how disengaged he is from class. It is possible that he may have some emotional or behavioral disorder that prevents him from focusing on work. This could cause",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.03,
+                0.935,
+                0.06,
+                0.948
+            ],
+            "angle": 0,
+            "content": "408"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.09,
+                0.935,
+                0.246,
+                0.949
+            ],
+            "angle": 0,
+            "content": "CRACKING THE PRAXIS"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.083,
+                0.074,
+                0.852,
+                0.099
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.084,
+                0.1,
+                0.471,
+                0.121
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.085,
+                0.464,
+                0.47,
+                0.483
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.086,
+                0.831,
+                0.47,
+                0.851
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.122,
+                0.809,
+                0.141
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.14,
+                0.828,
+                0.158
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.155,
+                0.81,
+                0.179
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.176,
+                0.826,
+                0.192
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.192,
+                0.843,
+                0.21
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.209,
+                0.826,
+                0.228
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.227,
+                0.849,
+                0.245
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.243,
+                0.811,
+                0.262
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.262,
+                0.842,
+                0.279
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.278,
+                0.828,
+                0.297
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.296,
+                0.585,
+                0.314
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.112,
+                0.317,
+                0.47,
+                0.335
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.113,
+                0.719,
+                0.47,
+                0.737
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.339,
+                0.843,
+                0.359
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.357,
+                0.82,
+                0.375
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.136,
+                0.373,
+                0.81,
+                0.393
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.391,
+                0.798,
+                0.411
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.407,
+                0.807,
+                0.428
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.426,
+                0.809,
+                0.444
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.442,
+                0.593,
+                0.461
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.595,
+                0.785,
+                0.613
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.612,
+                0.841,
+                0.63
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.629,
+                0.826,
+                0.649
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.646,
+                0.824,
+                0.665
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.662,
+                0.821,
+                0.682
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.681,
+                0.846,
+                0.699
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.698,
+                0.732,
+                0.717
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.486,
+                0.78,
+                0.506
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.139,
+                0.504,
+                0.818,
+                0.523
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.141,
+                0.521,
+                0.816,
+                0.539
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.537,
+                0.853,
+                0.558
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.136,
+                0.553,
+                0.825,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.571,
+                0.851,
+                0.593
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.74,
+                0.841,
+                0.761
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.757,
+                0.803,
+                0.779
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.776,
+                0.842,
+                0.795
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.791,
+                0.839,
+                0.814
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.809,
+                0.34,
+                0.829
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.15,
+                0.852,
+                0.854,
+                0.874
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.87,
+                0.853,
+                0.892
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.886,
+                0.838,
+                0.909
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.903,
+                0.855,
+                0.927
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.026,
+                0.932,
+                0.063,
+                0.95
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.088,
+                0.934,
+                0.248,
+                0.95
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.082,
+                0.856,
+                0.151
+            ],
+            "angle": 0,
+            "content": "him to remove himself from what he sees as an unpleasant environment. Further, this is reinforced by the fact that he appeared hostile at times, such as his response to Ms. Pirner. It is possible that Ron suffers from “learned helplessness,” where he believes that anything he does will not help him.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.14,
+                0.155,
+                0.492,
+                0.173
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.178,
+                0.856,
+                0.28
+            ],
+            "angle": 0,
+            "content": "Ron seems very disengaged from the rest of the student body. Ron could be extremely shy and uncomfortable in social situations. It is possible that he has not developed the necessary social skills to fit in with his peers. Ms. Pirner should investigate to see if Ron has family problems at home that have contributed to his inability to get along with others. Further, he does not take notes in class, so it is possible that he could have a learning disorder.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.113,
+                0.285,
+                0.493,
+                0.303
+            ],
+            "angle": 0,
+            "content": "4. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.308,
+                0.879,
+                0.411
+            ],
+            "angle": 0,
+            "content": "Mr. Gregory could ask students to do research at the library on the Civil War. He could have students work independently, or in small groups to complete this task. Each group would pick a specific topic about the Civil War presented in the textbook, and look to build on that information by doing additional research. The group could then go back to the class and present this additional information. In the final assessment, the students would need to link what they learned from the textbook to what was found in the library.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.416,
+                0.871,
+                0.484
+            ],
+            "angle": 0,
+            "content": "An additional idea would be to ask students to find information about the Civil War on the Internet. This use of technology to help students access additional information would be useful, as students could then compare what has been learned in addition to the information presented in the text.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.14,
+                0.489,
+                0.493,
+                0.507
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.512,
+                0.872,
+                0.615
+            ],
+            "angle": 0,
+            "content": "One thing that Mr. Gregory could do is assign different roles of prominent figures of the Civil War to each student in the class. One student would be President Lincoln, one would be Robert E. Lee, one would be a slave in the South, etc. Each student would then have to do research on how they lived during that time, and would then present that information to the class. In addition to generating experience in public speaking, it would give students a detailed perspective on life during the Civil War.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.113,
+                0.619,
+                0.493,
+                0.637
+            ],
+            "angle": 0,
+            "content": "5. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.642,
+                0.88,
+                0.745
+            ],
+            "angle": 0,
+            "content": "Mr. Gregory could provide an outline of the text material prior to beginning his lecture. Therefore, students can have a quick reference of the topics that were covered in the text. When Mr. Gregory's lecture begins, students will be able to add notes on the additional material presented from their instructor. This will allow all students to identify what Mr. Gregory believes is important, and will help them tie information from two different sources together.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.75,
+                0.872,
+                0.819
+            ],
+            "angle": 0,
+            "content": "An additional strategy is to have Mr. Gregory stop at various times during his lecture, and ask students to identify where the information he just mentioned is referenced in the textbook. Students would then need to have their textbooks open, and could add notes to the text with the additional information provided from Mr. Gregory.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.14,
+                0.823,
+                0.493,
+                0.841
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.845,
+                0.88,
+                0.932
+            ],
+            "angle": 0,
+            "content": "Mr. Gregory should stop his lecture every time he presents something new, so that students will know for sure that they need to take notes on that part of his lecture. The downside of this is that students could be conditioned not to pay attention to the other parts of his lecture. If you are told every time there is new material, then you may not want to pay attention to the other parts of the lecture. One other thing he could do that may",
+            "merge_prev": false
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.473,
+                0.941,
+                0.892,
+                0.956
+            ],
+            "angle": 0,
+            "content": "ANSWERS AND EXPLANATIONS FOR PLT: 7-12 PRACTICE TEST"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.922,
+                0.942,
+                0.952,
+                0.954
+            ],
+            "angle": 0,
+            "content": "409"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.11,
+                0.284,
+                0.495,
+                0.305
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.11,
+                0.618,
+                0.495,
+                0.638
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.154,
+                0.494,
+                0.173
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.488,
+                0.494,
+                0.507
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.822,
+                0.495,
+                0.841
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.174,
+                0.306,
+                0.86,
+                0.326
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.323,
+                0.857,
+                0.346
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.341,
+                0.866,
+                0.361
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.358,
+                0.839,
+                0.378
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.376,
+                0.88,
+                0.395
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.391,
+                0.807,
+                0.414
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.176,
+                0.51,
+                0.873,
+                0.53
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.529,
+                0.864,
+                0.546
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.545,
+                0.868,
+                0.564
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.563,
+                0.863,
+                0.581
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.58,
+                0.874,
+                0.6
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.597,
+                0.553,
+                0.617
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.174,
+                0.64,
+                0.857,
+                0.66
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.658,
+                0.875,
+                0.677
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.674,
+                0.847,
+                0.695
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.693,
+                0.857,
+                0.711
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.71,
+                0.882,
+                0.729
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.16,
+                0.727,
+                0.245,
+                0.747
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.174,
+                0.413,
+                0.835,
+                0.434
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.433,
+                0.848,
+                0.452
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.45,
+                0.872,
+                0.468
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.467,
+                0.437,
+                0.486
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.172,
+                0.747,
+                0.865,
+                0.77
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.764,
+                0.873,
+                0.786
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.782,
+                0.875,
+                0.803
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.798,
+                0.696,
+                0.822
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.174,
+                0.842,
+                0.834,
+                0.865
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.861,
+                0.863,
+                0.881
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.878,
+                0.871,
+                0.898
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.896,
+                0.882,
+                0.916
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.912,
+                0.879,
+                0.933
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.919,
+                0.939,
+                0.954,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.079,
+                0.856,
+                0.101
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.097,
+                0.84,
+                0.119
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.112,
+                0.86,
+                0.136
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.133,
+                0.434,
+                0.152
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.174,
+                0.176,
+                0.856,
+                0.196
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.164,
+                0.194,
+                0.854,
+                0.213
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.212,
+                0.857,
+                0.231
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.227,
+                0.826,
+                0.248
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.245,
+                0.84,
+                0.265
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.264,
+                0.304,
+                0.282
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.47,
+                0.94,
+                0.895,
+                0.957
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.084,
+                0.831,
+                0.117
+            ],
+            "angle": 0,
+            "content": "be better would be to give page number references for the material that he discusses, so students can tie the two sources of information together.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.082,
+                0.122,
+                0.465,
+                0.14
+            ],
+            "angle": 0,
+            "content": "6. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.145,
+                0.83,
+                0.213
+            ],
+            "angle": 0,
+            "content": "Mr. Gregory seems to have plans for multiple forms of assessment in addition to one test. One item mentioned is the goal of building public speaking skills. He can assign students to a role of a prominent figure in the Civil War, and have students discuss their character and the hardships and joys they faced during the Civil War.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.218,
+                0.837,
+                0.303
+            ],
+            "angle": 0,
+            "content": "One additional strategy would be to give students a document which gives a different viewpoint on the Civil War. Students would then be asked to compare and contrast, either formally or informally, the other interpretations of the Civil War with the one found in this document. By doing this, he can determine how well students are able to work and think critically with different sources of information.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.11,
+                0.309,
+                0.463,
+                0.326
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.134,
+                0.331,
+                0.845,
+                0.451
+            ],
+            "angle": 0,
+            "content": "In addition to the formal assessment of a test, Mr. Gregory can give other assessment structures designed to show learning about the Civil War. He could list a few short quotations on the board. These quotations would be taken from the Civil War, and reflect a diverse set of opinions and comments from influential members. Next, he could ask students to explain how much they agree or disagree with each statement. This would challenge students to think about how the material has impacted them, and their views of the battle. This would help students improve their critical thinking skills.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.455,
+                0.844,
+                0.508
+            ],
+            "angle": 0,
+            "content": "7. B A grade-score equivalent shows that a student performs at a level equivalent to the average student of a certain grade. In Kathy's example, she performed as well as the average twelfth-grader in the fourth month of instruction would typically perform on the test.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.512,
+                0.825,
+                0.547
+            ],
+            "angle": 0,
+            "content": "8. B Discovery learning takes place where the learner draws on his own experience and prior knowledge to discover the truths that are to be learned.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.082,
+                0.551,
+                0.807,
+                0.586
+            ],
+            "angle": 0,
+            "content": "9. A criterion-referenced test is designed to test specific information. These tests are often created by teachers to review specific subject material.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.59,
+                0.825,
+                0.626
+            ],
+            "angle": 0,
+            "content": "10. D Immediate feedback is key to both diagnose any learning deficiencies, and to motivate a student properly. Lindsey will learn best when given continuous, positive reinforcement.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.629,
+                0.825,
+                0.699
+            ],
+            "angle": 0,
+            "content": "11. D Gardner's work on multiple intelligences suggests that students have different abilities and strengths, and different ways to learn. While (A) is too extreme (it is neither practical nor effective to try eight different approaches for each topic), the need to develop new approaches is endorsed by Gardner.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.703,
+                0.848,
+                0.739
+            ],
+            "angle": 0,
+            "content": "12. C The concept of a spiral curriculum is to constantly review and build on past results, in order to further the learning process.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.742,
+                0.827,
+                0.794
+            ],
+            "angle": 0,
+            "content": "13. C An objective should describe the actions that students are expected to do once instruction is complete. It should not describe what the teacher would do during the lesson. Answer choices (A) and (D) describe teacher actions, as does the second half of answer choice (B).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.798,
+                0.438,
+                0.816
+            ],
+            "angle": 0,
+            "content": "14. A Detention is often seen as punishment.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.82,
+                0.834,
+                0.924
+            ],
+            "angle": 0,
+            "content": "15. A We know from the information that George is capable of doing the work. Therefore, some strategy for supporting success in class participation and performance is necessary. Assigning work in small steps and providing immediate feedback allows George a greater sense of achievement, and more opportunity for positive feedback. This immediate feedback will also allow George's instructor to identify specific issues or skills that are giving him trouble.",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.025,
+                0.941,
+                0.054,
+                0.954
+            ],
+            "angle": 0,
+            "content": "410"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.084,
+                0.941,
+                0.24,
+                0.955
+            ],
+            "angle": 0,
+            "content": "CRACKING THE PRAXIS"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.509,
+                0.826,
+                0.533
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.136,
+                0.527,
+                0.568,
+                0.548
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.082,
+                0.587,
+                0.825,
+                0.61
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.605,
+                0.827,
+                0.627
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.08,
+                0.699,
+                0.851,
+                0.724
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.718,
+                0.38,
+                0.739
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.121,
+                0.468,
+                0.141
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.108,
+                0.307,
+                0.465,
+                0.326
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.082,
+                0.795,
+                0.439,
+                0.817
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.329,
+                0.844,
+                0.349
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.348,
+                0.785,
+                0.366
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.132,
+                0.364,
+                0.834,
+                0.383
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.132,
+                0.382,
+                0.802,
+                0.401
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.132,
+                0.398,
+                0.816,
+                0.418
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.417,
+                0.846,
+                0.435
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.132,
+                0.433,
+                0.704,
+                0.452
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.215,
+                0.826,
+                0.238
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.234,
+                0.838,
+                0.253
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.251,
+                0.838,
+                0.271
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.269,
+                0.828,
+                0.287
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.132,
+                0.286,
+                0.505,
+                0.305
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.022,
+                0.939,
+                0.057,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.083,
+                0.941,
+                0.242,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.142,
+                0.825,
+                0.163
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.16,
+                0.795,
+                0.181
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.177,
+                0.833,
+                0.196
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.194,
+                0.682,
+                0.214
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.081,
+                0.834,
+                0.102
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.098,
+                0.598,
+                0.119
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.452,
+                0.846,
+                0.476
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.469,
+                0.793,
+                0.494
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.486,
+                0.801,
+                0.51
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.08,
+                0.738,
+                0.83,
+                0.762
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.134,
+                0.755,
+                0.827,
+                0.78
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.773,
+                0.829,
+                0.797
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.079,
+                0.549,
+                0.809,
+                0.57
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.136,
+                0.567,
+                0.558,
+                0.587
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.081,
+                0.625,
+                0.819,
+                0.65
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.643,
+                0.826,
+                0.667
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.662,
+                0.804,
+                0.684
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.68,
+                0.421,
+                0.701
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.081,
+                0.817,
+                0.786,
+                0.84
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.836,
+                0.827,
+                0.858
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.853,
+                0.834,
+                0.874
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.137,
+                0.872,
+                0.781,
+                0.889
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.136,
+                0.886,
+                0.805,
+                0.908
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.135,
+                0.905,
+                0.293,
+                0.924
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.08,
+                0.806,
+                0.131
+            ],
+            "angle": 0,
+            "content": "16. B The zone of proximal development states that students have an ability to grasp new material that is closely aligned with prior material. In order to learn new concepts, assistance from teachers and other students may be necessary.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.136,
+                0.854,
+                0.205
+            ],
+            "angle": 0,
+            "content": "17. A This question relates to Maslow's theory of the hierarchy of needs. Maslow stated that there was a set hierarchy of needs, and that advanced needs (such as knowledge and understanding, fulfillment of one's potential) could only be possible once deficiency needs (such as shelter, food, love) are met. The statement closely aligns to Maslow's theories.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.21,
+                0.854,
+                0.28
+            ],
+            "angle": 0,
+            "content": "18. B A kinesthetic learner does best when he or she has an opportunity to \"learn by doing.\" A laboratory environment provides the opportunity for students to understand cell division by participating and seeing the results themselves. Students that learn in this fashion learn best by being active participants in the learning process.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.102,
+                0.284,
+                0.483,
+                0.302
+            ],
+            "angle": 0,
+            "content": "19. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.307,
+                0.865,
+                0.462
+            ],
+            "angle": 0,
+            "content": "Mr. Watson's project plan is strong because it requires each student to participate in the group activities. This ensures that each student will contribute something to the project. Further, this is reinforced in the assessment section with team grades for both the group work and the group presentation. This will help facilitate participation within the groups, and allows each individual to make a contribution. Secondly, Mr. Watson has linked activities to the assessment section in many ways. The group work discussed in activities 2 and 3 are assessed under Assessment 1, and the group presentation activity 4 is assessed under Assessment 2. With the goals, assignments, activities, and assessments closely linked, Mr. Watson is able to deliver an effective instructional plan.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.128,
+                0.467,
+                0.483,
+                0.484
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.489,
+                0.87,
+                0.593
+            ],
+            "angle": 0,
+            "content": "This project plan is strong, and demonstrates aspects of effective planning. A very important feature of Mr. Watson's plan is building on prior knowledge. He tells the students that they are going to use their background in mathematics to learn about consumer finance. By reviewing this information first, he provides the necessary backdrop to then move on to a new concept. By building on prior knowledge, students get a much better opportunity for success. This is definitely one strength of Mr. Watson's project plan.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.102,
+                0.597,
+                0.483,
+                0.614
+            ],
+            "angle": 0,
+            "content": "20. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.619,
+                0.865,
+                0.722
+            ],
+            "angle": 0,
+            "content": "First, while many aspects of the project plan are linked, there are a few gaps that Mr. Watson should address. Students are told that they will have an activity during the final session in which they will take a quiz, but that quiz is not a part of the assessment section. Does the quiz not count? My guess is that it does, and Mr. Watson should add that quiz as part of his overall assessment strategy. Each activity should be linked to the other parts of the project plan, including the assessment section.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.727,
+                0.854,
+                0.779
+            ],
+            "angle": 0,
+            "content": "Second, Mr. Watson could add some more details about the assessment section. For instance, he could provide the relative weight of each part of the assessment. This might encourage the students to include information that they might have otherwise left out.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.129,
+                0.784,
+                0.483,
+                0.801
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.806,
+                0.869,
+                0.909
+            ],
+            "angle": 0,
+            "content": "Mr. Watson needs to make sure that he links the assignments and activities sections with the assessment section. For example, he tells students that they will be evaluated based on the Excel spreadsheet they put together; however, there is no assignment that states that they will be asked to make an Excel spreadsheet. The same aspect is true with the quiz—it appears in the activities session, but is not part of the formal assessment. If he links these things up, he will have a more effective project plan.",
+            "merge_prev": false
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.463,
+                0.94,
+                0.882,
+                0.954
+            ],
+            "angle": 0,
+            "content": "ANSWERS AND EXPLANATIONS FOR PLT: 7–12 PRACTICE TEST"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.912,
+                0.94,
+                0.94,
+                0.954
+            ],
+            "angle": 0,
+            "content": "411"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.1,
+                0.282,
+                0.486,
+                0.303
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.1,
+                0.595,
+                0.486,
+                0.615
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.126,
+                0.466,
+                0.485,
+                0.484
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.127,
+                0.783,
+                0.485,
+                0.8
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.166,
+                0.486,
+                0.825,
+                0.508
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.505,
+                0.873,
+                0.524
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.522,
+                0.832,
+                0.542
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.539,
+                0.842,
+                0.558
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.557,
+                0.835,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.572,
+                0.819,
+                0.595
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.166,
+                0.617,
+                0.845,
+                0.637
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.633,
+                0.817,
+                0.654
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.652,
+                0.855,
+                0.672
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.669,
+                0.843,
+                0.687
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.687,
+                0.867,
+                0.706
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.703,
+                0.682,
+                0.723
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.166,
+                0.804,
+                0.848,
+                0.822
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.821,
+                0.847,
+                0.839
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.838,
+                0.856,
+                0.858
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.856,
+                0.87,
+                0.874
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.873,
+                0.872,
+                0.891
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.89,
+                0.672,
+                0.91
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.909,
+                0.937,
+                0.943,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.461,
+                0.939,
+                0.884,
+                0.955
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.099,
+                0.133,
+                0.827,
+                0.156
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.152,
+                0.815,
+                0.172
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.168,
+                0.857,
+                0.19
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.186,
+                0.827,
+                0.208
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.098,
+                0.206,
+                0.853,
+                0.232
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.225,
+                0.855,
+                0.248
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.243,
+                0.857,
+                0.264
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.258,
+                0.597,
+                0.283
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.1,
+                0.077,
+                0.807,
+                0.1
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.094,
+                0.798,
+                0.117
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.111,
+                0.639,
+                0.134
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.165,
+                0.305,
+                0.83,
+                0.325
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.323,
+                0.846,
+                0.342
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.339,
+                0.851,
+                0.359
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.358,
+                0.866,
+                0.377
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.373,
+                0.866,
+                0.394
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.393,
+                0.865,
+                0.409
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.409,
+                0.821,
+                0.428
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.426,
+                0.867,
+                0.445
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.444,
+                0.736,
+                0.463
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.168,
+                0.726,
+                0.848,
+                0.745
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.743,
+                0.856,
+                0.762
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.761,
+                0.854,
+                0.779
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.094,
+                0.084,
+                0.474,
+                0.101
+            ],
+            "angle": 0,
+            "content": "21. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.106,
+                0.861,
+                0.329
+            ],
+            "angle": 0,
+            "content": "Mr. Watson has several challenges teaching a class of seniors during the final weeks of school. A common behavior shown by students nearing the completion of their high school career is a lack of output on classroom assignments. With AP tests and college admissions complete, many students, even top students, do not have the same level of focus and discipline that they had earlier in the year. The desire to graduate, move forward, and begin the next chapter of their lives makes it challenging to focus on the current set of material. Many students indicate that they do not feel it is important, as their time in school is rapidly coming to a conclusion. Therefore, with traditional forms of measurement no longer effective, Mr. Watson needs to find other motivational tools to keep his class focused. Mr. Watson describes them as “lazy,” but they are likely lacking motivation. One way to curb this behavior is to appeal to the student’s pride—encouraging them to focus for a few more weeks, and to keep pushing towards a good grade because they should be proud of their prior accomplishments, and should work to impress themselves, not simply others.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.335,
+                0.858,
+                0.504
+            ],
+            "angle": 0,
+            "content": "A second behavior shown by students during this time is anxiety of the future. Students are about to enter a very new and unstructured phase of their lives. As a result, students may be distracted, focusing on the new aspects of their life (moving away from friends, moving to a new city, getting a job, etc.) instead of the current aspects of their life. Mr. Watson should embrace these issues, and build them into his curriculum and lesson planning. Mr. Watson could ask students to discuss what concerns they have about the next phase in their lives, and then build appropriate lessons around them. Mr. Watson employed this approach when he taught the lesson on credit card usage. Customized lessons designed to help students move forward will likely provide a stronger learning environment.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.123,
+                0.511,
+                0.473,
+                0.528
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.534,
+                0.854,
+                0.653
+            ],
+            "angle": 0,
+            "content": "This is going to be a tough class for Mr. Watson. First, he is teaching an elective course, which never seems to get the same level of attention as the core curricula classes. Second, at the end of the year, students just want to focus on leaving, and enjoying the summer. He could threaten them with the idea of failing. This would have serious consequences, as it could withhold them from graduation, and force them to take summer school. While it should be used as a last resort, it may provide the wake up call students need in order to get through the final few weeks of the year.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.097,
+                0.658,
+                0.473,
+                0.675
+            ],
+            "angle": 0,
+            "content": "22. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.681,
+                0.856,
+                0.816
+            ],
+            "angle": 0,
+            "content": "Mr. Foster should be rewarded for not caving to parental pressure in changing Kevin's grade. However, he could employ strategies to make the conversation more meaningful. Mr. Foster should review Kevin's work with his parents to help them identify the areas where he is struggling. This would help to make Kevin's parents an integrated part of the teacher-parent team. Further, it would allow Mr. Foster and Kevin's parents to have an objective discussion about the issues. By reviewing specific work, the conversation will focus on Kevin's learning issues, not outside issues like sports eligibility, or the grading of other teachers.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.149,
+                0.823,
+                0.85,
+                0.925
+            ],
+            "angle": 0,
+            "content": "A second strategy Mr. Foster could employ would be not taking the comments from Kevin's parents personally. While he initially showed good active listening techniques, it appears that Mr. Foster grew frustrated by the end of the conversation, and quickly cut it short. Mr. Foster should recognize that the comments are not directed specifically to him; even if they were, he needs to remain focused on the issues, which are Kevin's learning challenges. By staying objective, Mr. Foster can create good will with the parents.",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.036,
+                0.942,
+                0.066,
+                0.954
+            ],
+            "angle": 0,
+            "content": "412"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.097,
+                0.942,
+                0.251,
+                0.954
+            ],
+            "angle": 0,
+            "content": "CRACKING THE PRAXIS"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.082,
+                0.476,
+                0.102
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.119,
+                0.509,
+                0.475,
+                0.528
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.095,
+                0.656,
+                0.475,
+                0.676
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.679,
+                0.829,
+                0.698
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.697,
+                0.855,
+                0.715
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.713,
+                0.857,
+                0.733
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.731,
+                0.841,
+                0.749
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.748,
+                0.833,
+                0.768
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.765,
+                0.816,
+                0.784
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.782,
+                0.825,
+                0.801
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.801,
+                0.229,
+                0.818
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.531,
+                0.852,
+                0.552
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.549,
+                0.798,
+                0.568
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.565,
+                0.808,
+                0.588
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.584,
+                0.807,
+                0.602
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.601,
+                0.855,
+                0.62
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.618,
+                0.845,
+                0.637
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.635,
+                0.616,
+                0.655
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.033,
+                0.94,
+                0.07,
+                0.956
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.095,
+                0.941,
+                0.252,
+                0.954
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.158,
+                0.822,
+                0.818,
+                0.84
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.838,
+                0.823,
+                0.857
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.856,
+                0.841,
+                0.874
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.873,
+                0.839,
+                0.892
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.889,
+                0.85,
+                0.909
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.907,
+                0.784,
+                0.926
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.334,
+                0.859,
+                0.351
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.351,
+                0.855,
+                0.368
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.369,
+                0.831,
+                0.386
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.386,
+                0.834,
+                0.403
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.403,
+                0.805,
+                0.421
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.42,
+                0.838,
+                0.438
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.437,
+                0.819,
+                0.456
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.455,
+                0.815,
+                0.472
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.471,
+                0.814,
+                0.491
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.491,
+                0.253,
+                0.506
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.104,
+                0.838,
+                0.122
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.122,
+                0.847,
+                0.14
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.14,
+                0.863,
+                0.158
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.158,
+                0.813,
+                0.173
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.175,
+                0.852,
+                0.191
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.193,
+                0.852,
+                0.208
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.209,
+                0.824,
+                0.225
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.225,
+                0.851,
+                0.245
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.243,
+                0.847,
+                0.259
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.261,
+                0.862,
+                0.277
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.278,
+                0.829,
+                0.295
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.295,
+                0.829,
+                0.312
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.147,
+                0.312,
+                0.788,
+                0.331
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.131,
+                0.074,
+                0.485,
+                0.091
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.097,
+                0.859,
+                0.2
+            ],
+            "angle": 0,
+            "content": "Mr. Foster should bring the principal with him for this conversation to help back him up. It appears that he is being criticized for doing his job as a teacher. Sometimes, it is necessary to ask for administrative support to help a teacher stand strong on an issue, and this appears to be the case. Further, he should bring in other teachers to discuss Kevin's performance. Just because the English score is a D doesn't mean that he is doing well in other courses. This is clearly shown in his preliminary report in Document 1.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.104,
+                0.205,
+                0.486,
+                0.222
+            ],
+            "angle": 0,
+            "content": "23. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.227,
+                0.856,
+                0.348
+            ],
+            "angle": 0,
+            "content": "Kevin scored in the 37th percentile in the Reading section of the test. This means that he scored better than 37 percent of the students who took the test (and conversely, below 63 percent of students who completed the test). He compares unfavorably to the class median percentile of 61, which shows that students at his class level seem to be performing stronger than an average class. Finally, his grade-score equivalent is 9.1, meaning that his performance is below his expected level (10.2), and that his score is the equivalent to the average score of students in the first month of the ninth grade.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.353,
+                0.854,
+                0.473
+            ],
+            "angle": 0,
+            "content": "Kevin scored in the 23rd percentile in the Math section of the test. This means that he scored better than 23 percent of the students who took the test (and conversely, below 77 percent of students who completed the test). He compares unfavorably to the class median percentile of 74, which shows that students at his class level seem to be performing stronger than an average class. Finally, his grade-score equivalent is 8.3, meaning that his performance is far below his expected level (10.2), and that his score is the equivalent to the average score of students in the third month of the eighth grade.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.13,
+                0.478,
+                0.485,
+                0.495
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.501,
+                0.862,
+                0.603
+            ],
+            "angle": 0,
+            "content": "Kevin scored in the 37th percentile in Reading, and the 23rd percentile in Math, and finally in the 42nd percentile in Writing. So he performs the best in Writing, but he is below the 50th percentile in all areas. This should be reason for concern, as he is below in all categories, and he is below the class median for all subjects as well. It is interesting to note that he got more questions correct in Mathematics than in English, even though he got a lower percentile.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.104,
+                0.608,
+                0.485,
+                0.626
+            ],
+            "angle": 0,
+            "content": "24. Sample Response that Receives a Score of 2:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.631,
+                0.856,
+                0.733
+            ],
+            "angle": 0,
+            "content": "First, Mr. Foster needs to assess the prerequisite competencies that Kevin possesses. It appears that Kevin is struggling to perform well on his assignments. Before Mr. Foster can make a focused plan for Kevin, he needs to understand the baseline skills that Kevin has. This can be done by reviewing Kevin's work from last year, speaking with his teacher, and possibly giving another diagnostic test that will give detailed feedback on different skill sets.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.739,
+                0.854,
+                0.841
+            ],
+            "angle": 0,
+            "content": "A second strategy for Mr. Foster would be to interview Kevin to discuss what he enjoys about English, and where he struggles. Mr. Foster may learn specific items about how Kevin learns most effectively. As noted above, he often struggles turning in assignments. Mr. Foster needs to determine if this is due to a lack of effort or due to a lack of understanding certain aspects of the assignment. By setting clear expectations that Kevin understands, Mr. Foster will give him the best chance to succeed.",
+            "merge_prev": false
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.13,
+                0.847,
+                0.485,
+                0.864
+            ],
+            "angle": 0,
+            "content": "Sample Response that Receives a Score of 1:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.869,
+                0.856,
+                0.919
+            ],
+            "angle": 0,
+            "content": "Mr. Foster should have Kevin visit a learning specialist, to see if Kevin may be suffering from a learning disability. His poor performance is not limited to just English—it appears that he is struggling in all areas. By identifying any specific disabilities, Mr. Foster can",
+            "merge_prev": false
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.464,
+                0.934,
+                0.882,
+                0.948
+            ],
+            "angle": 0,
+            "content": "ANSWERS AND EXPLANATIONS FOR PLT: 7–12 PRACTICE TEST"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.912,
+                0.934,
+                0.942,
+                0.947
+            ],
+            "angle": 0,
+            "content": "413"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.203,
+                0.489,
+                0.223
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.606,
+                0.487,
+                0.627
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.128,
+                0.072,
+                0.487,
+                0.092
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.128,
+                0.476,
+                0.488,
+                0.495
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.128,
+                0.846,
+                0.487,
+                0.863
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.168,
+                0.226,
+                0.857,
+                0.244
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.243,
+                0.83,
+                0.263
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.26,
+                0.822,
+                0.279
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.279,
+                0.848,
+                0.297
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.295,
+                0.843,
+                0.315
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.313,
+                0.857,
+                0.331
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.151,
+                0.329,
+                0.801,
+                0.349
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.165,
+                0.094,
+                0.83,
+                0.115
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.112,
+                0.845,
+                0.133
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.129,
+                0.857,
+                0.151
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.147,
+                0.839,
+                0.167
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.163,
+                0.862,
+                0.186
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.18,
+                0.797,
+                0.202
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.165,
+                0.499,
+                0.83,
+                0.518
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.516,
+                0.864,
+                0.536
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.534,
+                0.832,
+                0.552
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.551,
+                0.842,
+                0.57
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.568,
+                0.857,
+                0.587
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.152,
+                0.587,
+                0.336,
+                0.603
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.168,
+                0.629,
+                0.859,
+                0.649
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.646,
+                0.857,
+                0.666
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.664,
+                0.853,
+                0.682
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.68,
+                0.847,
+                0.7
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.154,
+                0.698,
+                0.843,
+                0.717
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.153,
+                0.715,
+                0.238,
+                0.734
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.909,
+                0.932,
+                0.946,
+                0.948
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.169,
+                0.736,
+                0.855,
+                0.757
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.755,
+                0.828,
+                0.773
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.772,
+                0.855,
+                0.79
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.789,
+                0.793,
+                0.806
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.806,
+                0.839,
+                0.824
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.825,
+                0.715,
+                0.84
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.461,
+                0.933,
+                0.885,
+                0.949
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.165,
+                0.867,
+                0.854,
+                0.887
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.884,
+                0.857,
+                0.904
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.151,
+                0.9,
+                0.836,
+                0.921
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.169,
+                0.352,
+                0.838,
+                0.37
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.369,
+                0.832,
+                0.388
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.386,
+                0.848,
+                0.405
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.404,
+                0.843,
+                0.422
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.421,
+                0.823,
+                0.44
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.438,
+                0.855,
+                0.456
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.455,
+                0.845,
+                0.474
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.145,
+                0.077,
+                0.842,
+                0.129
+            ],
+            "angle": 0,
+            "content": "create a more focused learning plan that will meet Kevin's needs. Further, he should test Kevin to see where he performs well and where he struggles. For example, he could review the diagnostic results of the standardized test he recently completed.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.133,
+                0.856,
+                0.169
+            ],
+            "angle": 0,
+            "content": "25. A Cooperative learning involves students working together in groups to learn a concept, or to complete a task.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.172,
+                0.856,
+                0.243
+            ],
+            "angle": 0,
+            "content": "26. D Research on wait-time shows that the longer a teacher waits before calling on a student, the higher the level of participation, and the better the quality of responses. Answer choices (A) and (B) may lead to greater participation, but will not necessarily increase the quality of the response.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.246,
+                0.849,
+                0.333
+            ],
+            "angle": 0,
+            "content": "27. B Scaffolding is coaching or modeling to help students understand material until students develop these new skills and display confidence in their ability to handle the material without support. When the student achieves competence, the support is removed. The student continues to develop the skills or knowledge on his or her own. Answer choice (B) provides an example of scaffolding with new technology tools.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.337,
+                0.864,
+                0.442
+            ],
+            "angle": 0,
+            "content": "28. A You should be able to get to answer choice (A) by eliminating the other three answer choices. (B) and (D) use incorrect definitions for median and mode, respectively. We have no information to support (C). When the mean is higher than the median, it means that the strength of the performance of the students above the median outweighs the performance of those scoring below the median. In the example shown, several students must have scored quite high in order to raise the mean 200+ points above the median.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.445,
+                0.859,
+                0.498
+            ],
+            "angle": 0,
+            "content": "29. D In Madeline Hunter's \"seven step lesson plan,\" the class currently exhibits the stage of guided practice. The class is reviewing problems as a group, before attempting problems on their own. Answer Choice (C) relates to the homework assignment.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.501,
+                0.859,
+                0.572
+            ],
+            "angle": 0,
+            "content": "30. B Maslow believed that certain lower level needs must be met before higher level needs can be fulfilled. If Steven is having issues of safety, shelter, and avoidance of pain, it will be very difficult for him to learn self-confidence, and other traits necessary for strong academic performance.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.575,
+                0.854,
+                0.645
+            ],
+            "angle": 0,
+            "content": "31. C Students with ADHD tend to have difficulty with multiple transitions and frequent distractions. A consistent class schedule will help minimize the distractions. Answer choice (D) may seem correct; however, there should occasionally be different sets of rules, such as the amount of time allocated to complete an test.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.648,
+                0.854,
+                0.699
+            ],
+            "angle": 0,
+            "content": "32. D This is the final of four stages in Piaget's stages of cognitive development. Not all teenagers or adults will reach this stage, but for those that do, it tends to occur during early adulthood.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.704,
+                0.844,
+                0.74
+            ],
+            "angle": 0,
+            "content": "33. D This higher-order of thinking involves making value decisions about issues, as well as the development of opinions, judgments, or decisions.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.744,
+                0.856,
+                0.797
+            ],
+            "angle": 0,
+            "content": "34. C The constructivist approach is an approach to teaching and learning based on the premise that learning is the result of mental construction—students learn by fitting new information together with what they already know.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.8,
+                0.821,
+                0.851
+            ],
+            "angle": 0,
+            "content": "35. C This method, popularized by Slavin in 1995, uses the technique that all individuals will receive the same grade. This encourages team behavior to ensure that all members comprehend the material.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.856,
+                0.859,
+                0.926
+            ],
+            "angle": 0,
+            "content": "36. C We know that Keith is a normally strong student, which makes answer choices (A), (B), and (D) less likely. C provides a plausible explanation. Thus far, Keith has only read the speech. If he were to hear it, and he is a strong auditory learner, he may be able to perform better on the assignment.",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.038,
+                0.936,
+                0.068,
+                0.948
+            ],
+            "angle": 0,
+            "content": "414"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.097,
+                0.935,
+                0.254,
+                0.949
+            ],
+            "angle": 0,
+            "content": "CRACKING THE PRAXIS"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.093,
+                0.131,
+                0.859,
+                0.153
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.15,
+                0.278,
+                0.168
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.702,
+                0.847,
+                0.724
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.72,
+                0.543,
+                0.741
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.096,
+                0.935,
+                0.255,
+                0.95
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.442,
+                0.826,
+                0.466
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.461,
+                0.861,
+                0.483
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.476,
+                0.673,
+                0.5
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.644,
+                0.783,
+                0.669
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.664,
+                0.854,
+                0.686
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.681,
+                0.241,
+                0.7
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.74,
+                0.851,
+                0.765
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.758,
+                0.858,
+                0.78
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.775,
+                0.455,
+                0.798
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.093,
+                0.171,
+                0.857,
+                0.192
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.188,
+                0.857,
+                0.209
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.204,
+                0.859,
+                0.228
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.225,
+                0.229,
+                0.245
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.245,
+                0.833,
+                0.265
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.263,
+                0.813,
+                0.282
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.28,
+                0.82,
+                0.3
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.296,
+                0.85,
+                0.318
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.314,
+                0.635,
+                0.334
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.498,
+                0.847,
+                0.522
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.146,
+                0.514,
+                0.861,
+                0.54
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.532,
+                0.826,
+                0.556
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.552,
+                0.26,
+                0.573
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.572,
+                0.797,
+                0.595
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.589,
+                0.856,
+                0.613
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.607,
+                0.855,
+                0.63
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.626,
+                0.53,
+                0.645
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.852,
+                0.862,
+                0.879
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.871,
+                0.857,
+                0.894
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.886,
+                0.862,
+                0.912
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.904,
+                0.278,
+                0.929
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.094,
+                0.335,
+                0.805,
+                0.356
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.354,
+                0.841,
+                0.373
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.37,
+                0.856,
+                0.391
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.388,
+                0.865,
+                0.408
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.405,
+                0.854,
+                0.425
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.423,
+                0.674,
+                0.442
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.092,
+                0.796,
+                0.795,
+                0.82
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.814,
+                0.823,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.149,
+                0.834,
+                0.353,
+                0.852
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.145,
+                0.076,
+                0.845,
+                0.096
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.148,
+                0.094,
+                0.839,
+                0.113
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.144,
+                0.111,
+                0.709,
+                0.129
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.035,
+                0.934,
+                0.07,
+                0.949
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

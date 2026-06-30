@@ -20,7 +20,9 @@ sample_record = {
 
 # define the data class that enforce the above field, and define a serialize method that output list of records to jsonl file
 
+import csv
 import json
+import os
 from dataclasses import dataclass, asdict, fields
 from typing import Any, Iterable
 
@@ -56,13 +58,28 @@ class EvaluationRecord:
     @classmethod
     def serialize_to_jsonl(cls, records: Iterable["EvaluationRecord"], path: str) -> int:
         """Write records to a jsonl file (one JSON object per line). Returns count."""
-        count = 0
+        # materialize so we can iterate twice (jsonl + csv)
+        records = list(records)
         with open(path, "w", encoding="utf-8") as f:
             for record in records:
                 f.write(json.dumps(record.to_dict(), ensure_ascii=False))
                 f.write("\n")
-                count += 1
-        return count
+
+        # also export the csv using the same filename, with suffix csv
+        csv_path = os.path.splitext(path)[0] + ".csv"
+        fieldnames = [f.name for f in fields(cls)]
+        with open(csv_path, "w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            for record in records:
+                row = record.to_dict()
+                # options is a dict; flatten to a JSON string for CSV
+                if row.get("options") is not None:
+                    row["options"] = json.dumps(row["options"], ensure_ascii=False)
+                writer.writerow(row)
+
+        return len(records)
+
 
 
 if __name__ == "__main__":

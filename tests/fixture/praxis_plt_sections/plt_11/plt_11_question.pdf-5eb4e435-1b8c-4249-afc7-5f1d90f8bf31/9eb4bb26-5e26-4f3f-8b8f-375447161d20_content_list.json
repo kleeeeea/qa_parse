@@ -1,0 +1,1434 @@
+[
+    {
+        "type": "text",
+        "text": "PRACTICE: PLT GRADES K-6",
+        "text_level": 2,
+        "bbox": [
+            56,
+            92,
+            404,
+            113
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Directions: For selected-response questions 1–25, choose the response that best answers the question or completes the statement. Then follow the directions provided for constructed-response questions 1–2.",
+        "bbox": [
+            65,
+            122,
+            906,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Ms. Sanchez, a sixth-grade teacher, wants to effectively manage and accommodate students from varying cultures while supporting their development of English language skills. Which of the following strategies would best support that goal?",
+        "bbox": [
+            58,
+            179,
+            475,
+            283
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Instruct students not to speak their native language while completing classroom tasks.",
+            "B. Set up daily cooperative learning activities with mixed groups of boys and girls.",
+            "C. Allow students to communicate understanding through writing, drawing, or speaking.",
+            "D. Support English language learners by correcting most errors in their speech so that they learn faster."
+        ],
+        "bbox": [
+            100,
+            288,
+            473,
+            490
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Ms. Lane, a second-grade teacher, notices that many of her pupils come to class with their homework incomplete. Ms. Lane plans an activity in which her students will fill out an after-school schedule, detailing tasks to be done at half-hour intervals from 3:30 until 9:00 PM each day of the school week. The activity described promotes which of the following capabilities in Ms. Lane's students?",
+        "bbox": [
+            58,
+            521,
+            464,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Awareness of consequences",
+            "B. Risk-taking behavior",
+            "C. Self-regulation",
+            "D. Pro-social behavior"
+        ],
+        "bbox": [
+            100,
+            683,
+            358,
+            761
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. A kindergarten teacher is concerned with helping students make positive progress through the “initiative versus guilt” stage of development, as described by Erikson. Which of the following activities would most likely help students meet the goals associated with this stage of development?",
+        "bbox": [
+            513,
+            176,
+            932,
+            298
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Students memorize a poem and recite it in front of the class.",
+            "B. Students engage in independent play each day.",
+            "C. Students watch a cartoon and discuss it together.",
+            "D. Students play a supervised game together."
+        ],
+        "bbox": [
+            557,
+            304,
+            934,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. In Ms. Dickerson's sixth-grade French class, some students are successfully writing letters in French, while other students labor to write even a single sentence. Previous test results indicate these students have a similar level of French vocabulary knowledge. How could Ms. Dickerson use Vygotsky's zone of proximal development theory to help all students write paragraphs more successfully?",
+        "bbox": [
+            513,
+            469,
+            926,
+            625
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. The class could write a paragraph together, then write in small groups, then write individually.",
+            "B. Students could write paragraphs in English, and then translate them into French.",
+            "C. The teacher could show examples of well-written paragraphs in French for students to model.",
+            "D. Students could write paragraphs in French about events occurring in their own lives."
+        ],
+        "bbox": [
+            557,
+            631,
+            934,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "I",
+        "bbox": [
+            29,
+            15,
+            71,
+            44
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Section Two",
+        "bbox": [
+            98,
+            17,
+            184,
+            29
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "PRAXIS: Principles of Learning and Teaching",
+        "bbox": [
+            98,
+            32,
+            400,
+            48
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "220",
+        "bbox": [
+            31,
+            945,
+            60,
+            957
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5. Luz, a student in Mr. Lipnicki's classroom, typically completes in-class assignments very quickly. Her answers are usually correct and are well written. After she has finished her work, she often tries to strike up conversations with students who are still working on their own assignments. On occasion, she also loudly complains that the work in class is \"boring.\"",
+        "bbox": [
+            56,
+            84,
+            482,
+            240
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Which of the following would be an appropriate strategy for Mr. Lipnicki to use in light of Luz's pattern of disruptive behavior?",
+        "bbox": [
+            100,
+            249,
+            475,
+            302
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Refer Luz to a school administrator for disciplinary measures.",
+            "B. Create a reward structure in which students can win prizes like candy and toys for sitting quietly after all of their work is completed.",
+            "C. Tell the other students in Luz's class that they are encouraging her misbehavior when they respond to the things she says and advise them to ignore her.",
+            "D. Create appealing and intellectually challenging lesson-related “bonus activities” for students who finish work early."
+        ],
+        "bbox": [
+            100,
+            308,
+            469,
+            563
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. In Mr. Hill's sixth-grade social studies class, students are asked to reflect on their learning over the past unit. They are provided with a reflection form that gives them the opportunity to describe in writing those learning activities that helped them and those that did not. Students are also asked to infer what this information reveals about their own learning styles and preferences.",
+        "bbox": [
+            56,
+            594,
+            475,
+            751
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This strategy encourages the complex cognitive process of",
+        "bbox": [
+            100,
+            759,
+            409,
+            794
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. problem solving",
+            "B. concept learning",
+            "C. transfer",
+            "D. metacognition"
+        ],
+        "bbox": [
+            100,
+            802,
+            274,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Ms. Ngo, a first-grade teacher, is teaching comparison word problems during math time in a classroom that includes several English language learners (ELLs). She uses several practices proven effective to help the ELLs, one of which is below.",
+        "bbox": [
+            522,
+            88,
+            937,
+            189
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Choose the effective strategy.",
+        "bbox": [
+            564,
+            200,
+            802,
+            218
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Exempt ELLs from word problems, having them focus instead on number comparisons.",
+            "B. Have ELLs work on addition with pictures while the rest of the class does word problems.",
+            "C. Have ELLs read the problems aloud to the class to make sure they understand the words.",
+            "D. Make sure the comparison word problems incorporate multicultural references."
+        ],
+        "bbox": [
+            564,
+            225,
+            939,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Mr. Ramirez is beginning a unit on the American Revolution with his sixth-grade social studies class. He first conducts a preassessment to determine students' understanding of the term \"revolution\" and its significance in the historical development of nations. With the results, Mr. Ramirez then plans instruction that begins just one step beyond the overall level of understanding of his students to ensure comprehension.",
+        "bbox": [
+            522,
+            457,
+            934,
+            630
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The strategy described above most closely reflects an application of which of the following learning theories?",
+        "bbox": [
+            564,
+            637,
+            904,
+            689
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. B. F. Skinner's classical conditioning",
+            "B. Lev Vygotsky's zone of proximal development",
+            "C. Jerome Bruner's constructivist theory of learning",
+            "D. Benjamin Bloom's taxonomy"
+        ],
+        "bbox": [
+            564,
+            697,
+            923,
+            812
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Chapter Four",
+        "bbox": [
+            809,
+            13,
+            899,
+            27
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Review of the Principles of Learning and Teaching (PLT) Test",
+        "bbox": [
+            491,
+            27,
+            899,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            928,
+            11,
+            970,
+            42
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "221",
+        "bbox": [
+            939,
+            949,
+            968,
+            961
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. Mr. Marsh's fifth-grade class is studying the wildlife of Australia. During one technology-aided class discussion, Mr. Marsh brings up an image of a platypus—a duck-billed, beavertailed, otter-footed monotreme—guarding several of its own eggs. He tells his students, \"This venomous mammal is one of the oddest creatures on earth. What are some things about it that are strange?\" Several students raise their hands. Mr. Marsh calls on a student named Olive, who answers: \"It has fur.\"",
+        "bbox": [
+            62,
+            93,
+            478,
+            283
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Which of the following is the most constructive way for Mr. Marsh to respond to Olive's answer?",
+        "bbox": [
+            106,
+            290,
+            473,
+            341
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. \"You've never seen a mammal with fur before? Have you ever seen a dog or a cat?\"",
+            "B. \"Olive, why is it strange for an egg-laying, duck-billed creature to have fur?\"",
+            "C. \"No. Does someone else want to try?\"",
+            "D. \"Fur isn't really one of the strange features of the platypus, but that was a good guess, and I value your participation.\""
+        ],
+        "bbox": [
+            107,
+            349,
+            477,
+            515
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Which of the following approaches most effectively reinforces students' self-regulatory skills while assisting the teacher in communicating information about student progress to parents and other caregivers?",
+        "bbox": [
+            65,
+            546,
+            473,
+            633
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. The teacher establishes a system in which students know that any test grade of F or A+ will result automatically in the teacher placing a phone call to the student's parents.",
+            "B. The teacher instructs students to regularly update their parents about their performance in school, as well as about upcoming projects and other major assignments.",
+            "C. Two times during each grading period, students write “progress letters” to their parents identifying recent successes and areas for future improvement.",
+            "D. The teacher requests that parents tether positive and negative incentives at home to students' academic performance and behavior in the classroom."
+        ],
+        "bbox": [
+            107,
+            639,
+            480,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. Which of the following lesson plan excerpts includes observable and measurable educational objectives?",
+        "bbox": [
+            522,
+            91,
+            921,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. By the end of the lesson, students will be able to describe the difference between a whole note and a half note and demonstrate the difference through rhythmic clapping.",
+            "B. By the end of the lesson, students will grasp the fundamentals of badminton and develop an appreciation of the importance of fair play and good ethics on the court.",
+            "C. By the end of the lesson, students will understand literary symbolism.",
+            "D. By the end of the lesson, students will be able to pass a multiple-choice test on the makeup of plant cells."
+        ],
+        "bbox": [
+            564,
+            151,
+            941,
+            403
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. An earthquake occurs outside a small community. When students arrive at school the following day, they begin to ask their teacher all types of questions. Though the subject is not part of the lesson plan, the teacher uses this opportunity to teach the students about the causes of earthquakes.",
+        "bbox": [
+            522,
+            435,
+            919,
+            556
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What is the situation described above an example of?",
+        "bbox": [
+            564,
+            563,
+            893,
+            598
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Off-task behavior",
+            "B. Storytelling",
+            "C. Socratic questioning technique",
+            "D. Teachable moment"
+        ],
+        "bbox": [
+            564,
+            605,
+            851,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            34,
+            18,
+            74,
+            47
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Section Two",
+        "bbox": [
+            104,
+            19,
+            190,
+            32
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "PRAXIS: Principles of Learning and Teaching",
+        "bbox": [
+            104,
+            35,
+            405,
+            50
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "222",
+        "bbox": [
+            36,
+            949,
+            67,
+            961
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. During oral presentations in his fifth-grade history class, Mr. Elliot noticed that many students were not listening to their classmates. Which technique could Mr. Elliot use that would be most likely to increase attentiveness for the presentations he has planned after the next unit?",
+        "bbox": [
+            58,
+            81,
+            482,
+            203
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. After the presentations, give a surprise quiz on what the presenters said.",
+        "bbox": [
+            102,
+            213,
+            453,
+            246
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Sit in the front of the room to remind students that he is watching them.",
+        "bbox": [
+            102,
+            251,
+            444,
+            286
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C. Create a new classroom rule that insists that students be polite to the speakers.",
+        "bbox": [
+            102,
+            291,
+            460,
+            324
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D. Give students a graphic organizer to take notes during the subsequent presentations.",
+        "bbox": [
+            102,
+            329,
+            429,
+            379
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. After several lessons in which Ms. Derringer taught her math class how to do long division using the method presented in their textbooks, some students in the class are struggling with similar problems. Which of these strategies would most likely help the students succeed in mastering this skill?",
+        "bbox": [
+            60,
+            412,
+            469,
+            534
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Ms. Derringer could use data from newspaper articles to explain to students the importance of math skills like long division in many jobs.",
+        "bbox": [
+            102,
+            542,
+            469,
+            610
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Ms. Derringer could find research-supported strategies from education research journals, model their use, and have students practice using these strategies.",
+        "bbox": [
+            102,
+            614,
+            449,
+            700
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C. Ms. Derringer could obtain video clips of mathematicians demonstrating the steps of long division and have the whole class watch these clips.",
+        "bbox": [
+            102,
+            705,
+            475,
+            773
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D. Ms. Derringer could obtain additional long division problems from websites designed for math teachers and use these questions as needed for extra practice.",
+        "bbox": [
+            102,
+            778,
+            471,
+            846
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. Allowing “wait time” for student thinking, helping students reshape or sharpen verbal explanations, and establishing a noncritical classroom environment are all important aspects of",
+        "bbox": [
+            524,
+            85,
+            917,
+            172
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. written assessment",
+        "bbox": [
+            566,
+            182,
+            756,
+            196
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. instructional objective setting",
+        "bbox": [
+            566,
+            203,
+            842,
+            220
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C. IEP development",
+        "bbox": [
+            566,
+            224,
+            744,
+            240
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D. effective questioning",
+        "bbox": [
+            566,
+            245,
+            769,
+            262
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. A school with a fine arts emphasis wishes to enroll students who have the potential to excel in musical studies. The admissions director plans to use a test to help identify students with strong musical potential. Which choice below serves as the best example of a test designed to measure what the student is capable of accomplishing musically?",
+        "bbox": [
+            524,
+            294,
+            939,
+            432
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Ability test",
+        "bbox": [
+            566,
+            439,
+            692,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Achievement test",
+        "bbox": [
+            566,
+            461,
+            742,
+            474
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C. Aptitude test",
+        "bbox": [
+            566,
+            482,
+            707,
+            497
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D. Selected-response test",
+        "bbox": [
+            566,
+            503,
+            780,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Chapter Four",
+        "bbox": [
+            811,
+            11,
+            901,
+            25
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Review of the Principles of Learning and Teaching (PLT) Test",
+        "bbox": [
+            495,
+            27,
+            901,
+            42
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            930,
+            11,
+            970,
+            40
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "223",
+        "bbox": [
+            941,
+            948,
+            970,
+            959
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. Ms. Le, an eighth-grade natural sciences teacher, instructs each student in her class to write a short essay explaining a biological process. When the students have handed in the essays, she breaks the class into pairs for “two stars and a wish” reviews. Each member of a pair reads the other’s essay and awards a “star” to two sentences in the essay that are especially clear and interesting. Each student also expresses a “wish” to better understand some idea discussed in the peer’s essay.",
+        "bbox": [
+            58,
+            89,
+            466,
+            279
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Which of the following is the best rationale for peer assessment processes such as Ms. Le's?",
+        "bbox": [
+            102,
+            286,
+            478,
+            321
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Peer assessments lessen the need for teacher-created feedback, giving teachers more time to focus on lesson planning.",
+            "B. Peer assessments can help students think more deeply about their weaknesses as writers.",
+            "C. Peer assessments can create opportunities for writers to receive and consider a variety of viewpoints and solutions.",
+            "D. Peer assessments give students time to talk to one another, providing a break from listening to the teacher."
+        ],
+        "bbox": [
+            102,
+            329,
+            469,
+            544
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Which of the following scores would best indicate whether a student has developed the content knowledge and mastery deemed appropriate to the student's age?",
+        "bbox": [
+            60,
+            565,
+            458,
+            634
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Stanine",
+            "B. Raw score",
+            "C. Grade-level equivalent",
+            "D. Percentile rank"
+        ],
+        "bbox": [
+            102,
+            642,
+            319,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. Which of the following types of scores results from statistically adjusting a raw score on a standardized test to account for discrepancies on different versions of the standardized test?",
+        "bbox": [
+            517,
+            88,
+            930,
+            156
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Age-equivalent score",
+            "B. Scaled score",
+            "C. Percentile score",
+            "D. Grade-equivalent score"
+        ],
+        "bbox": [
+            559,
+            166,
+            784,
+            246
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. Ms. Marylebone's fifth-grade class recently took the Idaho Test of Basic Skills, which is consistently administered to fifth graders. As she surveys the results of the reading exam, she notices that one of her students performed at the 24th percentile in reading. Which of the following inferences can Ms. Marylebone make from these results?",
+        "bbox": [
+            515,
+            278,
+            937,
+            414
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Either Ms. Marylebone or the student's previous teacher did not teach reading in the most effective possible way.",
+            "B. Ms. Marylebone's student did not perform as well on the assessment as would a typical fifth grader.",
+            "C. Ms. Marylebone's student performed at a grade-appropriate level on the exam.",
+            "D. Ms. Marylebone's student performed better than most fifth-grade students on the exam."
+        ],
+        "bbox": [
+            559,
+            423,
+            934,
+            622
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            29,
+            14,
+            71,
+            44
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Section Two",
+        "bbox": [
+            100,
+            15,
+            186,
+            27
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "PRAXIS: Principles of Learning and Teaching",
+        "bbox": [
+            100,
+            31,
+            402,
+            47
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "224",
+        "bbox": [
+            32,
+            945,
+            63,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "21. A number of teachers at a certain public school have noticed an increase in classroom distractions and honor code infractions, and they have concluded that these incidents are related to students' inappropriate dress choices. In addition, the teachers have become convinced that the wide disparity in the value of clothing worn by students is contributing to class divisions among students at the school. After informal discussion, and with the blessing of district administrators, these teachers have decided to advocate for the implementation of a district-wide school uniform program.",
+        "bbox": [
+            56,
+            85,
+            482,
+            329
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Which of the following would be the most appropriate and productive next step for the teachers to take?",
+        "bbox": [
+            104,
+            337,
+            466,
+            389
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Share their concerns and proposal with parents of the district's students and solicit and listen to the parents' ideas.",
+            "B. Jointly sign a petition requesting that the school board institute a program mandating school uniforms.",
+            "C. Begin to lead students by example by more carefully coordinating their own clothing choices.",
+            "D. Notify parents by email that they may soon be required to purchase uniforms for students in the district."
+        ],
+        "bbox": [
+            104,
+            398,
+            484,
+            614
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. Which support personnel would most likely be responsible for coordinating services for a child who felt unsafe at home?",
+        "bbox": [
+            522,
+            88,
+            930,
+            139
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Guidance counselor",
+            "B. Assistant principal",
+            "C. IEP team leader",
+            "D. Occupational therapist"
+        ],
+        "bbox": [
+            566,
+            149,
+            787,
+            230
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Which of the following actions would best support a teacher seeking to deepen social studies content knowledge?",
+        "bbox": [
+            524,
+            261,
+            910,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Peruse the blog posts of teachers working on similar content.",
+            "B. Read historical works set in the period during which the class's next unit takes place.",
+            "C. Join a national organization of history teachers.",
+            "D. Search for and watch video reenactments of historical events online."
+        ],
+        "bbox": [
+            566,
+            321,
+            934,
+            486
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Chapter Four",
+        "bbox": [
+            809,
+            13,
+            899,
+            27
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Review of the Principles of Learning and Teaching (PLT) Test",
+        "bbox": [
+            493,
+            29,
+            899,
+            44
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            928,
+            13,
+            970,
+            42
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "225",
+        "bbox": [
+            943,
+            949,
+            974,
+            961
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. A schoolteacher in a geographically isolated rural community wants to obtain a broad range of perspectives on lesson planning and classroom management problems on a daily basis. Which of the following professional resources would be most helpful for this purpose?",
+        "bbox": [
+            58,
+            91,
+            466,
+            212
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. A conference on behaviorist-oriented classroom management strategies",
+            "B. Education-focused, news-aggregating web applications such as Google Reader",
+            "C. A series of one-on-one meetings with a more experienced teacher of the same grade level at the same school",
+            "D. Online educator forums and study groups"
+        ],
+        "bbox": [
+            102,
+            220,
+            477,
+            370
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Mr. Quizar has just concluded a particularly trying day in his third-grade classroom. Throughout the afternoon, the behavior of a number of students was disruptive and provocative, and Mr. Quizar's own attempts to put the class back on track were met with frustration. Which of the following responses by Mr. Quizar would provide the best demonstration of reflective practice?",
+        "bbox": [
+            517,
+            91,
+            930,
+            246
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Mr. Quizar gives two of his senior colleagues an account of the afternoon, including a description of his own teaching techniques, and asks for advice and guidance.",
+            "B. Mr. Quizar contacts the parents of several of the students whose behavior was disruptive and urges them to take a more active disciplinary role in their children's lives.",
+            "C. Mr. Quizar rearranges his classroom, removing two particularly popular “independent learning centers” that have been the subject of bickering among his students.",
+            "D. Mr. Quizar begins crafting a plan for a lesson in which students will write letters apologizing for their disruptive actions and outlining how they will improve in the future."
+        ],
+        "bbox": [
+            557,
+            253,
+            932,
+            608
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            29,
+            15,
+            71,
+            44
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Section Two",
+        "bbox": [
+            102,
+            17,
+            188,
+            30
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "PRAXIS: Principles of Learning and Teaching",
+        "bbox": [
+            102,
+            32,
+            404,
+            48
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "226",
+        "bbox": [
+            29,
+            945,
+            60,
+            957
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ANSWERS AND EXPLANATIONS Practice: PLT Grades K-6",
+        "text_level": 2,
+        "bbox": [
+            54,
+            85,
+            442,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. C",
+        "text_level": 2,
+        "bbox": [
+            54,
+            150,
+            100,
+            164
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Allowing ELL students to use nonverbal or verbal means of communicating helps the teacher assess their understanding. Therefore, (C) is the correct answer. Creating a classroom community is crucial to helping ELLs to learn, and prohibiting use of their native language (A) could lead to frustration or resentment. Daily use of mixed-gender groups (B) does not necessarily advance learning, and this strategy is not logically connected to Ms. Sanchez's goal of creating the best environment for English learners. Correcting most errors directly (D) will discourage students and interrupt the flow of the spoken word; the teacher could instead wait until the student is finished and restate the response with the correct language for the student to model in the future.",
+        "bbox": [
+            54,
+            172,
+            466,
+            447
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2. C",
+        "text_level": 2,
+        "bbox": [
+            54,
+            465,
+            100,
+            478
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Choice (C) is the best option. By guiding her students to set up a schedule, Ms. Lane is promoting the self-regulation of students' after-school time. Ms. Lane is not instituting consequences as suggested by choice (A), and she is not addressing students' behavior with one another as in choice (D), since she is prompting students to think about how they spend their time once they have left school. The strategy presented in the question stem to encourage students to better structure their time is quite distinct from choice (B), which suggests that students take more risks and thus think less carefully about how they structure their time.",
+        "bbox": [
+            54,
+            486,
+            475,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. B",
+        "text_level": 2,
+        "bbox": [
+            54,
+            729,
+            100,
+            742
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Choice (B) is the correct answer. Erikson's theory of initiative versus guilt states that children around kindergarten age need to learn by exploring the world and initiating their own activities without too much guidance or restrictions placed on them by adults. Independent play, as described in choice (B), allows a space for children to engage with one another and devise their own methods and solutions to problems. Choices (A) and (D) both suggest that adults will",
+        "bbox": [
+            54,
+            749,
+            471,
+            903
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "be determining all of the children's actions and intervening frequently with overt guidelines. In choice (C), the children would have slightly more autonomy, but the activity has still been determined by an adult.",
+        "bbox": [
+            519,
+            89,
+            934,
+            159
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. A",
+        "text_level": 2,
+        "bbox": [
+            519,
+            176,
+            566,
+            189
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The zone of proximal development (ZPD) theory, when applied to education, is much like scaffolding, challenging students to accomplish with assistance what they may lack the skill and experience to accomplish independently. By writing paragraphs together before attempting to do so separately, struggling students can improve their French writing skills in stages with meaningful assistance; (A) is therefore the correct answer. Translating entire paragraphs into French (B) might, at this point, be extremely challenging for some of the students in this class; the activity therefore does not reflect the tenets of ZPD theory. Showing students well-written examples (C) could offer some benefits, but the activity does not require them to take on challenges with assistance. The personal essay-writing assignment in choice (D) also lacks ZPD theory's crucial element of taking on challenges on the edge of students' competence with assistance.",
+        "bbox": [
+            519,
+            197,
+            936,
+            521
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. D",
+        "text_level": 2,
+        "bbox": [
+            519,
+            540,
+            566,
+            552
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Luz seems to be struggling with her behavior in class, but she tends to do well on her assignments, suggesting that she can easily keep pace with the work. Her declaration that work is “boring” indicates that she may be a gifted student and that more challenging options for her, as described in choice (D), may be the solution. Enforcing punishments as in choices (A) and (C) is unlikely to serve Luz’s best interests or get to the root of the issue, and choice (B) works on extrinsic motivation rather than building Luz’s intrinsic motivation or addressing her desire for more challenging assignments.",
+        "bbox": [
+            519,
+            560,
+            928,
+            765
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. D",
+        "text_level": 2,
+        "bbox": [
+            519,
+            784,
+            566,
+            796
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reflecting on how one learns best and why one might have gained more from different activities is a hallmark of metacognition (D). Metacognition, or “thinking about thinking,” is distinct from problem solving (A), in which students are presented with",
+        "bbox": [
+            519,
+            804,
+            908,
+            887
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Chapter Four",
+        "bbox": [
+            804,
+            15,
+            893,
+            27
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Review of the Principles of Learning and Teaching (PLT) Test",
+        "bbox": [
+            488,
+            30,
+            895,
+            44
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "K",
+        "bbox": [
+            925,
+            15,
+            965,
+            44
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "227",
+        "bbox": [
+            934,
+            951,
+            963,
+            963
+        ],
+        "page_idx": 7
+    }
+]
