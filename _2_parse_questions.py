@@ -8,7 +8,7 @@ from typing import List
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
 from dataclass_ import IndividualQuestionRow
 from dataclass_ import LineTraceRecord
-from dataclass_ import Stage
+from dataclass_ import PipelineStageRunnerWithOutput
 from dataclass_ import TraceAction
 from dataclass_ import columns
 from parse_evaluation._1_parse_answers import AnswerMainbodyFSM
@@ -100,7 +100,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
     def _maybe_set_span_last_itemnumber(self, line):
         """范围声明行（praxis 的 trigger 行本身 / plt 的 span 内 Directions 行）
         把当前 span 的最后一题设为 b。"""
-        question_range = self.exam_format.get_possible_question_range(line)
+        question_range = self.exam_format.maybe_get_span_first_last_itemnumber_from_item_starting_line(line)
         if not question_range:
             return
         first_q, last_q = question_range
@@ -111,7 +111,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         self._updated_in_span_state.last_itemnumber = last_q
 
     def _is_valid_in_span_next_item_start_line(self, line):
-        item_number = self.exam_format.get_possible_item_number(line)
+        item_number = self.exam_format.maybe_get_item_number_from_item_starting_line(line)
         if item_number is None:
             return False
         if item_number != self._next_item_number():
@@ -124,24 +124,29 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
     def _process_line_for_streaming_questions(self, line):
         """Update passage/question state for one consumed span line."""
         if self._is_valid_in_span_next_item_start_line(line):
-            if self._updated_in_span_state.question_number is not None:
-                self._updated_in_span_state.question_number = None
-            elif self._updated_in_span_state.context_lines:
+
+            if bool(self._updated_in_span_state.context_lines):
                 self._record_last_finished_line_action(
                         TraceAction.FINISH_QUESTION_CONTEXT)
-
-            qnum = self.exam_format.get_possible_item_number(line)
+            qnum = self.exam_format.maybe_get_item_number_from_item_starting_line(line)
             self._updated_in_span_state.question_number = qnum
             self.items.append(NumberedItemWithContext(
                     lines=[line],
                     number=qnum,
                     context='\n'.join(self._updated_in_span_state.context_lines).rstrip(),
             ))
+            self.finished_lines_count += 1
+            self._record_last_finished_line_action(
+                    TraceAction.START_ITEM_INSIDE_SPAN)
         else:
             if self._updated_in_span_state.question_number is None:
                 self._updated_in_span_state.context_lines.append(line)
+                action = TraceAction.APPEND_TO_CONTEXT
             else:
                 self.items[-1].lines.append(line)
+                action = TraceAction.APPEND_TO_ITEM
+            self.finished_lines_count += 1
+            self._record_last_finished_line_action(action)
 
     def _consume(self, start_action: str, *, stop_at_question_start=True):
         """从当前 span 起点（self.finished_lines）吃到下一个 span 起点 / EOF，
@@ -151,7 +156,6 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         line = self.lines[self.finished_lines_count]
         self._process_line_for_streaming_questions(line)
         self._maybe_set_span_last_itemnumber(line)
-        self.finished_lines_count += 1
         self._record_last_finished_line_action(start_action)
         while self.finished_lines_count < len(self.lines):
             line = self.lines[self.finished_lines_count]
@@ -161,22 +165,15 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
                 break
             if stop_at_question_start and self.is_next_item_start(line):
                 break
-            action = (
-                    TraceAction.APPEND_ITEM_START_TO_SPAN
-                    if self.exam_format.get_possible_item_number(line)
-                    else TraceAction.APPEND_TO_SPAN
-            )
-            self._process_line_for_streaming_questions(line)
             self._maybe_set_span_last_itemnumber(line)
-            self.finished_lines_count += 1
-            self._record_last_finished_line_action(action)
+            self._process_line_for_streaming_questions(line)
         self._updated_in_span_state = QuestionSpanState()
 
     def _parse_till_context_item_finish(self):
         """passage-question span：从 trigger 行起，吃完整个 span（passage + 其各题）。"""
         self.has_mainbody_started = True
         self._consume(
-                TraceAction.START_SPAN,
+                TraceAction.START_CONTEXT_ITEM_SPAN,
                 stop_at_question_start=False)
 
     def parse_till_item_finish(self):
@@ -225,7 +222,7 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         return self.items
 
 
-class SplitQuestionMainbodyIntoIndividualQuestionsStage(Stage):
+class SplitQuestionMainbodyIntoIndividualQuestionsStage(PipelineStageRunnerWithOutput):
     # …/{dataset}/outputs/questions_mainbody.md -> …/{dataset}/outputs/individual_questions.csv
     output_basename = individual_question_output_csv_basename
 

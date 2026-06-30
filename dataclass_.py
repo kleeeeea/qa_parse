@@ -56,11 +56,13 @@ class TraceAction:
     # question FSM (_2)
     START_SPAN = 'start_span'
     START_INDEPENDENT_ITEM = 'start_independent_item'
-    APPEND_ITEM_START_TO_SPAN = 'append_item_start_to_span'
+    START_ITEM_INSIDE_SPAN = 'start_item_inside_span'
+    APPEND_TO_CONTEXT = 'append_to_context'
     APPEND_TO_SPAN = 'append_to_span'
     FINISH_QUESTION_CONTEXT = 'finish_question_context'
     CLEAR_QUESTION_CONTEXT = 'clear_question_context'
     SKIP = 'skip'
+    START_CONTEXT_ITEM_SPAN = 'start_context_item_span'
 
 
 @dataclass
@@ -113,7 +115,7 @@ class ProblemAndAnswerRow(_HasAnswer, _HasPassageAndQuestion, _HasQuestionNumber
     answer_page_screenshot_paths: str
 
 
-class Stage:
+class PipelineStageRunnerWithOutput:
     """幂等的流水线步骤的公共骨架。
 
     run() 负责所有步骤共有的样板逻辑：推导输出路径 → 输出已存在则跳过
@@ -128,7 +130,10 @@ class Stage:
 
     output_basename: str = None
 
-    def __init__(self, exam_format: ExamFormat , skip_if_output_exists=True):
+    def __init__(self, exam_format: ExamFormat =None, skip_if_output_exists=True):
+        if exam_format is None:
+            from parse_evaluation.exam_formats import PLT
+            exam_format = PLT()
         self.exam_format = exam_format
         self.skip_if_output_exists = skip_if_output_exists
 

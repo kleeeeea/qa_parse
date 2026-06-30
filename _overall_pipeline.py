@@ -6,6 +6,7 @@ from _2_parse_questions import (
 )
 from exam_formats import ExamFormat
 from exam_formats import get_exam_format
+from parse_evaluation._3_join_problems_and_answers import JoinProblemsAndAnswersStage
 from parse_evaluation.exam_formats import EXAM_FORMAT_BY_NAME
 
 
@@ -79,20 +80,24 @@ def run_parse_evaluation_pipeline(
         exam_format = get_exam_format(question_input_document)
         print(f'inferred exam format: {exam_format.name}')
     from parse_evaluation._1_parse_answers import SplitMineruParsedMdIntoAnswerSpansStage
-    SplitMineruParsedMdIntoAnswerSpansStage(
+    answer_output_document = SplitMineruParsedMdIntoAnswerSpansStage(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
     ).run(
         answer_input_document
     )
-    questions_mainbody_md = GetQuestionsMainbodyStage(
-        exam_format=exam_format,
-        skip_if_output_exists=skip_if_output_exists,
-    ).run(question_input_document)
+    # questions_mainbody_md = GetQuestionsMainbodyStage(
+    #     exam_format=exam_format,
+    #     skip_if_output_exists=skip_if_output_exists,
+    # ).run(question_input_document)
     individual_question_csv = SplitQuestionMainbodyIntoIndividualQuestionsStage(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
-    ).run(questions_mainbody_md)
+    ).run(question_input_document)
+    JoinProblemsAndAnswersStage(
+        exam_format=exam_format,
+        skip_if_output_exists=skip_if_output_exists,
+    ).run(individual_question_csv, answer_output_document)
     # joined_output_csv = os.path.join(
     #     os.path.dirname(individual_question_csv), joined_output_csv_basename)
     #
@@ -112,7 +117,7 @@ def run_parse_evaluation_pipeline(
     #     for _row in _reader:
     #         _writer.writerow(asdict(PromptRow(**_row)))
     #         _rows_written += 1
-    # print(f'wrote {_rows_written} prompts to {prompts_output_csv}')
+    # print(f'wrote {_rows_written} prompts to {prompts_output_csv}')(
 
 
 

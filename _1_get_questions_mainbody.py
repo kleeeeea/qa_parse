@@ -2,7 +2,7 @@
 import os
 import re
 
-from dataclass_ import Stage
+from dataclass_ import PipelineStageRunnerWithOutput
 from parse_evaluation.exam_formats import ExamFormat
 from tests.fixture._constants import mineruparsed
 
@@ -35,13 +35,13 @@ def _get_questions_mainbody(md_text, exam_format: ExamFormat):
     def _is_mainbody_start(l):
         if exam_format.is_question_context_start_line(l):
             return True
-        return exam_format.get_possible_item_number(l) == 1
+        return exam_format.maybe_get_item_number_from_item_starting_line(l) == 1
 
     start, end = slice_mainbody(lines, _is_mainbody_start, exam_format.is_question_mainbody_end_line, default_start=0)
     return '\n'.join(lines[start:end]).strip() + '\n'
 
 
-class GetQuestionsMainbodyStage(Stage):
+class GetQuestionsMainbodyStage(PipelineStageRunnerWithOutput):
     # …/{dataset}/{mineru任务目录}/full.md -> …/{dataset}/{mineru任务目录}/questions_mainbody.md
     # output to the same root（输入所在目录，不再依赖全局输出根目录）
     output_basename = 'questions_mainbody.md'

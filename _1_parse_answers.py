@@ -5,12 +5,12 @@ from dataclasses import asdict
 from typing import List
 
 from dataclass_ import AnswerSpanRow
-from dataclass_ import LineTraceRecord
-from dataclass_ import Stage
+from dataclass_ import PipelineStageRunnerWithOutput
 from dataclass_ import TraceAction
-from dataclass_ import columns
 from exam_formats import ExamFormat
+from parse_evaluation.dataclass_ import LineTraceRecord
 from parse_evaluation.dataclass_ import NumberedItem
+from parse_evaluation.dataclass_ import columns
 from tests.fixture._constants import mineruparsed
 
 answerspan_output_csv_basename = 'answer_spans.csv'
@@ -103,7 +103,7 @@ class AnswerMainbodyFSM:
 
     def is_next_item_start(self, line):
         # 答案主体起点：含 "Answers and Explanations" 的顶级标题
-        return self.exam_format.get_possible_item_number(line) == self._next_item_number()
+        return self.exam_format.maybe_get_item_number_from_item_starting_line(line) == self._next_item_number()
 
     def parse_till_item_finish(self, lines):
         """无 passage 的独立题：从题目行起，吃完这一道题。"""
@@ -190,51 +190,20 @@ class AnswerMainbodyFSM:
 #     return start, end
 
 
-def _split_markdown_into_answer_spans(
-        md_text,
-        exam_format: ExamFormat,
-        expected_end_num=None,
-        *,
-        fsm_trace_output_csv=None):
-    """先复用 slice_mainbody 切出答案主体（"Answers and Explanations" 标题起，
-    到下一个非 Passage/Source 顶级标题止；没有答案区则空切片），再复用 _2 的
-    split_into_items：答案号从 1 严格连续递增到 expected_end_num（题目数量），
-    把答案解析里引用的题号挡在外面。expected_end_num 为 None 时不设上界。
-    """
-    lines = md_text.splitlines()
-    fsm = AnswerMainbodyFSM(exam_format=exam_format)
-    parse = fsm.parse(lines)
-    if fsm_trace_output_csv:
-        with open(fsm_trace_output_csv, 'w', newline='') as f:
-            writer = csv.DictWriter(
-                    f,
-                    # 列名从 LineTraceRecord 字段自动导出，避免与 dataclass 漂移
-                    fieldnames=columns(LineTraceRecord),
-            )
-            writer.writeheader()
-            writer.writerows(asdict(r) for r in fsm.line_trace)
-    if expected_end_num is not None:
-        assert expected_end_num == len(parse)
-    return parse
-    # return [{'num': num, 'lines': item_lines}
-    #         for num, item_lines in split_into_items(
-    #             lines[start:end], _detect_answer_start,
-    #             expected_start_num=1, expected_end_num=expected_end_num)]
-
-
 # def _serialize_span(span):
 #     return '\n'.join(span['lines']).strip()
 
 
 
-class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
+class SplitMineruParsedMdIntoAnswerSpansStage(PipelineStageRunnerWithOutput):
     # …/{mineru任务目录}/full.md -> …/{mineru任务目录}/answer_spans.csv
     output_basename = answerspan_output_csv_basename
 
     def _produce(
-            self, output_path, current_mineruparsed,
-            individual_question_output_csv=None):
-        with open(current_mineruparsed) as f:
+            self, output_path, input_path,
+            # individual_question_output_csv=None
+    ):
+        with open(input_path) as f:
             md_text = f.read()
 
         # 先读题目集合（若已产出）：既用于答案号上界（1..题目数量），也用于交叉核对。
@@ -245,25 +214,39 @@ class SplitMineruParsedMdIntoAnswerSpansStage(Stage):
         #     .derive_output_path(
         #         GetQuestionsMainbodyStage().derive_output_path(
         #             current_mineruparsed)))
-        expected = set()
-        if individual_question_output_csv and os.path.exists(individual_question_output_csv):
-            with open(individual_question_output_csv) as f:
-                for row in csv.DictReader(f):
-                    try:
-                        expected.add(int(row['question_number']))
-                    except (KeyError, TypeError, ValueError):
-                        pass
+        # expected = set()
+        # if individual_question_output_csv and os.path.exists(individual_question_output_csv):
+        #     with open(individual_question_output_csv) as f:
+        #         for row in csv.DictReader(f):
+        #             try:
+        #                 expected.add(int(row['question_number']))
+        #             except (KeyError, TypeError, ValueError):
+        #                 pass
 
         fsm_trace_output_csv = os.path.join(
                 os.path.dirname(os.path.abspath(output_path)),
                 answer_fsm_trace_output_csv_basename,
         )
-        spans = _split_markdown_into_answer_spans(
-                md_text,
-                self.exam_format,
-                expected_end_num=len(expected) or None,
-                fsm_trace_output_csv=fsm_trace_output_csv,
-        )
+        # num = None
+        lines = md_text.splitlines()
+        fsm = AnswerMainbodyFSM(exam_format=self.exam_format)
+        parse = fsm.parse(lines)
+        if fsm_trace_output_csv:
+            with open(fsm_trace_output_csv, 'w', newline='') as f1:
+                writer1 = csv.DictWriter(
+                        f1,
+                        # 列名从 LineTraceRecord 字段自动导出，避免与 dataclass 漂移
+                        fieldnames=columns(LineTraceRecord),
+                )
+                writer1.writeheader()
+                writer1.writerows(asdict(r) for r in fsm.line_trace)
+        # if num is not None:
+        #     assert num == len(parse)
+        # return [{'num': num, 'lines': item_lines}
+        #         for num, item_lines in split_into_items(
+        #             lines[start:end], _detect_answer_start,
+        #             expected_start_num=1, expected_end_num=expected_end_num)]
+        spans = parse
         spans = [
                 AnswerSpanRow(
                         answer='\n'.join(

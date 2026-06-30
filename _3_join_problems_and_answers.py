@@ -1,13 +1,13 @@
 import csv
-import os
 from dataclasses import asdict
 
-from dataclass_ import ProblemAndAnswerRow, columns
-from dataclass_ import Stage
-from parse_evaluation._1_split_mineru_parsed_md_into_consecutive_answer_spans import SplitMineruParsedMdIntoAnswerSpansStage
-from tests.fixture._constants import mineruparsed
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
-from _2_split_question_main_body_into_consecutive_problem_spans import SplitQuestionMainbodyIntoIndividualQuestionsStage
+from dataclass_ import ProblemAndAnswerRow
+from dataclass_ import PipelineStageRunnerWithOutput
+from dataclass_ import columns
+from parse_evaluation._1_parse_answers import SplitMineruParsedMdIntoAnswerSpansStage
+from parse_evaluation._2_parse_questions import SplitQuestionMainbodyIntoIndividualQuestionsStage
+from tests.fixture._constants import mineruparsed
 
 joined_output_csv_basename = 'problems_and_answers.csv'
 joined_output_columns = columns(ProblemAndAnswerRow)
@@ -27,53 +27,53 @@ def _load_by_question_number(csv_path):
 
 
 
-def _load_by_question_number(csv_path):
-    rows = {}
-    with open(csv_path, newline='') as f:
-        for row in csv.DictReader(f):
-            try:
-                rows[int(row['question_number'])] = row
-            except (KeyError, TypeError, ValueError):
-                continue
-    return rows
+# def _load_by_question_number(csv_path):
+#     rows = {}
+#     with open(csv_path, newline='') as f:
+#         for row in csv.DictReader(f):
+#             try:
+#                 rows[int(row['question_number'])] = row
+#             except (KeyError, TypeError, ValueError):
+#                 continue
+#     return rows
 
 
-def _write_joined_output(individual_question_csv, answerspan_csv):
-    questions = _load_by_question_number(individual_question_csv)
-    answers = _load_by_question_number(answerspan_csv)
-    all_qnums = sorted(set(questions) | set(answers))
-    output_path = os.path.join(
-        os.path.dirname(os.path.abspath(individual_question_csv)),
-        joined_output_csv_basename,
-    )
+# def _write_joined_output(individual_question_csv, answerspan_csv):
+#     questions = _load_by_question_number(individual_question_csv)
+#     answers = _load_by_question_number(answerspan_csv)
+#     all_qnums = sorted(set(questions) | set(answers))
+#     output_path = os.path.join(
+#         os.path.dirname(os.path.abspath(individual_question_csv)),
+#         joined_output_csv_basename,
+#     )
+#
+#     with open(output_path, 'w', newline='') as f:
+#         writer = csv.DictWriter(f, fieldnames=joined_output_columns)
+#         writer.writeheader()
+#         for qnum in all_qnums:
+#             question = questions.get(qnum) or {}
+#             answer = answers.get(qnum) or {}
+#             writer.writerow(asdict(ProblemAndAnswerRow(
+#                 question_number=str(qnum),
+#                 passage=question.get('passage', ''),
+#                 question=question.get('question', ''),
+#                 answer=answer.get('answer', ''),
+#                 question_page_screenshot_paths=question.get(
+#                     'original_page_screenshot_paths', ''),
+#                 answer_page_screenshot_paths=answer.get(
+#                     'original_page_screenshot_paths', ''),
+#             )))
+#
+#     missing_answers = sorted(set(questions) - set(answers))
+#     missing_questions = sorted(set(answers) - set(questions))
+#     print(f'wrote {len(all_qnums)} joined rows to {output_path}')
+#     if missing_answers:
+#         print(f'  questions without a matching answer: {missing_answers}')
+#     if missing_questions:
+#         print(f'  answers without a matching question: {missing_questions}')
+#     return output_path
 
-    with open(output_path, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=joined_output_columns)
-        writer.writeheader()
-        for qnum in all_qnums:
-            question = questions.get(qnum) or {}
-            answer = answers.get(qnum) or {}
-            writer.writerow(asdict(ProblemAndAnswerRow(
-                question_number=str(qnum),
-                passage=question.get('passage', ''),
-                question=question.get('question', ''),
-                answer=answer.get('answer', ''),
-                question_page_screenshot_paths=question.get(
-                    'original_page_screenshot_paths', ''),
-                answer_page_screenshot_paths=answer.get(
-                    'original_page_screenshot_paths', ''),
-            )))
-
-    missing_answers = sorted(set(questions) - set(answers))
-    missing_questions = sorted(set(answers) - set(questions))
-    print(f'wrote {len(all_qnums)} joined rows to {output_path}')
-    if missing_answers:
-        print(f'  questions without a matching answer: {missing_answers}')
-    if missing_questions:
-        print(f'  answers without a matching question: {missing_questions}')
-    return output_path
-
-class JoinProblemsAndAnswersStage(Stage):
+class JoinProblemsAndAnswersStage(PipelineStageRunnerWithOutput):
     """Outer-join the individual-questions CSV with the answer-spans CSV on
     question_number. Each output row pairs a question's passage + stem +
     choices with its corresponding answer + explanation.
