@@ -8,6 +8,8 @@ from exam_formats import ExamFormat
 from exam_formats import get_exam_format
 from parse_evaluation._3_join_problems_and_answers import JoinProblemsAndAnswersStage
 from parse_evaluation.exam_formats import EXAM_FORMAT_BY_NAME
+from parse_evaluation.exam_formats import PLT
+from parse_evaluation.exam_formats import PLTUnordered
 
 
 def _infer_answer_input_document(question_input_document: str) -> str:
@@ -132,8 +134,8 @@ def main():
         / 'tests' / 'fixture' / 'praxis_plt_sections'
     )
     for n in range(1, 11):
-        # if n != 9:
-        #     continue
+        if n != 3:
+            continue
         plt_dir = sections_dir / f'plt_{n}'
         # 每个数据集的题目 mineru 产物：plt_N/plt_N_question.pdf-<uuid>/full.md
         question_full_mds = sorted(plt_dir.glob('*_question.pdf-*/full.md'))
@@ -150,6 +152,7 @@ def main():
         try:
             run_parse_evaluation_pipeline(
                 question_input_document,
+                exam_format=PLTUnordered() if n==3 else PLT(),
                 skip_if_output_exists=False,
             )
         except Exception as exc:

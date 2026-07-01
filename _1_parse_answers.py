@@ -102,8 +102,11 @@ class AnswerMainbodyFSM:
         ))
 
     def is_next_item_start(self, line):
-        # 答案主体起点：含 "Answers and Explanations" 的顶级标题
-        return self.exam_format.maybe_get_item_number_from_item_starting_line(line) == self._next_item_number()
+        if self.exam_format.is_ordered:
+            # 答案主体起点：含 "Answers and Explanations" 的顶级标题
+            return self.exam_format.maybe_get_item_number_from_item_starting_line(line) == self._next_item_number()
+        else:
+            return self.exam_format.maybe_get_item_number_from_item_starting_line(line) is not None
 
     def parse_till_item_finish(self, lines):
         """无 passage 的独立题：从题目行起，吃完这一道题。"""

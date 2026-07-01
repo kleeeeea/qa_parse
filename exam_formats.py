@@ -19,6 +19,7 @@ def _re_compile(expr: str | re.Pattern, flags=0) -> re.Pattern | None:
 @dataclass(frozen=True)
 class ExamFormat:
     name: str = ''
+    is_ordered: bool = True
 
     def is_answer_mainbody_start_line(self, line):
         # # 答案区里一条答案的起始行（plt 的短答题答案是 "## 1. Sample Response…" 二级标题）
@@ -82,6 +83,20 @@ class ExamFormat:
                 _re_compile(r'^#\s+.*Answers and Explanations', re.IGNORECASE),
         ])
 
+    def is_question_answer_sheet_item_line(self, line: str) -> bool:
+        return bool(_re_compile(
+                r'^\s*\d+\.\s*(?:[A-DⒶⒷⒸⒹⓐⓑⓒⓓ①②③④⑧©⑭]\s*)+$',
+                re.IGNORECASE,
+        ).match(line))
+
+    def is_question_mainbody_start_line(self, line: str) -> bool:
+        if self.is_question_context_span_starting_line(line):
+            return True
+        if self.is_question_non_context_section_starting_line(line):
+            return True
+        item_number = self.maybe_get_item_number_from_item_starting_line(line)
+        return item_number == 1 and not self.is_question_answer_sheet_item_line(line)
+
     def is_question_context_span_starting_line(self, line: str) -> bool:
         # 开启一个新 span 的行——可有多种 trigger，命中任一即算 span 起点
         # （praxis: "Use the following passage…"；plt: "## Case History N"
@@ -89,6 +104,7 @@ class ExamFormat:
         # questions_span_trigger_res: tuple[re.Pattern, ...]
         return any(_re_compile(r).match(line) for r in [
                 r'^##\s+(?:PLT\s+)?Case History \d+(?:\.\d+)?\s*$',
+                _re_compile(r'^##\s+SCENARIO\s+\d+\s*$', re.IGNORECASE),
                 _re_compile(
                         r'^##\s+SCENARIO\s+\d+:\s+.*CASE HISTORY\s*$',
                         re.IGNORECASE,
@@ -98,12 +114,28 @@ class ExamFormat:
                         re.IGNORECASE,
                 ),
                 _re_compile(r'^##\s+Discrete Multiple-Choice Questions\s*$'),
-                _re_compile(r'^\s*Use the following passage', re.IGNORECASE)
+                _re_compile(
+                        r'^Directions:.*questions are not related to the scenarios\b',
+                        re.IGNORECASE,
+                ),
+                _re_compile(r'^\s*Use the following passage', re.IGNORECASE),
         ])
 
     def is_question_non_context_section_starting_line(self, line: str) -> bool:
+        return any(_re_compile(r).match(line) for r in [
+                _re_compile(
+                        r'^##\s+(?:Practice\s+)?PLT Multiple-Choice Questions\b',
+                        re.IGNORECASE,
+                ),
+                _re_compile(
+                        r'^Directions:.*questions are not related to the scenarios\b',
+                        re.IGNORECASE,
+                ),
+        ])
+
+    def is_question_orphan_context_span_starting_line(self, line: str) -> bool:
         return bool(_re_compile(
-                r'^##\s+(?:Practice\s+)?PLT Multiple-Choice Questions\b',
+                r'^##\s+Situation\s*$',
                 re.IGNORECASE,
         ).match(line))
 
@@ -143,6 +175,9 @@ class PraxisReading(ExamFormat):
 class PLT(ExamFormat):
     name: str = 'plt'
 
+@dataclass(frozen=True)
+class PLTUnordered(PLT):
+    is_ordered: bool = False
 
 # 已知卷型登记表；get_exam_format 按内容在其中择一。新增卷型加到这里即可。
 EXAM_FORMATS = (PraxisReading, PLT)

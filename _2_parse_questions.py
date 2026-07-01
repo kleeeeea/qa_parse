@@ -95,6 +95,8 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
 
         self.items: List[NumberedItemWithContext] = []
         self._updated_in_span_state = QuestionSpanState()
+        self._item_number_offset = 0
+        self._allow_local_item_restart = False
 
     def _maybe_set_span_last_itemnumber(self, line):
         """范围声明行（praxis 的 trigger 行本身 / plt 的 span 内 Directions 行）
@@ -103,16 +105,40 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         if not question_range:
             return
         first_q, last_q = question_range
+        first_q = self._effective_item_number(first_q)
+        last_q = self._effective_item_number(last_q)
         if first_q != self._next_item_number():
             print(f'WARNING: range line declares questions {first_q}…{last_q} '
                   f'but the next question should be {self._next_item_number()}')
             raise ValueError(line)
         self._updated_in_span_state.last_itemnumber = last_q
 
-    def _is_valid_in_span_next_item_start_line(self, line):
+    def _effective_item_number(self, item_number: int) -> int:
+        return item_number + self._item_number_offset
+
+    def _maybe_get_effective_item_number_from_line(self, line):
         item_number = self.exam_format.maybe_get_item_number_from_item_starting_line(line)
         if item_number is None:
+            return None
+        effective_item_number = self._effective_item_number(item_number)
+        if effective_item_number == self._next_item_number():
+            return effective_item_number
+        if (
+                self._allow_local_item_restart
+                and item_number == 1
+                and self._next_item_number() > 1
+        ):
+            self._item_number_offset = self._next_item_number() - item_number
+            self._allow_local_item_restart = False
+            return self._next_item_number()
+        return effective_item_number
+
+    def _is_valid_in_span_next_item_start_line(self, line):
+        item_number = self._maybe_get_effective_item_number_from_line(line)
+        if item_number is None:
             return False
+        if not self.exam_format.is_ordered:
+            return True
         if item_number != self._next_item_number():
             return False
         if self._updated_in_span_state.last_itemnumber is not None:
@@ -126,7 +152,11 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
             if self._updated_in_span_state.context_lines:
                 self._record_last_finished_line_action(
                         TraceAction.FINISH_QUESTION_CONTEXT)
-            qnum = self.exam_format.maybe_get_item_number_from_item_starting_line(line)
+            qnum = (
+                    self._next_item_number()
+                    if not self.exam_format.is_ordered
+                    else self._maybe_get_effective_item_number_from_line(line)
+            )
             self._updated_in_span_state.question_number = qnum
             self.items.append(NumberedItemWithContext(
                     lines=[line],
@@ -161,6 +191,11 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
                 break
             if self.exam_format.is_question_context_span_starting_line(line):
                 break
+            if (
+                    self._updated_in_span_state.question_number is not None
+                    and self.exam_format.is_question_orphan_context_span_starting_line(line)
+            ):
+                break
             if self.exam_format.is_question_non_context_section_starting_line(line):
                 break
             if stop_at_question_start and self.is_next_item_start(line):
@@ -185,6 +220,9 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         # 因此 _consume 沿途的 _apply_range 必是 no-op，不会推进首题号——断言之。
         self._consume(TraceAction.START_INDEPENDENT_ITEM)
 
+    def is_next_item_start(self, line):
+        return self._maybe_get_effective_item_number_from_line(line) == self._next_item_number()
+
     def parse(self, md_text) -> List[NumberedItemWithContext]:
         lines = md_text.splitlines()
         self.lines = lines
@@ -192,16 +230,36 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         while self.finished_lines_count < len(lines):
             line = lines[self.finished_lines_count]
             if (
+                    not self.has_mainbody_started
+                    and not self.exam_format.is_question_mainbody_start_line(line)
+            ):
+                self.finished_lines_count += 1
+                self._record_last_finished_line_action(
+                        TraceAction.SKIP_BEFORE_MAINBODY)
+                continue
+            if (
                     self.has_mainbody_started
                     and self.exam_format.is_question_mainbody_end_line(line)
             ):
                 self.finished_lines_count += 1
                 self._record_last_finished_line_action(TraceAction.FINISH_MAINBODY)
                 break
-            if self.exam_format.is_question_context_span_starting_line(line):
+            if (
+                    self.exam_format.is_question_context_span_starting_line(line)
+                    or (
+                            self.has_mainbody_started
+                            and self.exam_format.is_question_orphan_context_span_starting_line(line)
+                    )
+            ):
                 # passage-question span 起点；helper 内部推进 self.finished_lines
                 # 行序列已在 self.lines 里，helper 直接读取，不再传 lines
                 self._parse_till_context_item_finish()
+            elif self.exam_format.is_question_non_context_section_starting_line(line):
+                self.has_mainbody_started = True
+                self._allow_local_item_restart = True
+                self.finished_lines_count += 1
+                self._record_last_finished_line_action(
+                        TraceAction.SKIP_INSIDE_MAINBODY)
             elif self.is_next_item_start(line):
                 # 无 passage 的独立题起点；helper 内部推进 self.finished_lines
                 self.parse_till_item_finish()
