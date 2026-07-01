@@ -134,7 +134,7 @@ def main():
         / 'tests' / 'fixture' / 'praxis_plt_sections'
     )
     for n in range(1, 11):
-        if n != 3:
+        if n != 1:
             continue
         plt_dir = sections_dir / f'plt_{n}'
         # 每个数据集的题目 mineru 产物：plt_N/plt_N_question.pdf-<uuid>/full.md
@@ -152,7 +152,7 @@ def main():
         try:
             run_parse_evaluation_pipeline(
                 question_input_document,
-                exam_format=PLTUnordered() if n==3 else PLT(),
+                exam_format=PLTUnordered() if n in {1,2,3} else PLT(),
                 skip_if_output_exists=False,
             )
         except Exception as exc:

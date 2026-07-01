@@ -137,6 +137,15 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
         item_number = self._maybe_get_effective_item_number_from_line(line)
         if item_number is None:
             return False
+        last_nonempty_context_line = next((
+                context_line
+                for context_line in reversed(
+                        self._updated_in_span_state.context_lines)
+                if context_line.strip()
+        ), '')
+        if self.exam_format.is_question_list_intro_inside_context_line(
+                last_nonempty_context_line):
+            return False
         if not self.exam_format.is_ordered:
             return True
         if item_number != self._next_item_number():

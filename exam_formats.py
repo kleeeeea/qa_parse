@@ -89,6 +89,12 @@ class ExamFormat:
                 re.IGNORECASE,
         ).match(line))
 
+    def is_question_list_intro_inside_context_line(self, line: str) -> bool:
+        return any(_re_compile(r, re.IGNORECASE).search(line) for r in (
+                r'\bwant\s+to\s+answer\s+these\s+questions\s*:\s*$',
+                r'^\s*\d+\.\s+.*\?\s*$',
+        ))
+
     def is_question_mainbody_start_line(self, line: str) -> bool:
         if self.is_question_context_span_starting_line(line):
             return True
@@ -119,12 +125,12 @@ class ExamFormat:
                         re.IGNORECASE,
                 ),
                 _re_compile(r'^\s*Use the following passage', re.IGNORECASE),
-        ])
+        ]) or self.maybe_get_span_first_last_itemnumber_from_item_starting_line(line)
 
     def is_question_non_context_section_starting_line(self, line: str) -> bool:
         return any(_re_compile(r).match(line) for r in [
                 _re_compile(
-                        r'^##\s+(?:Practice\s+)?PLT Multiple-Choice Questions\b',
+                        r'^##\s+(?:Practice\s+)?(?:PLT\s+)?Multiple-Choice Questions\b',
                         re.IGNORECASE,
                 ),
                 _re_compile(
@@ -155,6 +161,11 @@ class ExamFormat:
                     re.compile(
                             r'^\s*Use the following passage.*?questions?\s+(\d+)'
                             r'(?:\s+(?:and|through)\s+(\d+))?',
+                            re.IGNORECASE,
+                    ),
+                    re.compile(
+                            r'^\s*Questions?\s+(\d+)'
+                            r'(?:\s+(?:and|through)\s+(\d+))?\s+are based on\b',
                             re.IGNORECASE,
                     ),
         ):
