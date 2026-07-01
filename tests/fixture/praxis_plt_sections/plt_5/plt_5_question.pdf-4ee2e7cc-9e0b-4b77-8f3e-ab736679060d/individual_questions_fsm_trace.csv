@@ -1,6 +1,6 @@
 finished_lines_count,included_items,action,line,caller_function,caller_location,expected_span_first_question,has_mainbody_started
-1,0,skip_before_mainbody,# Practice PLT Test,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:246,,False
-2,0,skip_before_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:246,,False
+1,0,skip_before_mainbody,# Practice PLT Test,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:255,,False
+2,0,skip_before_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:255,,False
 3,0,append_to_context|start_context_item_span,## SCENARIO 1: K–6 CASE HISTORY,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 4,0,append_to_context,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 5,0,append_to_context,## Situation,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
@@ -310,10 +310,10 @@ finished_lines_count,included_items,action,line,caller_function,caller_location,
 309,12,append_to_item,\- Give TWO recommendations the supervisor might make for effectively dealing with Derek.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 310,12,append_to_item,- Explain why each of the approaches you recommend would be effective. Base your answer on sound principles of instructional planning and human development.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 311,12,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
-312,12,skip_inside_mainbody,## Practice PLT Multiple-Choice Questions,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:270,,True
-313,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
-314,12,skip_inside_mainbody,These questions are not related to the scenarios.,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
-315,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
+312,12,skip_inside_mainbody,## Practice PLT Multiple-Choice Questions,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:279,,True
+313,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
+314,12,skip_inside_mainbody,These questions are not related to the scenarios.,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
+315,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
 316,13,start_item_inside_span|start_independent_item,"1. Teachers on the Carteret Elementary School technology committee are discussing computer use in classrooms. Lee Mombello raises the issue of equity. He says, ""In a country where most homes have a computer and the Internet, many of our students have no access to computers outside the school. With this in mind, which of the following choices is the best policy for the committee to establish about the classroom use of computers?",_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 317,13,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 318,13,append_to_item,(A) Special after-school computer clubs should be set up for students who do not have a computer at home.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True

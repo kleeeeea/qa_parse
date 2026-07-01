@@ -174,8 +174,8 @@ finished_lines_count,included_items,action,line,caller_function,caller_location,
 173,11,append_to_item|finish_question_context,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 174,12,start_item_inside_span,3. Mr. Vanderwerker is worried about finding motivating resources at various reading levels that contain the content he must cover in the themed unit. What can he do to solve this problem?,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 175,12,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
-176,12,skip_inside_mainbody,## Multiple-Choice Questions I,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:270,,True
-177,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
+176,12,skip_inside_mainbody,## Multiple-Choice Questions I,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:279,,True
+177,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
 178,13,start_item_inside_span|start_independent_item,"1. Mr. Fortuin is explaining an individual child's performance on a school-administered test to the child's parents. He explains that this particular test compares the child's performance to that of her classmates and other larger groups. It tells how well she did compared to her classmates on a given set of knowledge, but it does not indicate what information she does and does not know. The score will be given in a percentile, which was derived from raw scores obtained from testing a large population. The test Mr. Fortuin is describing is most likely",_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 179,13,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 180,13,append_to_item,a. an aptitude test.  ,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
@@ -278,8 +278,8 @@ finished_lines_count,included_items,action,line,caller_function,caller_location,
 277,24,append_to_item,c. strayed off the topic.  ,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 278,24,append_to_item,d. copied the information from another classmate or a book.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 279,24,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
-280,24,skip_inside_mainbody,## Multiple-Choice Questions II,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:270,,True
-281,24,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
+280,24,skip_inside_mainbody,## Multiple-Choice Questions II,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:279,,True
+281,24,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
 282,25,start_item_inside_span|start_independent_item,1. Culturally responsive educators,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 283,25,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 284,25,append_to_item,a. encourage children to set aside their own nationalities and take on those of the majority race.  ,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True

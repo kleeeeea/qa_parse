@@ -87,8 +87,8 @@ finished_lines_count,included_items,action,line,caller_function,caller_location,
 86,11,append_to_item|finish_question_context,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 87,12,start_item_inside_span,3. Describe two advantages of integrating technology in content-area instruction.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 88,12,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
-89,12,skip_inside_mainbody,## Multiple-Choice Questions I,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:270,,True
-90,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
+89,12,skip_inside_mainbody,## Multiple-Choice Questions I,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:279,,True
+90,12,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
 91,13,start_item_inside_span|start_independent_item,"1. According to Gardner's theory of multiple intelligences, students with strong kinesthetic intelligence",_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 92,13,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 93,13,append_to_item,a. are adept at reasoning.  ,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
@@ -188,8 +188,8 @@ finished_lines_count,included_items,action,line,caller_function,caller_location,
 187,24,append_to_item,"c. were highly moralistic in nature, modeling honesty, kindness, and truthfulness.  ",_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 188,24,append_to_item,d. denounced autocratic educational practices.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 189,24,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
-190,24,skip_inside_mainbody,## Multiple-Choice Questions II,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:270,,True
-191,24,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:282,,True
+190,24,skip_inside_mainbody,## Multiple-Choice Questions II,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:279,,True
+191,24,skip_inside_mainbody,,parse,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:291,,True
 192,25,start_item_inside_span|start_independent_item,1. Blended literacy instruction is best described as,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:176,,True
 193,25,append_to_item,,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True
 194,25,append_to_item,a. a combination of the emergent literacy and scientifically based reading research approaches to early literacy instruction.,_process_line_for_streaming_questions,/Users/l/klee_code/git_repos/llm_evals/parse_evaluation/_2_parse_questions.py:186,,True

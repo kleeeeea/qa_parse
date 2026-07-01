@@ -185,6 +185,12 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
             self.finished_lines_count += 1
             self._record_last_finished_line_action(action)
 
+    def _can_merge_context_trigger_into_current_span(self) -> bool:
+        return (
+                self._updated_in_span_state.question_number is None
+                and bool(self._updated_in_span_state.context_lines)
+        )
+
     def _consume(self, start_action: str, *, stop_at_question_start=True):
         """从当前 span 起点（self.finished_lines）吃到下一个 span 起点 / EOF，
         沿途处理 range 行并即时产出题目；self.finished_lines 推进到下一个待处理
@@ -198,7 +204,10 @@ class QuestionMainbodyFSM(AnswerMainbodyFSM):
             line = self.lines[self.finished_lines_count]
             if self.exam_format.is_question_mainbody_end_line(line):
                 break
-            if self.exam_format.is_question_context_span_starting_line(line):
+            if (
+                    self.exam_format.is_question_context_span_starting_line(line)
+                    and not self._can_merge_context_trigger_into_current_span()
+            ):
                 break
             if (
                     self._updated_in_span_state.question_number is not None
