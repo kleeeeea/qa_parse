@@ -6,8 +6,8 @@ from _1_get_questions_mainbody import GetQuestionsMainbodyStage
 from _2_parse_questions import (
     SplitQuestionMainbodyIntoIndividualQuestionsStage,
 )
-from exam_formats import ExamFormat
-from exam_formats import get_exam_format
+from parse_evaluation.exam_formats import ExamFormat
+from parse_evaluation.exam_formats import get_exam_format
 from parse_evaluation._3_join_problems_and_answers import JoinProblemsAndAnswersStage
 from parse_evaluation.exam_formats import EXAM_FORMAT_BY_NAME
 from parse_evaluation.exam_formats import PLT
@@ -172,7 +172,7 @@ def main():
         try:
             records_jsonl = run_parse_evaluation_pipeline(
                 question_input_document,
-                exam_format=PLTUnordered() if n in {1,2,3} else PLT(),
+                exam_format=PLTUnordered() if n in {1,2,3,6} else PLT(),
                 skip_if_output_exists=False,
             )
         except Exception as exc:

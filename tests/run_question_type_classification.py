@@ -18,11 +18,11 @@ for p in (str(LLM_EVALS_DIR), str(PARSE_EVALUATION_DIR)):
 from parse_evaluation.dataclass_ import EvaluationRecord, ProblemAndAnswerRow
 
 
-def _classify(ans):
+def _classify(ans, question='q'):
     row = ProblemAndAnswerRow(
             question_number='1',
             passage='',
-            question='q',
+            question=question,
             answer=ans,
             question_page_screenshot_paths='',
             answer_page_screenshot_paths='',
@@ -54,6 +54,25 @@ CASES = [
     ('1. First point. 2. Second point.', 'constructed_response'),
 ]
 
+QUESTION_CASES = [
+    (
+            '',
+            """13. Which of the actions by a teacher is LEAST likely to promote good communication with parents?
+
+(A) Make phone calls to parents.
+(B) Write personal notes on report cards.
+(C) Initiate a series of home/school letters.
+(D) Meet with groups of parents to discuss individual student achievement.""",
+            'selected_response',
+    ),
+    (
+            '',
+            'Describe TWO strategies that Ms. Kelly could use for her approach '
+            'to classroom management.',
+            'constructed_response',
+    ),
+]
+
 
 def main():
     failures = 0
@@ -62,8 +81,13 @@ def main():
         ok = got == expected
         failures += not ok
         print(('OK   ' if ok else 'FAIL ') + repr(ans[:40]) + ' -> ' + got)
+    for ans, question, expected in QUESTION_CASES:
+        got = _classify(ans, question=question)
+        ok = got == expected
+        failures += not ok
+        print(('OK   ' if ok else 'FAIL ') + repr(question[:40]) + ' -> ' + got)
     assert not failures, f'{failures} case(s) failed'
-    print(f'all {len(CASES)} question_type cases passed')
+    print(f'all {len(CASES) + len(QUESTION_CASES)} question_type cases passed')
 
 
 if __name__ == '__main__':

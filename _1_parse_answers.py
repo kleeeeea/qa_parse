@@ -7,7 +7,7 @@ from typing import List
 from dataclass_ import AnswerSpanRow
 from dataclass_ import PipelineStageRunnerWithOutput
 from dataclass_ import TraceAction
-from exam_formats import ExamFormat
+from parse_evaluation.exam_formats import ExamFormat
 from parse_evaluation.dataclass_ import LineTraceRecord
 from parse_evaluation.dataclass_ import NumberedItem
 from parse_evaluation.dataclass_ import columns

@@ -13,8 +13,7 @@ import os
 import re
 from typing import List
 
-from exam_formats import ExamFormat
-from parse_evaluation.exam_formats import PLT
+from parse_evaluation.exam_formats import PLT, ExamFormat
 
 
 def columns(row_cls) -> list[str]:
@@ -233,6 +232,9 @@ sample_record = {
 # define the data class that enforce the above field, and define a serialize method that output list of records to jsonl file
 
 
+constructed_response_type = 'constructed_response'
+
+
 @dataclass
 class EvaluationRecord:
     id: str
@@ -308,6 +310,15 @@ class EvaluationRecord:
                 )
         )
 
+    @staticmethod
+    def _question_looks_selected_response(question: str) -> bool:
+        option_markers = re.findall(
+                r'(?m)^\s*(?:\([A-H]\)|[A-H][.)]|[ⒶⒷⒸⒹⒺⒻⒼⒽ])\s+',
+                question or '',
+                flags=re.IGNORECASE,
+        )
+        return len(option_markers) >= 3
+
     @classmethod
     def from_problem_and_answer_row(
             cls,
@@ -366,8 +377,11 @@ class EvaluationRecord:
             #   简答题答案形如 "## 1. Sample Response …"（题号后是普通词，非单字母选项）
             question_type = (
                     'selected_response'
-                    if cls._answer_looks_selected_response(row.answer)
-                    else 'constructed_response')
+                    if (
+                            cls._answer_looks_selected_response(row.answer)
+                            or cls._question_looks_selected_response(row.question)
+                    )
+                    else constructed_response_type)
         return cls(
                 id=record_id,
                 question=row.question,
