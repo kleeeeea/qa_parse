@@ -81,6 +81,12 @@ class JoinProblemsAndAnswersStage(PipelineStageRunnerWithOutput):
     # …/{mineru任务目录}/individual_questions.csv -> …/{mineru任务目录}/problems_and_answers.csv
     output_basename = joined_output_csv_basename
 
+    def derive_evaluation_record_output_path(self, joined_output_path):
+        return os.path.join(
+                os.path.dirname(os.path.abspath(joined_output_path)),
+                'evaluation_records.jsonl',
+        )
+
     def _produce(self, output_path, current_individual_question_csv, current_answerspan_csv):
         questions = IndividualQuestionRow.read_by_question_number(
                 current_individual_question_csv)
@@ -104,10 +110,8 @@ class JoinProblemsAndAnswersStage(PipelineStageRunnerWithOutput):
                 answer_page_screenshot_paths='',
             ))
         ProblemAndAnswerRow.write_csv(output_path, rows)
-        evaluation_record_output_path = os.path.join(
-                os.path.dirname(os.path.abspath(output_path)),
-                'evaluation_records.jsonl',
-        )
+        evaluation_record_output_path = self.derive_evaluation_record_output_path(
+                output_path)
         EvaluationRecord.serialize_to_jsonl(
                 [
                         EvaluationRecord.from_problem_and_answer_row(

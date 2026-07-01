@@ -252,17 +252,53 @@ class EvaluationRecord:
     @staticmethod
     def _answer_looks_selected_response(answer: str) -> bool:
         answer = answer or ''
+        first_line = next((
+                line for line in answer.splitlines()
+                if line.strip()
+        ), '')
 
         def optional(pattern: str) -> str:
             return f'(?:{pattern})?'
+        def numbered_choice_prefix_looks_selected(line: str) -> bool:
+            match = re.match(
+                    r'^\s*'
+                    + optional(r'##\s+')
+                    + r'\d+\.\s*'
+                    + optional(r'\(')
+                    + r'([A-Z])'
+                    + r'(?=$|[.)]|\s)'
+                    + optional(r'(?P<punct>[.)])')
+                    + optional(r'\s+(?P<following_word>[A-Za-z][\w\'-]*)'),
+                    line,
+                    flags=re.IGNORECASE,
+            )
+            if not match:
+                return False
+            if match.group('punct') or not match.group('following_word'):
+                return True
+            following_word = (
+                    match.group('following_word') or '').casefold()
+            if match.group(1).casefold() == 'a' and following_word in {
+                    'approach',
+                    'method',
+                    'strategy',
+                    'way',
+            }:
+                return False
+            return True
+
+        leading_choice_patterns = (
+                r'^\s*' + optional(r'##\s+') + r'[A-Z]\s*(?:[.)]|$)',
+        )
+        if numbered_choice_prefix_looks_selected(first_line) or any(
+                re.search(pattern, first_line, flags=re.IGNORECASE)
+                for pattern in leading_choice_patterns
+        ):
+            return True
 
         return any(
-                re.search(pattern, answer, flags=re.IGNORECASE | re.MULTILINE)
+                re.search(pattern, answer, flags=re.IGNORECASE)
                 for pattern in (
-                        r'^\s*'
-                        + optional(r'##\s+')
-                        + optional(r'\d+\.\s+')
-                        + r'[A-Z]\s*(?:[.)]|$)',
                         r'\b'
                         + optional(r'correct\s+')
                         + r'answer\s+is\s+'

@@ -33,6 +33,14 @@ def _classify(ans):
 CASES = [
     ('1. d. Only choice d sums up...', 'selected_response'),
     ('4. e. A strong title should...', 'selected_response'),
+    ('3. A Because this approach gives students immediate feedback.',
+     'selected_response'),
+    ('3. D Because this approach gives students immediate feedback.',
+     'selected_response'),
+    ('13.(D) This choice identifies the approach that should not be used.',
+     'selected_response'),
+    ('13. (D) This choice identifies the approach that should not be used.',
+     'selected_response'),
     ('## 1. Sample Response that receives a score of 2:', 'constructed_response'),
     ('C', 'selected_response'),
     ('C. with-it-ness.', 'selected_response'),
@@ -40,6 +48,9 @@ CASES = [
     ('The correct answer is C because...', 'selected_response'),
     ('This item is best answered by option C.', 'selected_response'),
     ('A good teacher would always...', 'constructed_response'),
+    ('3. A method Mr. DeSoto could use to teach students reading '
+     'comprehension strategies is to use explicit strategy instruction.',
+     'constructed_response'),
     ('1. First point. 2. Second point.', 'constructed_response'),
 ]
 

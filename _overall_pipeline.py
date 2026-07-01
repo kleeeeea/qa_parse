@@ -1,3 +1,5 @@
+import csv
+import json
 from pathlib import Path
 
 from _1_get_questions_mainbody import GetQuestionsMainbodyStage
@@ -10,6 +12,8 @@ from parse_evaluation._3_join_problems_and_answers import JoinProblemsAndAnswers
 from parse_evaluation.exam_formats import EXAM_FORMAT_BY_NAME
 from parse_evaluation.exam_formats import PLT
 from parse_evaluation.exam_formats import PLTUnordered
+from parse_evaluation.dataclass_ import EvaluationRecord
+from parse_evaluation.dataclass_ import columns
 
 
 def _infer_answer_input_document(question_input_document: str) -> str:
@@ -60,7 +64,7 @@ def run_parse_evaluation_pipeline(
     exam_format: ExamFormat | None = None,
     *,
     skip_if_output_exists: bool = True,
-) -> None:
+) -> str:
     if (
         answer_input_document in EXAM_FORMAT_BY_NAME
         and exam_format_str == 'plt'
@@ -99,10 +103,14 @@ def run_parse_evaluation_pipeline(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
     ).run(question_input_document)
-    JoinProblemsAndAnswersStage(
+    join_stage = JoinProblemsAndAnswersStage(
         exam_format=exam_format,
         skip_if_output_exists=skip_if_output_exists,
-    ).run(individual_question_csv, answer_output_document)
+    )
+    joined_csv = join_stage.run(individual_question_csv, answer_output_document)
+    # evaluation_records.jsonl 路径由真实的 join 输出导出（不在调用方反推
+    # individual_questions.csv），直接返回给调用方收集。
+    return join_stage.derive_evaluation_record_output_path(joined_csv)
     # joined_output_csv = os.path.join(
     #     os.path.dirname(individual_question_csv), joined_output_csv_basename)
     #
@@ -127,15 +135,27 @@ def run_parse_evaluation_pipeline(
 
 
 
+def _write_records_csv(records, csv_path, fieldnames):
+    """把 records（dict 列表）写成 CSV；options 是 dict/list 时序列化成 JSON 字符串。"""
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for rec in records:
+            row = dict(rec)
+            if isinstance(row.get('options'), (dict, list)):
+                row['options'] = json.dumps(row['options'], ensure_ascii=False)
+            writer.writerow({k: row.get(k, '') for k in fieldnames})
+
+
 def main():
     # 遍历 praxis_plt_sections/plt_1 .. plt_10，对每个数据集跑整条管线。
     sections_dir = (
         Path(__file__).resolve().parent
         / 'tests' / 'fixture' / 'praxis_plt_sections'
     )
+    # run_parse_evaluation_pipeline 返回各数据集的 evaluation_records.jsonl 路径，逐个收集后合并
+    record_jsonl_paths: list[str] = []
     for n in range(1, 11):
-        if n != 1:
-            continue
         plt_dir = sections_dir / f'plt_{n}'
         # 每个数据集的题目 mineru 产物：plt_N/plt_N_question.pdf-<uuid>/full.md
         question_full_mds = sorted(plt_dir.glob('*_question.pdf-*/full.md'))
@@ -150,13 +170,51 @@ def main():
         # 不传 exam_format —— 由题目文档内容自动推断
         # 单个数据集失败不应中断整批：捕获、打印、继续下一个。
         try:
-            run_parse_evaluation_pipeline(
+            records_jsonl = run_parse_evaluation_pipeline(
                 question_input_document,
                 exam_format=PLTUnordered() if n in {1,2,3} else PLT(),
                 skip_if_output_exists=False,
             )
         except Exception as exc:
             print(f'!!! plt_{n} failed: {type(exc).__name__}: {exc}')
+            records_jsonl = None
+        # pipeline 直接返回本数据集产出的 jsonl 路径，无需在此反推
+        if records_jsonl and Path(records_jsonl).is_file():
+            record_jsonl_paths.append(records_jsonl)
+
+    # 合并所有数据集的 jsonl 到一个总文件（每行一条记录，直接逐行透传），
+    # 顺便解析出每条记录，供下面导出 CSV / 按题型拆分复用。
+    merged_path = sections_dir / 'evaluation_records_merged.jsonl'
+    merged_records: list[dict] = []
+    with open(merged_path, 'w', encoding='utf-8') as out:
+        for jsonl_path in record_jsonl_paths:
+            with open(jsonl_path, encoding='utf-8') as f:
+                for line in f:
+                    if not line.strip():
+                        continue
+                    out.write(line if line.endswith('\n') else line + '\n')
+                    merged_records.append(json.loads(line))
+    print(f'merged {len(merged_records)} records from {len(record_jsonl_paths)} '
+          f'dataset(s) into {merged_path}')
+
+    # 同一批记录再导出一份 CSV（列名取自 EvaluationRecord 字段）。
+    fieldnames = columns(EvaluationRecord)
+    merged_csv_path = merged_path.with_suffix('.csv')
+    _write_records_csv(merged_records, merged_csv_path, fieldnames)
+    print(f'wrote {len(merged_records)} records to {merged_csv_path}')
+
+    # 按 EvaluationRecord.type 拆分：每种题型单独产出一份 jsonl + csv。
+    by_type: dict[str, list[dict]] = {}
+    for rec in merged_records:
+        by_type.setdefault(rec.get('type') or 'unknown', []).append(rec)
+    for rtype, recs in sorted(by_type.items()):
+        type_jsonl = sections_dir / f'evaluation_records_{rtype}.jsonl'
+        with open(type_jsonl, 'w', encoding='utf-8') as out:
+            for rec in recs:
+                out.write(json.dumps(rec, ensure_ascii=False) + '\n')
+        _write_records_csv(recs, type_jsonl.with_suffix('.csv'), fieldnames)
+        print(f'  [{rtype}] {len(recs)} records -> '
+              f'{type_jsonl.name} + {type_jsonl.with_suffix(".csv").name}')
 
 
 if __name__ == '__main__':
